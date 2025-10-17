@@ -54,31 +54,31 @@ Proyecto desarrollado aplicando conceptos de Big Data, Vs Code, Python, MongoDB 
 Jaime Llanos Bardales
 Fecha: 17.10.2025
 ```
-🧱 Estructura de Datos Simulada
+## 🧱 Estructura de Datos Simulada
 Archivo: pacientes.csv
 Crear un archivo pacientes.csv en la carpeta /data con la siguiente estructura:
 id_paciente	nombre	edad	sexo	distrito	servicio	fecha_atencion	monto
 P001	Ana Torres	34	F	Miraflores	Odontología	2024-11-15	150
 P002	Luis Pérez	42	M	Surco	Pediatría	2024-10-21	250
-🔍 Fases del Proyecto
+# 🔍 Fases del Proyecto
 🧩 Fase 1 – Creación de Archivos
-Crear carpetas data, database, reports, ci, git y scripts y estructura base del proyecto usando os y pathlib en tiempo de ejecución
+    Crear carpetas data, database, reports, ci, git y scripts y estructura base del proyecto usando os y pathlib en tiempo de ejecución
 🧩 Fase 2 – Definición de Esquema
-Generar un archivo base CSV (base.csv) con la estructura indicada.
+    Generar un archivo base CSV (base.csv) con la estructura indicada.
 🧩 Fase 3 – Generación de Datos Aleatorios
-Generar un archivo CSV (pacientes.csv) con 3000 registros simulados, que incluya campos nulos, NA, entre otros
+    Generar un archivo CSV (pacientes.csv) con 3000 registros simulados, que incluya campos nulos, NA, entre otros
 🧩 Fase 4 – ETL (Limpieza de Datos)
-•	Eliminar duplicados
-•	Rellenar valores nulos en campos de transporte o destino
-•	Formatear fechas
-•	Validar tipos de datos
-Guardar como pacientes_clean.csv.
+    •	Eliminar duplicados
+    •	Rellenar valores nulos en campos de transporte o destino
+    •	Formatear fechas
+    •	Validar tipos de datos
+    Guardar como pacientes_clean.csv.
 🧩 Fase 5 – Carga en MongoDB
-Crear base de datos SaludDigital_2025 y colección pacientes
-Insertar los registros limpios desde CSV.
+    Crear base de datos SaludDigital_2025 y colección pacientes
+    Insertar los registros limpios desde CSV.
 🧩 Fase 6 – Visualización de Datos
-Usar matplotlib y pandas para mostrar:
-1.	Gráfico de barras: número de pacientes atendidos por servicio.
-2.	Gráfico circular: distribución por sexo.
-3.	Histograma: distribución de edades.
-4.	Reporte tabular: promedio de montos por distrito.
+    Usar matplotlib y pandas para mostrar:
+    1.	Gráfico de barras: número de pacientes atendidos por servicio.
+    2.	Gráfico circular: distribución por sexo.
+    3.	Histograma: distribución de edades.
+    4.	Reporte tabular: promedio de montos por distrito.
