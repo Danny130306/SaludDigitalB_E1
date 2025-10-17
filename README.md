@@ -84,3 +84,13 @@ P002	Luis Pérez	42	M	Surco	Pediatría	2024-10-21	250
     4.	Reporte tabular: promedio de montos por distrito.
 
 ## CONCLUSIONES
+### Integración exitosa
+Se logró conectar y automatizar todas las fases del análisis de datos en salud usando Python, MongoDB, VS Code, Git/GitHub y Jenkins.
+### Calidad de datos
+El proceso ETL permitió transformar datos dispersos y con errores en información limpia y confiable para el análisis.
+### Visualización útil
+Los gráficos y reportes generados ofrecen una visión clara sobre los servicios más demandados, la distribución de pacientes y el comportamiento económico por distrito.
+### Automatización y control
+El uso de un orquestador y la integración continua facilitan la ejecución, validación y mantenimiento del flujo de trabajo.
+### Escalabilidad
+El proyecto está bien documentado y estructurado, lo que permite su adaptación y crecimiento para futuros análisis o equipos.
