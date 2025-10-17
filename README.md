@@ -82,3 +82,5 @@ P002	Luis Pérez	42	M	Surco	Pediatría	2024-10-21	250
     2.	Gráfico circular: distribución por sexo.
     3.	Histograma: distribución de edades.
     4.	Reporte tabular: promedio de montos por distrito.
+
+## CONCLUSIONES
