@@ -1,0 +1,3001 @@
+id_paciente,nombre,edad,sexo,distrito,servicio,fecha_atencion,monto
+P0001,Luis Pérez,,NA,Miraflores,Odontología,2024-02-03,NA
+P0002,Pedro Ruiz,NA,NA,Miraflores,NA,2023-10-23,
+P0003,Carlos Díaz,NA,M,San Isidro,Emergencia,2023-08-10,NA
+P0004,María López,NA,F,Miraflores,Pediatría,2024-07-02,119.79
+P0005,Jorge Salas,NA,NA,,Laboratorio,2023-01-31,233.08
+P0006,Lucía Gómez,83,F,Surco,Cardiología,2023-05-01,NA
+P0007,Lucía Gómez,NA,F,Surco,Laboratorio,2023-01-29,NA
+P0008,Ana Torres,NA,NA,Miraflores,,2023-10-08,
+P0009,Pedro Ruiz,83,NA,NA,Odontología,2024-10-27,
+P0010,Lucía Gómez,NA,,San Borja,Cardiología,2024-09-17,NA
+P0011,Luis Pérez,,M,NA,Pediatría,2024-09-27,NA
+P0012,María López,NA,NA,San Borja,,2024-06-11,398.16
+P0013,Luis Pérez,NA,NA,NA,Laboratorio,2023-08-21,NA
+P0014,Ana Torres,,M,Surco,Odontología,2023-05-01,NA
+P0015,Luis Pérez,,M,La Molina,NA,2023-02-22,
+P0016,Carlos Díaz,89,NA,Miraflores,Laboratorio,2023-05-20,NA
+P0017,Pedro Ruiz,81,NA,Miraflores,Laboratorio,2024-08-21,NA
+P0018,Jorge Salas,56,M,,,2024-10-31,71.69
+P0019,María López,64,NA,Miraflores,Cardiología,2023-10-18,NA
+P0020,María López,NA,F,NA,Emergencia,2024-07-01,250.73
+P0021,Jorge Salas,NA,M,San Borja,NA,2023-02-12,NA
+P0022,Ana Torres,NA,NA,Miraflores,Cardiología,2023-10-29,NA
+P0023,Pedro Ruiz,6,F,San Isidro,NA,2023-04-20,466.2
+P0024,Luis Pérez,30,,San Borja,Laboratorio,2024-11-10,156.98
+P0025,Carlos Díaz,36,,Surco,,2023-11-11,
+P0026,Luis Pérez,,NA,La Molina,Odontología,2024-11-18,258.48
+P0027,Ana Torres,53,NA,NA,Odontología,2024-01-27,116.56
+P0028,Pedro Ruiz,,F,San Isidro,Emergencia,2024-06-17,68.1
+P0029,Carlos Díaz,23,,NA,,2023-10-21,125.91
+P0030,Ana Torres,40,M,,NA,2023-08-01,NA
+P0031,Lucía Gómez,,NA,San Isidro,Emergencia,2024-10-31,
+P0032,María López,80,NA,NA,Odontología,2024-12-09,NA
+P0033,Luis Pérez,NA,M,San Isidro,Odontología,2023-03-27,NA
+P0034,María López,13,NA,Miraflores,,2023-06-19,
+P0035,Ana Torres,NA,M,,Laboratorio,2024-07-25,
+P0036,Pedro Ruiz,,F,NA,Pediatría,2024-04-06,
+P0037,María López,14,F,San Borja,NA,2024-04-17,
+P0038,Luis Pérez,,M,La Molina,,2024-10-22,279.48
+P0039,Carlos Díaz,NA,M,Surco,Pediatría,2024-06-27,
+P0040,Pedro Ruiz,28,M,San Borja,Laboratorio,2024-10-10,422.46
+P0041,Carlos Díaz,55,F,Surco,Cardiología,2023-12-14,
+P0042,Luis Pérez,1,F,San Borja,Pediatría,2024-11-04,328.63
+P0043,Luis Pérez,60,NA,San Isidro,Laboratorio,2023-09-13,
+P0044,Pedro Ruiz,,NA,Surco,Odontología,2024-09-07,NA
+P0045,Lucía Gómez,36,NA,,Pediatría,2023-08-11,
+P0046,María López,,F,San Isidro,,2023-11-04,NA
+P0047,Ana Torres,83,M,San Borja,NA,2024-01-02,NA
+P0048,Pedro Ruiz,45,NA,San Borja,Emergencia,2024-10-08,
+P0049,María López,NA,M,,Emergencia,2024-11-10,140.05
+P0050,Pedro Ruiz,,,,Pediatría,2023-11-09,NA
+P0051,María López,,M,Miraflores,Laboratorio,2024-11-03,NA
+P0052,Jorge Salas,,,,Odontología,2023-05-07,NA
+P0053,Ana Torres,28,NA,La Molina,Laboratorio,2024-02-01,
+P0054,Carlos Díaz,18,NA,,Pediatría,2024-07-09,
+P0055,María López,59,NA,San Isidro,,2023-04-28,
+P0056,María López,NA,NA,San Isidro,Pediatría,2023-01-13,NA
+P0057,Luis Pérez,NA,,La Molina,Emergencia,2023-03-15,
+P0058,María López,87,NA,San Borja,Cardiología,2023-03-01,
+P0059,Ana Torres,49,NA,NA,Pediatría,2024-12-20,NA
+P0060,Luis Pérez,NA,M,San Borja,Laboratorio,2023-09-05,344.73
+P0061,Pedro Ruiz,,NA,Surco,Cardiología,2023-09-14,NA
+P0062,Carlos Díaz,74,F,San Isidro,Odontología,2023-04-24,
+P0063,Luis Pérez,NA,,Miraflores,Cardiología,2024-07-18,306.3
+P0064,Ana Torres,54,NA,NA,,2023-08-19,
+P0065,Ana Torres,16,NA,,Odontología,2023-08-06,
+P0066,Luis Pérez,,F,,Pediatría,2024-07-14,
+P0067,Carlos Díaz,,NA,Miraflores,Laboratorio,2024-08-17,309.7
+P0068,Luis Pérez,,M,San Borja,,2023-03-14,364.34
+P0069,Carlos Díaz,,F,Miraflores,Cardiología,2023-01-07,72.0
+P0070,Lucía Gómez,84,M,San Isidro,Odontología,2024-02-03,NA
+P0071,María López,,M,La Molina,Laboratorio,2023-01-24,
+P0072,Carlos Díaz,72,M,Surco,Emergencia,2023-08-15,352.9
+P0073,María López,60,M,San Borja,Laboratorio,2023-12-14,
+P0074,Ana Torres,45,NA,Surco,Emergencia,2024-06-17,
+P0075,Lucía Gómez,79,,La Molina,,2023-11-05,177.18
+P0076,Carlos Díaz,NA,NA,San Isidro,Cardiología,2023-06-07,150.87
+P0077,Luis Pérez,NA,,NA,Cardiología,2023-10-23,373.57
+P0078,Luis Pérez,NA,M,San Borja,Odontología,2023-04-16,
+P0079,Pedro Ruiz,,NA,Miraflores,Odontología,2024-01-02,NA
+P0080,María López,NA,F,,Pediatría,2024-04-02,NA
+P0081,Lucía Gómez,42,M,La Molina,Emergencia,2024-10-04,
+P0082,Carlos Díaz,,F,La Molina,Odontología,2024-05-10,354.18
+P0083,Lucía Gómez,NA,M,,Cardiología,2024-03-07,460.0
+P0084,Carlos Díaz,81,,Miraflores,,2023-04-02,177.62
+P0085,Lucía Gómez,46,,Miraflores,Pediatría,2024-02-26,254.5
+P0086,Carlos Díaz,84,NA,San Isidro,,2023-04-17,
+P0087,María López,NA,NA,,Laboratorio,2023-05-09,180.19
+P0088,Pedro Ruiz,NA,,San Borja,Emergencia,2023-08-01,
+P0089,Luis Pérez,NA,F,NA,Pediatría,2023-02-05,472.78
+P0090,Ana Torres,90,M,San Borja,Pediatría,2024-03-02,401.21
+P0091,Carlos Díaz,,F,,Laboratorio,2024-02-22,
+P0092,Jorge Salas,NA,M,Surco,Laboratorio,2023-05-07,206.61
+P0093,Luis Pérez,,F,NA,Cardiología,2023-09-16,
+P0094,Lucía Gómez,,M,,NA,2023-08-02,
+P0095,María López,,,San Borja,Laboratorio,2023-07-25,72.19
+P0096,María López,64,F,,Emergencia,2023-08-19,316.18
+P0097,Lucía Gómez,NA,M,NA,NA,2023-05-07,NA
+P0098,Ana Torres,NA,M,NA,NA,2023-02-18,186.5
+P0099,Luis Pérez,,M,San Isidro,Odontología,2024-08-05,128.71
+P0100,Ana Torres,31,F,Miraflores,Laboratorio,2023-04-09,NA
+P0101,Carlos Díaz,,NA,NA,Pediatría,2023-10-23,NA
+P0102,María López,,NA,,,2024-11-27,NA
+P0103,Luis Pérez,NA,,,Pediatría,2023-12-14,164.42
+P0104,Luis Pérez,,,Surco,Odontología,2024-02-21,497.78
+P0105,Lucía Gómez,NA,M,San Isidro,Odontología,2024-08-31,
+P0106,Ana Torres,NA,NA,San Isidro,Pediatría,2023-11-06,NA
+P0107,Pedro Ruiz,,,La Molina,Cardiología,2023-02-06,NA
+P0108,Luis Pérez,NA,M,,Odontología,2024-09-10,477.77
+P0109,Lucía Gómez,NA,NA,Surco,Pediatría,2023-12-21,
+P0110,Ana Torres,1,F,Miraflores,,2024-05-18,NA
+P0111,Ana Torres,0,,Miraflores,Pediatría,2024-05-26,NA
+P0112,Pedro Ruiz,75,F,Surco,Cardiología,2024-11-03,
+P0113,Luis Pérez,69,,Surco,Odontología,2023-07-30,
+P0114,Pedro Ruiz,,NA,San Borja,Pediatría,2023-12-30,141.51
+P0115,Pedro Ruiz,67,NA,La Molina,Odontología,2024-10-15,NA
+P0116,Luis Pérez,,,,,2023-01-25,424.2
+P0117,Lucía Gómez,,,Surco,Cardiología,2024-12-24,
+P0118,Jorge Salas,39,F,NA,Emergencia,2023-01-03,NA
+P0119,Lucía Gómez,NA,F,Surco,NA,2024-10-28,
+P0120,María López,84,NA,Surco,Cardiología,2024-10-19,168.13
+P0121,Pedro Ruiz,49,F,Surco,,2024-11-03,NA
+P0122,Carlos Díaz,43,F,NA,NA,2024-07-29,
+P0123,Jorge Salas,,NA,,Emergencia,2023-10-29,444.44
+P0124,Jorge Salas,NA,NA,La Molina,,2024-03-27,NA
+P0125,Ana Torres,48,M,Miraflores,Laboratorio,2023-08-27,
+P0126,María López,20,NA,Surco,Cardiología,2024-06-25,163.75
+P0127,Carlos Díaz,NA,,Surco,Laboratorio,2024-10-01,
+P0128,Carlos Díaz,,F,San Isidro,Pediatría,2023-02-16,267.4
+P0129,Carlos Díaz,NA,,Miraflores,NA,2024-02-06,NA
+P0130,María López,NA,F,NA,Pediatría,2023-01-20,NA
+P0131,Carlos Díaz,,,Surco,Odontología,2024-12-31,346.26
+P0132,Jorge Salas,NA,,Miraflores,Odontología,2024-04-25,NA
+P0133,Pedro Ruiz,NA,F,La Molina,Odontología,2023-05-16,
+P0134,Luis Pérez,,,,NA,2023-02-28,
+P0135,Ana Torres,28,M,Surco,NA,2024-07-28,441.23
+P0136,Carlos Díaz,,,NA,Laboratorio,2024-02-16,
+P0137,Luis Pérez,NA,M,NA,Odontología,2023-12-09,
+P0138,Jorge Salas,NA,,,Laboratorio,2024-04-20,494.06
+P0139,María López,47,M,La Molina,Pediatría,2024-09-02,NA
+P0140,Luis Pérez,90,F,NA,Emergencia,2023-01-05,278.8
+P0141,Pedro Ruiz,NA,F,Surco,,2024-02-01,NA
+P0142,Carlos Díaz,NA,M,,Cardiología,2023-12-20,
+P0143,María López,,F,La Molina,NA,2023-05-12,
+P0144,Ana Torres,65,F,NA,Cardiología,2024-09-28,368.62
+P0145,Ana Torres,3,NA,San Borja,NA,2024-08-23,205.23
+P0146,Jorge Salas,NA,M,La Molina,Pediatría,2023-10-17,NA
+P0147,Pedro Ruiz,NA,M,San Borja,Cardiología,2024-10-15,414.49
+P0148,Lucía Gómez,NA,,Surco,Pediatría,2024-09-11,200.98
+P0149,Ana Torres,NA,M,La Molina,Pediatría,2023-09-25,NA
+P0150,Lucía Gómez,,F,San Isidro,Emergencia,2024-07-19,NA
+P0151,Ana Torres,NA,NA,Surco,Odontología,2024-05-14,206.52
+P0152,Pedro Ruiz,,NA,San Isidro,NA,2023-06-16,NA
+P0153,Ana Torres,NA,M,Miraflores,Odontología,2024-11-03,127.43
+P0154,Lucía Gómez,,,Miraflores,Laboratorio,2024-07-02,
+P0155,Carlos Díaz,,F,NA,Odontología,2023-03-14,341.73
+P0156,Ana Torres,NA,,Surco,NA,2023-11-28,51.88
+P0157,Pedro Ruiz,,M,,NA,2023-10-06,224.16
+P0158,María López,,NA,La Molina,Laboratorio,2023-03-12,NA
+P0159,Lucía Gómez,82,F,La Molina,NA,2024-07-14,285.28
+P0160,Pedro Ruiz,61,M,NA,Pediatría,2023-06-03,
+P0161,Carlos Díaz,,NA,San Isidro,,2024-11-01,
+P0162,Carlos Díaz,85,NA,NA,,2023-11-29,
+P0163,Ana Torres,70,F,,Odontología,2023-11-17,
+P0164,Pedro Ruiz,NA,M,La Molina,Emergencia,2023-05-20,NA
+P0165,Ana Torres,NA,,Miraflores,Odontología,2023-01-03,
+P0166,Lucía Gómez,79,M,San Borja,NA,2024-12-20,
+P0167,Carlos Díaz,65,F,Miraflores,Emergencia,2023-03-15,64.12
+P0168,Carlos Díaz,,F,La Molina,NA,2024-06-28,132.87
+P0169,Jorge Salas,,M,San Isidro,Pediatría,2023-03-12,251.97
+P0170,Pedro Ruiz,,,San Borja,Laboratorio,2023-10-08,NA
+P0171,Lucía Gómez,NA,NA,San Borja,NA,2024-01-12,115.13
+P0172,María López,,,San Borja,Emergencia,2023-11-19,
+P0173,Carlos Díaz,NA,F,San Isidro,Odontología,2023-05-20,340.35
+P0174,María López,,NA,Miraflores,Odontología,2024-05-05,NA
+P0175,Carlos Díaz,NA,NA,,Cardiología,2024-07-16,486.37
+P0176,María López,38,F,La Molina,Emergencia,2024-03-24,
+P0177,María López,NA,M,NA,Laboratorio,2023-09-18,
+P0178,María López,NA,NA,NA,,2023-01-25,
+P0179,Pedro Ruiz,,F,NA,Pediatría,2024-01-12,
+P0180,Ana Torres,,M,,Emergencia,2024-05-09,
+P0181,María López,NA,NA,La Molina,Emergencia,2024-05-18,78.36
+P0182,María López,,M,Miraflores,Pediatría,2024-02-08,NA
+P0183,Jorge Salas,71,M,,,2023-06-24,NA
+P0184,Pedro Ruiz,NA,M,San Isidro,,2023-11-19,NA
+P0185,Carlos Díaz,90,F,Miraflores,Pediatría,2023-10-03,NA
+P0186,Ana Torres,NA,F,Miraflores,,2024-02-07,487.46
+P0187,Luis Pérez,,M,La Molina,Cardiología,2024-07-10,
+P0188,Luis Pérez,,,Miraflores,Odontología,2023-02-03,380.81
+P0189,Carlos Díaz,NA,,San Isidro,Pediatría,2023-11-04,NA
+P0190,Jorge Salas,NA,NA,Miraflores,,2023-10-27,
+P0191,María López,,M,Surco,NA,2024-04-25,NA
+P0192,Lucía Gómez,,M,San Isidro,Odontología,2024-08-08,
+P0193,María López,26,NA,NA,Pediatría,2024-11-19,
+P0194,Luis Pérez,,F,,Laboratorio,2023-01-22,NA
+P0195,Carlos Díaz,,,NA,,2023-07-26,
+P0196,Carlos Díaz,NA,M,San Isidro,Cardiología,2023-06-14,433.63
+P0197,Carlos Díaz,89,F,La Molina,Laboratorio,2023-09-17,
+P0198,Lucía Gómez,NA,NA,Surco,Laboratorio,2023-11-09,118.05
+P0199,Ana Torres,,M,San Borja,Cardiología,2024-07-24,
+P0200,Carlos Díaz,,,San Borja,Laboratorio,2023-08-09,70.08
+P0201,Pedro Ruiz,,M,San Borja,Pediatría,2024-11-05,NA
+P0202,María López,,,San Isidro,Cardiología,2024-10-14,NA
+P0203,Carlos Díaz,,,San Borja,Cardiología,2023-12-10,
+P0204,Luis Pérez,28,M,San Borja,,2024-06-22,NA
+P0205,Pedro Ruiz,86,NA,NA,,2024-08-30,
+P0206,María López,42,F,Miraflores,Odontología,2023-02-26,
+P0207,Pedro Ruiz,NA,,Miraflores,Emergencia,2023-10-08,444.22
+P0208,Ana Torres,NA,NA,Miraflores,Laboratorio,2024-11-18,NA
+P0209,Jorge Salas,NA,M,Miraflores,Laboratorio,2024-03-30,
+P0210,Carlos Díaz,NA,F,La Molina,Laboratorio,2023-04-12,
+P0211,Pedro Ruiz,,,La Molina,Cardiología,2023-02-09,NA
+P0212,Jorge Salas,7,NA,San Isidro,Odontología,2024-06-01,
+P0213,Carlos Díaz,,,NA,Odontología,2024-09-15,265.15
+P0214,Luis Pérez,12,M,Surco,Emergencia,2023-02-17,
+P0215,Ana Torres,88,M,San Borja,Cardiología,2024-02-17,NA
+P0216,Jorge Salas,NA,M,Surco,NA,2023-09-29,NA
+P0217,Pedro Ruiz,19,F,NA,Emergencia,2023-07-14,
+P0218,Carlos Díaz,48,M,Miraflores,Pediatría,2024-01-24,485.34
+P0219,María López,,F,Surco,Laboratorio,2024-10-29,NA
+P0220,Jorge Salas,NA,F,Miraflores,Odontología,2023-05-19,324.24
+P0221,Ana Torres,,F,La Molina,,2023-10-05,NA
+P0222,Pedro Ruiz,,NA,Miraflores,,2024-05-08,NA
+P0223,Pedro Ruiz,19,NA,San Isidro,Odontología,2024-03-07,
+P0224,Luis Pérez,NA,,San Borja,,2024-04-16,NA
+P0225,Pedro Ruiz,NA,F,La Molina,Emergencia,2024-12-03,NA
+P0226,Ana Torres,27,NA,NA,,2024-08-18,
+P0227,María López,51,,San Isidro,Odontología,2024-02-08,248.78
+P0228,María López,33,,NA,Laboratorio,2023-05-24,88.72
+P0229,María López,,F,San Isidro,,2024-11-19,120.26
+P0230,Pedro Ruiz,4,NA,,Cardiología,2024-04-02,477.18
+P0231,Luis Pérez,60,NA,San Borja,Pediatría,2023-10-17,NA
+P0232,Pedro Ruiz,,F,Miraflores,Cardiología,2023-02-13,
+P0233,Lucía Gómez,1,NA,San Borja,Odontología,2023-09-24,NA
+P0234,Ana Torres,,NA,,Pediatría,2024-12-21,NA
+P0235,Ana Torres,NA,,Miraflores,Emergencia,2023-12-15,
+P0236,Lucía Gómez,,F,Surco,Cardiología,2023-03-24,
+P0237,Lucía Gómez,,F,San Isidro,Laboratorio,2023-05-07,
+P0238,Pedro Ruiz,,,,NA,2024-09-17,280.45
+P0239,Luis Pérez,,M,Miraflores,,2023-10-09,NA
+P0240,Jorge Salas,50,,San Borja,,2024-01-14,NA
+P0241,Lucía Gómez,72,M,La Molina,Pediatría,2024-12-27,
+P0242,Ana Torres,NA,M,San Isidro,NA,2024-12-08,NA
+P0243,María López,54,NA,Miraflores,Cardiología,2023-05-30,
+P0244,Pedro Ruiz,51,M,San Isidro,Emergencia,2023-03-05,NA
+P0245,María López,30,F,Surco,Emergencia,2023-01-12,
+P0246,Pedro Ruiz,NA,,San Isidro,Laboratorio,2023-06-09,NA
+P0247,María López,1,F,La Molina,Emergencia,2024-08-15,NA
+P0248,Carlos Díaz,NA,F,San Borja,NA,2024-03-17,
+P0249,Pedro Ruiz,11,M,San Borja,,2024-11-09,257.15
+P0250,Carlos Díaz,NA,M,,,2023-11-03,NA
+P0251,Carlos Díaz,62,,NA,Pediatría,2024-01-01,NA
+P0252,Ana Torres,34,F,NA,Odontología,2024-08-27,
+P0253,Lucía Gómez,,,La Molina,Laboratorio,2024-05-30,
+P0254,Pedro Ruiz,33,,,Emergencia,2023-08-28,
+P0255,Lucía Gómez,53,F,San Isidro,NA,2023-08-07,NA
+P0256,Carlos Díaz,8,F,,Cardiología,2023-09-14,NA
+P0257,Lucía Gómez,NA,M,San Isidro,Laboratorio,2024-05-09,NA
+P0258,Ana Torres,3,NA,NA,Pediatría,2023-10-30,82.59
+P0259,María López,24,M,Miraflores,Cardiología,2023-07-23,124.71
+P0260,Ana Torres,63,,,Pediatría,2024-01-12,NA
+P0261,Jorge Salas,84,,San Isidro,NA,2023-12-11,
+P0262,Lucía Gómez,NA,F,NA,Emergencia,2024-12-11,52.87
+P0263,Ana Torres,34,NA,San Isidro,Odontología,2023-05-06,
+P0264,Carlos Díaz,,F,NA,NA,2023-04-16,
+P0265,María López,NA,F,Surco,Pediatría,2024-07-03,
+P0266,Carlos Díaz,NA,M,La Molina,Odontología,2024-03-07,227.16
+P0267,Lucía Gómez,NA,F,Surco,NA,2023-11-14,NA
+P0268,Luis Pérez,1,NA,Miraflores,NA,2023-10-19,
+P0269,María López,NA,NA,La Molina,Pediatría,2023-09-01,329.61
+P0270,Lucía Gómez,,NA,San Isidro,NA,2023-07-10,
+P0271,Luis Pérez,NA,NA,La Molina,Cardiología,2024-04-18,490.88
+P0272,Ana Torres,,NA,,Emergencia,2024-03-28,
+P0273,Pedro Ruiz,52,F,La Molina,Emergencia,2023-08-27,
+P0274,Lucía Gómez,NA,M,,Pediatría,2023-12-22,NA
+P0275,Ana Torres,NA,F,San Isidro,,2024-07-09,69.01
+P0276,María López,32,,San Borja,Emergencia,2024-01-01,84.5
+P0277,Pedro Ruiz,NA,F,San Borja,Emergencia,2023-05-03,92.44
+P0278,Lucía Gómez,41,F,La Molina,Cardiología,2023-09-19,NA
+P0279,Luis Pérez,NA,NA,San Borja,Pediatría,2024-04-24,
+P0280,Luis Pérez,NA,,,Odontología,2024-11-06,200.89
+P0281,Lucía Gómez,,F,Miraflores,Laboratorio,2024-12-05,
+P0282,Jorge Salas,8,,San Borja,,2024-05-23,439.67
+P0283,Luis Pérez,,M,San Borja,Laboratorio,2023-01-25,108.53
+P0284,Ana Torres,NA,F,,Laboratorio,2024-04-28,
+P0285,Luis Pérez,67,NA,NA,Laboratorio,2024-11-22,209.15
+P0286,Ana Torres,NA,,Surco,Emergencia,2023-10-22,NA
+P0287,Jorge Salas,NA,,NA,,2023-05-26,286.43
+P0288,Carlos Díaz,60,F,San Borja,Emergencia,2024-12-03,
+P0289,María López,NA,NA,Surco,Laboratorio,2023-08-18,402.01
+P0290,Lucía Gómez,,F,NA,Pediatría,2024-12-20,NA
+P0291,María López,NA,M,Surco,NA,2023-07-01,NA
+P0292,Jorge Salas,NA,NA,San Borja,Pediatría,2024-02-16,
+P0293,Ana Torres,NA,F,San Isidro,Odontología,2023-11-15,385.31
+P0294,Luis Pérez,,F,La Molina,Cardiología,2023-08-26,
+P0295,Lucía Gómez,,F,La Molina,,2023-04-29,NA
+P0296,Ana Torres,,M,NA,,2023-01-20,478.35
+P0297,María López,,M,Surco,Emergencia,2024-11-04,100.8
+P0298,Ana Torres,54,,San Isidro,,2023-10-20,333.51
+P0299,María López,33,F,NA,Pediatría,2024-10-15,144.36
+P0300,Pedro Ruiz,,F,Miraflores,Emergencia,2023-02-15,
+P0301,Jorge Salas,NA,,Surco,Odontología,2023-11-23,NA
+P0302,Lucía Gómez,17,,San Isidro,Emergencia,2023-07-02,305.01
+P0303,Pedro Ruiz,,M,San Isidro,NA,2024-10-23,
+P0304,Ana Torres,20,,NA,,2023-12-29,
+P0305,Carlos Díaz,0,,Surco,Pediatría,2023-05-26,NA
+P0306,Luis Pérez,NA,M,San Isidro,Odontología,2024-07-03,NA
+P0307,Jorge Salas,,F,NA,,2023-01-08,273.09
+P0308,Jorge Salas,71,M,NA,Odontología,2024-12-09,428.37
+P0309,Luis Pérez,,NA,,Laboratorio,2024-11-08,162.15
+P0310,María López,31,F,,Odontología,2023-05-31,272.38
+P0311,María López,86,NA,La Molina,Laboratorio,2023-10-27,NA
+P0312,Pedro Ruiz,1,M,San Isidro,Emergencia,2023-04-28,NA
+P0313,Ana Torres,NA,NA,,Pediatría,2023-10-27,437.83
+P0314,Pedro Ruiz,,,Surco,Pediatría,2023-02-19,NA
+P0315,Lucía Gómez,NA,NA,San Borja,Odontología,2024-05-17,196.95
+P0316,Lucía Gómez,,F,La Molina,,2023-08-21,493.62
+P0317,Carlos Díaz,NA,F,NA,Odontología,2023-10-27,NA
+P0318,Ana Torres,NA,NA,,Laboratorio,2023-12-13,NA
+P0319,Luis Pérez,,,,Emergencia,2023-04-25,268.02
+P0320,Luis Pérez,51,NA,La Molina,Cardiología,2024-06-25,476.7
+P0321,Luis Pérez,28,,Miraflores,Emergencia,2023-07-02,79.9
+P0322,María López,NA,,Surco,NA,2023-01-28,NA
+P0323,María López,4,NA,La Molina,,2024-11-20,NA
+P0324,Luis Pérez,26,F,Miraflores,Emergencia,2023-03-17,424.84
+P0325,Pedro Ruiz,NA,F,San Isidro,Emergencia,2024-08-29,363.26
+P0326,Carlos Díaz,,,Surco,NA,2023-04-14,256.62
+P0327,Lucía Gómez,NA,NA,San Isidro,Odontología,2024-12-12,314.27
+P0328,Lucía Gómez,,M,,NA,2024-03-11,NA
+P0329,Pedro Ruiz,NA,NA,La Molina,Cardiología,2024-02-11,NA
+P0330,Lucía Gómez,,,La Molina,Emergencia,2023-06-22,NA
+P0331,Ana Torres,75,M,,,2024-06-08,261.0
+P0332,Ana Torres,NA,NA,NA,Pediatría,2024-03-16,NA
+P0333,Ana Torres,NA,,San Isidro,Cardiología,2023-06-04,
+P0334,Carlos Díaz,NA,F,Miraflores,Cardiología,2024-02-29,
+P0335,Pedro Ruiz,NA,,NA,Laboratorio,2024-09-24,NA
+P0336,Pedro Ruiz,NA,NA,Miraflores,Pediatría,2023-07-08,NA
+P0337,Jorge Salas,,M,La Molina,Emergencia,2024-07-08,
+P0338,Carlos Díaz,NA,F,NA,Emergencia,2023-10-14,284.3
+P0339,Luis Pérez,44,,NA,NA,2023-03-14,
+P0340,Lucía Gómez,NA,NA,Miraflores,Odontología,2023-09-09,NA
+P0341,María López,,F,San Isidro,Laboratorio,2024-08-29,334.55
+P0342,Pedro Ruiz,,,NA,Odontología,2023-01-25,
+P0343,Ana Torres,NA,NA,La Molina,Emergencia,2023-05-22,NA
+P0344,Ana Torres,65,M,Surco,Pediatría,2024-08-27,
+P0345,Carlos Díaz,,M,,Pediatría,2024-02-03,279.65
+P0346,María López,41,F,La Molina,Laboratorio,2024-03-20,NA
+P0347,Luis Pérez,NA,M,La Molina,Odontología,2023-08-07,NA
+P0348,Jorge Salas,,F,Surco,Emergencia,2024-05-03,NA
+P0349,Carlos Díaz,,,La Molina,Pediatría,2023-04-19,338.22
+P0350,Lucía Gómez,NA,NA,San Isidro,Cardiología,2024-11-09,NA
+P0351,Carlos Díaz,NA,F,,Cardiología,2024-03-23,NA
+P0352,Lucía Gómez,NA,F,Miraflores,NA,2024-11-21,NA
+P0353,Ana Torres,17,M,San Isidro,Odontología,2024-07-14,
+P0354,María López,NA,M,,Pediatría,2023-02-14,
+P0355,Lucía Gómez,80,F,San Borja,NA,2025-01-01,52.05
+P0356,Luis Pérez,,,,Pediatría,2024-08-16,
+P0357,Luis Pérez,,M,NA,,2024-05-18,
+P0358,María López,,,Miraflores,Emergencia,2023-08-24,NA
+P0359,Carlos Díaz,45,,San Borja,,2024-08-06,NA
+P0360,Lucía Gómez,53,F,La Molina,Laboratorio,2023-03-30,NA
+P0361,Carlos Díaz,,,Miraflores,Odontología,2024-01-22,NA
+P0362,Ana Torres,NA,F,La Molina,Pediatría,2024-02-15,NA
+P0363,Lucía Gómez,69,,,Emergencia,2024-11-18,
+P0364,Pedro Ruiz,87,M,,Emergencia,2023-02-03,
+P0365,Carlos Díaz,33,M,,Laboratorio,2024-08-14,
+P0366,Pedro Ruiz,NA,,Miraflores,Pediatría,2023-12-20,NA
+P0367,María López,78,NA,San Isidro,Pediatría,2024-06-11,NA
+P0368,Luis Pérez,NA,F,La Molina,Laboratorio,2023-12-16,NA
+P0369,Lucía Gómez,,F,,Laboratorio,2023-06-07,
+P0370,María López,,F,La Molina,Odontología,2023-12-11,
+P0371,Luis Pérez,,NA,,Pediatría,2024-05-28,
+P0372,Ana Torres,48,F,Miraflores,Emergencia,2024-01-11,NA
+P0373,Carlos Díaz,,NA,,Cardiología,2023-08-06,NA
+P0374,Carlos Díaz,,M,Surco,Laboratorio,2024-07-15,NA
+P0375,Lucía Gómez,3,NA,San Borja,Emergencia,2023-10-25,NA
+P0376,Jorge Salas,,M,La Molina,Pediatría,2023-04-21,204.64
+P0377,Jorge Salas,,M,,Odontología,2024-07-27,
+P0378,Ana Torres,,,Miraflores,Laboratorio,2023-08-24,NA
+P0379,Carlos Díaz,NA,,NA,Emergencia,2023-12-26,307.66
+P0380,Pedro Ruiz,,,La Molina,Pediatría,2024-07-08,NA
+P0381,María López,,NA,San Isidro,Odontología,2023-01-12,
+P0382,Ana Torres,56,F,,Laboratorio,2024-01-03,
+P0383,Jorge Salas,NA,F,La Molina,Cardiología,2023-12-24,NA
+P0384,Pedro Ruiz,NA,,Miraflores,NA,2024-12-25,108.18
+P0385,Pedro Ruiz,NA,NA,Miraflores,Cardiología,2024-05-08,284.1
+P0386,Lucía Gómez,,NA,Miraflores,Laboratorio,2024-07-10,NA
+P0387,Lucía Gómez,NA,F,San Isidro,Laboratorio,2024-03-09,NA
+P0388,Carlos Díaz,,M,Miraflores,Cardiología,2024-04-19,280.97
+P0389,Ana Torres,NA,M,Surco,,2023-02-04,NA
+P0390,Pedro Ruiz,,,San Isidro,Pediatría,2023-01-31,233.57
+P0391,María López,NA,,San Borja,Cardiología,2023-09-09,414.38
+P0392,Jorge Salas,18,,San Isidro,Cardiología,2023-08-08,321.2
+P0393,Pedro Ruiz,NA,F,NA,Cardiología,2024-03-22,302.41
+P0394,Carlos Díaz,,,Miraflores,Cardiología,2023-09-17,
+P0395,Ana Torres,NA,,San Isidro,Odontología,2024-02-09,198.91
+P0396,María López,NA,M,Miraflores,NA,2024-01-02,227.98
+P0397,Carlos Díaz,17,F,,,2024-05-08,
+P0398,Jorge Salas,NA,NA,San Isidro,,2024-05-27,214.49
+P0399,Pedro Ruiz,,NA,Surco,Odontología,2024-11-27,330.32
+P0400,Jorge Salas,18,M,Miraflores,Cardiología,2024-09-26,108.27
+P0401,Ana Torres,NA,,Miraflores,,2023-06-24,350.84
+P0402,Luis Pérez,,NA,San Isidro,Emergencia,2023-05-20,
+P0403,Carlos Díaz,NA,M,La Molina,Pediatría,2023-09-25,
+P0404,Luis Pérez,NA,F,Surco,Pediatría,2024-04-22,455.25
+P0405,Carlos Díaz,2,M,NA,Emergencia,2024-10-14,284.98
+P0406,Pedro Ruiz,6,F,La Molina,,2024-12-30,NA
+P0407,Lucía Gómez,NA,M,NA,Emergencia,2023-01-24,NA
+P0408,Pedro Ruiz,27,M,La Molina,Cardiología,2024-12-06,
+P0409,Ana Torres,NA,M,La Molina,,2024-01-07,NA
+P0410,Lucía Gómez,NA,,San Borja,Cardiología,2024-01-03,
+P0411,Carlos Díaz,75,,La Molina,Pediatría,2024-10-20,
+P0412,María López,NA,F,Surco,,2024-08-23,NA
+P0413,Jorge Salas,51,,San Isidro,Pediatría,2024-03-12,NA
+P0414,Lucía Gómez,90,NA,La Molina,NA,2023-05-23,NA
+P0415,Carlos Díaz,NA,,San Borja,Emergencia,2024-01-31,174.66
+P0416,Lucía Gómez,3,,,Pediatría,2024-07-05,NA
+P0417,Pedro Ruiz,16,,,,2023-12-24,
+P0418,Luis Pérez,58,F,San Isidro,Pediatría,2023-03-26,
+P0419,Ana Torres,NA,F,Miraflores,Odontología,2024-06-11,NA
+P0420,Ana Torres,,F,,Odontología,2023-05-26,305.2
+P0421,Ana Torres,NA,,San Isidro,Pediatría,2024-10-07,NA
+P0422,Ana Torres,NA,F,,Cardiología,2024-04-01,155.86
+P0423,Carlos Díaz,NA,M,La Molina,NA,2023-10-07,NA
+P0424,Ana Torres,NA,,,Pediatría,2023-07-18,NA
+P0425,Jorge Salas,1,F,San Isidro,Pediatría,2023-07-23,
+P0426,Ana Torres,,,Surco,Pediatría,2023-11-10,
+P0427,Luis Pérez,,NA,,Odontología,2023-03-26,157.45
+P0428,María López,NA,M,La Molina,Laboratorio,2023-09-14,
+P0429,Jorge Salas,,,San Isidro,Emergencia,2024-02-25,NA
+P0430,Luis Pérez,,NA,Miraflores,Odontología,2023-05-18,108.93
+P0431,María López,41,M,NA,Pediatría,2023-07-31,NA
+P0432,Luis Pérez,39,F,Miraflores,Pediatría,2023-08-27,NA
+P0433,Pedro Ruiz,NA,NA,San Borja,NA,2023-11-19,NA
+P0434,María López,,M,San Borja,NA,2024-07-19,NA
+P0435,Pedro Ruiz,,NA,,Cardiología,2024-07-09,NA
+P0436,Lucía Gómez,NA,NA,,,2023-07-11,NA
+P0437,Carlos Díaz,NA,F,San Borja,Laboratorio,2024-12-19,94.5
+P0438,Jorge Salas,,NA,,Pediatría,2024-10-07,429.94
+P0439,Pedro Ruiz,42,M,San Isidro,Pediatría,2023-11-17,NA
+P0440,Luis Pérez,,NA,NA,Emergencia,2023-07-29,
+P0441,Carlos Díaz,,M,Surco,Pediatría,2023-08-05,NA
+P0442,Ana Torres,,,San Borja,Emergencia,2024-12-15,344.68
+P0443,Jorge Salas,,F,Miraflores,NA,2023-10-06,363.23
+P0444,Pedro Ruiz,34,M,La Molina,Cardiología,2023-03-05,
+P0445,Luis Pérez,67,F,Surco,Laboratorio,2023-06-14,54.93
+P0446,María López,NA,NA,,Laboratorio,2023-12-15,
+P0447,Pedro Ruiz,NA,,NA,Pediatría,2023-11-06,293.0
+P0448,Luis Pérez,,,San Borja,,2023-09-30,NA
+P0449,Ana Torres,74,NA,Miraflores,,2023-02-07,405.66
+P0450,Ana Torres,NA,,,Odontología,2023-02-07,NA
+P0451,Pedro Ruiz,NA,M,,Cardiología,2024-07-16,NA
+P0452,Ana Torres,44,,NA,Cardiología,2024-06-21,NA
+P0453,Carlos Díaz,NA,NA,NA,NA,2024-03-05,76.03
+P0454,Lucía Gómez,45,,San Isidro,Laboratorio,2023-08-29,
+P0455,María López,NA,F,,Odontología,2023-10-19,NA
+P0456,Jorge Salas,,M,La Molina,Laboratorio,2024-01-17,
+P0457,María López,60,F,San Isidro,Laboratorio,2023-07-09,481.52
+P0458,Carlos Díaz,84,F,Surco,Odontología,2024-11-21,
+P0459,Pedro Ruiz,NA,F,,,2024-04-04,NA
+P0460,Carlos Díaz,,M,NA,Emergencia,2023-08-29,NA
+P0461,Jorge Salas,NA,NA,NA,Laboratorio,2024-12-22,NA
+P0462,Lucía Gómez,,F,La Molina,,2024-08-10,191.89
+P0463,Luis Pérez,NA,NA,,Cardiología,2024-03-23,NA
+P0464,Jorge Salas,11,,La Molina,NA,2023-12-26,316.32
+P0465,Jorge Salas,,F,NA,Odontología,2024-08-13,NA
+P0466,Ana Torres,62,NA,Miraflores,Cardiología,2023-06-21,
+P0467,María López,NA,NA,,Cardiología,2024-10-19,NA
+P0468,Pedro Ruiz,NA,F,La Molina,NA,2024-09-16,
+P0469,Pedro Ruiz,NA,M,San Borja,,2024-11-28,NA
+P0470,María López,,F,NA,NA,2023-03-26,50.49
+P0471,Lucía Gómez,28,F,NA,Pediatría,2023-09-13,245.01
+P0472,Ana Torres,,F,Surco,Laboratorio,2023-02-26,68.39
+P0473,Carlos Díaz,NA,,La Molina,Emergencia,2023-08-04,253.67
+P0474,María López,,NA,,Pediatría,2023-11-03,136.97
+P0475,Ana Torres,,M,San Isidro,,2024-01-05,
+P0476,Pedro Ruiz,41,F,San Borja,Cardiología,2023-08-11,NA
+P0477,Jorge Salas,14,NA,,,2023-08-19,
+P0478,María López,NA,,Miraflores,Laboratorio,2023-06-19,433.54
+P0479,María López,NA,M,San Isidro,NA,2024-08-07,495.81
+P0480,Luis Pérez,45,M,La Molina,Cardiología,2023-08-25,NA
+P0481,Pedro Ruiz,49,F,NA,Emergencia,2024-01-11,122.37
+P0482,Ana Torres,65,M,NA,NA,2023-05-03,422.98
+P0483,Luis Pérez,25,,NA,Laboratorio,2024-07-28,NA
+P0484,Jorge Salas,NA,F,Miraflores,,2024-12-30,NA
+P0485,Pedro Ruiz,NA,,San Isidro,Emergencia,2024-09-19,
+P0486,Lucía Gómez,70,,Miraflores,Odontología,2024-03-10,NA
+P0487,Luis Pérez,88,F,NA,Cardiología,2024-04-18,
+P0488,Ana Torres,NA,NA,NA,Odontología,2024-10-29,141.81
+P0489,María López,68,NA,NA,Emergencia,2024-06-04,
+P0490,Pedro Ruiz,69,M,La Molina,Odontología,2024-11-01,NA
+P0491,Ana Torres,,NA,San Isidro,Odontología,2024-01-08,
+P0492,Lucía Gómez,47,M,La Molina,Laboratorio,2023-03-27,NA
+P0493,Ana Torres,48,,La Molina,Odontología,2024-08-11,461.46
+P0494,Lucía Gómez,45,M,San Isidro,Odontología,2024-06-27,NA
+P0495,Carlos Díaz,NA,,San Isidro,Laboratorio,2023-09-10,NA
+P0496,Carlos Díaz,24,,,Laboratorio,2023-07-13,
+P0497,Luis Pérez,4,F,La Molina,Cardiología,2023-02-21,
+P0498,Luis Pérez,73,M,NA,Emergencia,2024-02-23,
+P0499,Pedro Ruiz,67,NA,La Molina,NA,2023-04-23,NA
+P0500,Pedro Ruiz,,,San Isidro,NA,2023-02-04,
+P0501,Carlos Díaz,NA,M,San Borja,Emergencia,2023-02-24,NA
+P0502,Luis Pérez,47,F,San Borja,Odontología,2023-09-05,NA
+P0503,Lucía Gómez,31,F,,Odontología,2024-01-31,150.02
+P0504,Pedro Ruiz,,,NA,Odontología,2023-01-30,NA
+P0505,Luis Pérez,NA,M,San Isidro,Emergencia,2024-01-10,445.0
+P0506,Pedro Ruiz,,F,Surco,Cardiología,2024-02-05,387.97
+P0507,Ana Torres,,M,,Laboratorio,2023-08-03,
+P0508,Pedro Ruiz,20,M,Surco,Pediatría,2024-06-08,336.78
+P0509,Pedro Ruiz,21,NA,San Isidro,Emergencia,2023-02-24,NA
+P0510,Pedro Ruiz,NA,,Surco,Odontología,2024-02-08,NA
+P0511,Jorge Salas,NA,NA,San Isidro,Pediatría,2023-04-15,72.8
+P0512,Jorge Salas,NA,NA,,Pediatría,2024-09-13,209.05
+P0513,María López,59,F,,Pediatría,2023-11-22,
+P0514,Carlos Díaz,78,F,San Isidro,Pediatría,2023-09-17,
+P0515,Ana Torres,,M,San Isidro,Pediatría,2024-04-29,NA
+P0516,María López,52,F,,,2024-10-21,221.04
+P0517,Carlos Díaz,NA,,San Isidro,Emergencia,2023-07-24,
+P0518,Pedro Ruiz,,F,Miraflores,Laboratorio,2023-09-06,253.46
+P0519,Luis Pérez,,,Miraflores,Emergencia,2023-09-23,NA
+P0520,Ana Torres,,M,,Laboratorio,2023-05-29,
+P0521,Pedro Ruiz,,F,San Isidro,Emergencia,2024-02-02,62.79
+P0522,Lucía Gómez,,NA,Miraflores,Laboratorio,2024-02-06,139.07
+P0523,Luis Pérez,NA,M,,NA,2024-05-26,
+P0524,María López,,M,NA,Emergencia,2024-01-29,90.11
+P0525,Carlos Díaz,NA,F,,Laboratorio,2023-02-20,
+P0526,María López,NA,,San Isidro,Laboratorio,2023-11-26,
+P0527,Luis Pérez,,F,,Odontología,2024-07-29,236.01
+P0528,Carlos Díaz,,,Miraflores,Pediatría,2023-04-21,359.47
+P0529,Ana Torres,,,Miraflores,,2024-05-29,
+P0530,Carlos Díaz,23,F,San Borja,Odontología,2024-05-29,
+P0531,Ana Torres,,,San Borja,Laboratorio,2023-08-29,
+P0532,Luis Pérez,,NA,NA,Pediatría,2023-07-19,269.31
+P0533,Pedro Ruiz,,,San Borja,Odontología,2024-11-25,
+P0534,Luis Pérez,,,Surco,Cardiología,2024-03-04,NA
+P0535,María López,,M,San Isidro,,2023-01-12,289.84
+P0536,Lucía Gómez,NA,M,La Molina,Laboratorio,2024-06-17,NA
+P0537,Jorge Salas,,,NA,Cardiología,2023-06-02,365.94
+P0538,Luis Pérez,NA,NA,Surco,Pediatría,2023-10-30,
+P0539,Pedro Ruiz,41,F,,Cardiología,2023-04-26,150.21
+P0540,Pedro Ruiz,NA,,La Molina,Odontología,2024-07-26,
+P0541,Pedro Ruiz,68,F,San Isidro,Emergencia,2024-11-23,
+P0542,Luis Pérez,78,NA,San Borja,,2024-04-15,NA
+P0543,Lucía Gómez,NA,NA,Miraflores,,2024-06-14,NA
+P0544,Carlos Díaz,NA,,Miraflores,,2024-03-31,NA
+P0545,Pedro Ruiz,56,,San Borja,Emergencia,2023-06-06,NA
+P0546,María López,,,Miraflores,,2024-11-13,
+P0547,Ana Torres,,F,,NA,2024-01-01,NA
+P0548,Ana Torres,NA,,La Molina,Pediatría,2024-08-17,283.59
+P0549,Luis Pérez,NA,F,San Borja,Emergencia,2024-03-30,
+P0550,María López,,M,San Borja,Laboratorio,2024-08-02,
+P0551,Carlos Díaz,NA,M,NA,Cardiología,2023-11-21,NA
+P0552,Pedro Ruiz,22,M,Miraflores,NA,2024-04-22,
+P0553,Pedro Ruiz,NA,NA,NA,Laboratorio,2023-11-05,497.88
+P0554,Luis Pérez,NA,NA,Surco,Odontología,2023-01-13,476.34
+P0555,María López,NA,,NA,NA,2023-10-05,NA
+P0556,Pedro Ruiz,NA,,Surco,Odontología,2023-07-10,NA
+P0557,Carlos Díaz,NA,,Surco,Cardiología,2024-11-13,
+P0558,Lucía Gómez,NA,M,La Molina,Emergencia,2024-03-29,446.34
+P0559,Ana Torres,,NA,,,2024-03-13,
+P0560,Pedro Ruiz,,NA,NA,Pediatría,2023-09-23,480.86
+P0561,Ana Torres,,NA,San Borja,Cardiología,2023-10-02,91.88
+P0562,Carlos Díaz,,F,Miraflores,,2023-11-03,446.12
+P0563,Pedro Ruiz,5,F,Surco,NA,2023-05-22,NA
+P0564,María López,,F,Miraflores,,2024-01-05,155.58
+P0565,Lucía Gómez,NA,M,La Molina,Pediatría,2024-07-15,
+P0566,Carlos Díaz,72,M,Miraflores,Cardiología,2024-08-05,205.43
+P0567,Lucía Gómez,NA,F,NA,NA,2023-07-20,
+P0568,Pedro Ruiz,,,,Emergencia,2023-01-15,360.19
+P0569,Jorge Salas,84,F,Miraflores,Cardiología,2023-04-17,92.71
+P0570,Jorge Salas,,,Miraflores,NA,2023-12-04,NA
+P0571,Carlos Díaz,,,Miraflores,Laboratorio,2023-07-30,304.08
+P0572,Carlos Díaz,NA,NA,La Molina,Emergencia,2023-04-01,
+P0573,María López,38,NA,San Borja,,2023-09-28,NA
+P0574,Lucía Gómez,NA,NA,La Molina,Emergencia,2024-06-11,
+P0575,Ana Torres,87,NA,San Borja,Emergencia,2023-02-06,405.93
+P0576,Carlos Díaz,,F,San Isidro,Cardiología,2023-05-30,160.61
+P0577,Carlos Díaz,73,M,NA,Odontología,2023-08-18,NA
+P0578,Carlos Díaz,73,,Surco,,2023-10-09,NA
+P0579,Ana Torres,NA,,Surco,Laboratorio,2023-05-31,NA
+P0580,Luis Pérez,,NA,San Borja,Odontología,2024-06-05,
+P0581,Lucía Gómez,15,NA,Surco,,2024-10-26,
+P0582,María López,,F,San Isidro,,2024-02-07,NA
+P0583,Pedro Ruiz,,NA,Miraflores,Laboratorio,2024-05-04,NA
+P0584,Pedro Ruiz,NA,NA,La Molina,Cardiología,2023-05-30,397.47
+P0585,Carlos Díaz,64,F,,NA,2024-12-19,351.88
+P0586,Carlos Díaz,NA,M,San Isidro,Cardiología,2024-08-21,
+P0587,María López,,NA,La Molina,NA,2023-05-24,NA
+P0588,Lucía Gómez,60,,San Isidro,NA,2023-08-10,
+P0589,Ana Torres,,NA,NA,Emergencia,2024-01-18,NA
+P0590,Luis Pérez,,NA,Surco,Odontología,2024-10-09,NA
+P0591,Jorge Salas,,NA,NA,NA,2023-09-29,
+P0592,María López,NA,F,San Isidro,NA,2023-11-24,
+P0593,María López,,M,NA,,2024-11-17,
+P0594,Ana Torres,6,M,La Molina,NA,2023-08-18,NA
+P0595,Jorge Salas,,F,NA,Laboratorio,2024-11-15,
+P0596,Ana Torres,,M,NA,Pediatría,2024-03-20,NA
+P0597,Ana Torres,NA,M,San Borja,Odontología,2024-04-03,268.88
+P0598,María López,16,,San Borja,Emergencia,2023-08-17,NA
+P0599,Luis Pérez,62,M,San Isidro,Laboratorio,2023-04-04,486.23
+P0600,Carlos Díaz,NA,,Miraflores,Cardiología,2024-09-29,462.91
+P0601,Lucía Gómez,35,NA,NA,Cardiología,2023-11-25,350.25
+P0602,Ana Torres,28,NA,La Molina,Pediatría,2024-08-21,
+P0603,Pedro Ruiz,NA,NA,,Odontología,2024-02-20,230.71
+P0604,Jorge Salas,,,La Molina,,2023-01-26,
+P0605,Pedro Ruiz,NA,F,NA,Odontología,2023-06-11,198.98
+P0606,Jorge Salas,11,M,Surco,Laboratorio,2023-09-09,NA
+P0607,Pedro Ruiz,5,F,Surco,Laboratorio,2024-10-20,185.18
+P0608,Luis Pérez,,,NA,Pediatría,2024-12-08,
+P0609,Jorge Salas,,F,La Molina,Laboratorio,2023-01-18,NA
+P0610,Pedro Ruiz,NA,,,Emergencia,2023-07-28,96.59
+P0611,Lucía Gómez,79,F,,,2024-07-03,NA
+P0612,Ana Torres,81,NA,Surco,Laboratorio,2023-12-15,
+P0613,Pedro Ruiz,NA,NA,San Isidro,Pediatría,2023-11-09,208.52
+P0614,Pedro Ruiz,NA,NA,NA,Pediatría,2024-09-01,
+P0615,Pedro Ruiz,48,NA,NA,,2023-11-13,NA
+P0616,Carlos Díaz,82,M,Surco,Pediatría,2024-05-20,NA
+P0617,Pedro Ruiz,NA,F,,,2024-10-24,NA
+P0618,Luis Pérez,6,NA,,Cardiología,2024-05-03,NA
+P0619,María López,,NA,NA,Laboratorio,2023-09-14,NA
+P0620,María López,NA,NA,Miraflores,Cardiología,2024-06-21,438.0
+P0621,Lucía Gómez,32,F,Surco,Pediatría,2023-02-26,NA
+P0622,Lucía Gómez,26,F,San Isidro,Odontología,2023-08-27,
+P0623,Luis Pérez,NA,M,,Pediatría,2023-09-05,NA
+P0624,Ana Torres,,F,Surco,,2023-04-07,
+P0625,Pedro Ruiz,NA,NA,NA,Cardiología,2023-11-21,NA
+P0626,Luis Pérez,,F,Surco,,2023-01-28,263.55
+P0627,Pedro Ruiz,NA,M,Surco,Emergencia,2023-01-25,
+P0628,Luis Pérez,,F,,Emergencia,2023-05-18,143.7
+P0629,Jorge Salas,,M,,Cardiología,2023-07-15,301.36
+P0630,Lucía Gómez,NA,F,NA,Cardiología,2024-04-27,64.02
+P0631,Ana Torres,7,,La Molina,Odontología,2023-09-30,318.46
+P0632,María López,77,M,Surco,,2024-09-20,
+P0633,Ana Torres,12,NA,NA,,2024-12-20,NA
+P0634,Luis Pérez,NA,,Miraflores,,2024-08-17,102.44
+P0635,Carlos Díaz,,NA,La Molina,Cardiología,2024-08-15,
+P0636,Ana Torres,89,M,San Borja,,2024-06-30,
+P0637,Lucía Gómez,,F,San Isidro,Odontología,2024-09-07,347.06
+P0638,Carlos Díaz,NA,,Surco,NA,2024-04-22,
+P0639,María López,NA,,,,2024-09-20,389.55
+P0640,Ana Torres,NA,F,Miraflores,Laboratorio,2023-03-24,NA
+P0641,Jorge Salas,NA,,San Isidro,Pediatría,2024-02-17,NA
+P0642,Pedro Ruiz,NA,M,San Isidro,Laboratorio,2024-03-12,NA
+P0643,Jorge Salas,NA,M,San Borja,,2023-03-13,
+P0644,Ana Torres,,F,San Isidro,Laboratorio,2024-09-18,
+P0645,María López,68,,La Molina,Laboratorio,2024-08-28,118.44
+P0646,María López,,F,San Isidro,Laboratorio,2023-11-04,
+P0647,María López,NA,NA,San Isidro,Emergencia,2023-11-03,318.96
+P0648,Luis Pérez,NA,NA,San Borja,Emergencia,2024-08-19,154.15
+P0649,Carlos Díaz,NA,F,,Laboratorio,2023-09-28,NA
+P0650,María López,46,F,San Isidro,NA,2024-06-09,154.76
+P0651,María López,,M,NA,Odontología,2024-07-19,140.79
+P0652,Jorge Salas,NA,NA,,Laboratorio,2024-10-26,NA
+P0653,Carlos Díaz,36,NA,San Isidro,Odontología,2024-10-04,100.68
+P0654,Carlos Díaz,54,F,NA,Odontología,2023-12-28,NA
+P0655,Ana Torres,,M,San Isidro,Pediatría,2023-07-08,136.18
+P0656,Carlos Díaz,NA,,San Borja,Cardiología,2024-09-22,468.99
+P0657,Pedro Ruiz,7,,San Borja,Laboratorio,2024-08-16,
+P0658,Luis Pérez,NA,,,Laboratorio,2024-10-16,
+P0659,Carlos Díaz,,M,San Isidro,,2024-06-03,NA
+P0660,Luis Pérez,,NA,Surco,Laboratorio,2023-06-25,NA
+P0661,Lucía Gómez,NA,,San Borja,,2023-04-25,
+P0662,Ana Torres,89,F,La Molina,Pediatría,2023-02-13,
+P0663,Ana Torres,69,F,San Isidro,NA,2023-03-21,NA
+P0664,Jorge Salas,NA,NA,Miraflores,Cardiología,2023-04-16,
+P0665,Ana Torres,NA,M,San Isidro,Emergencia,2023-11-28,NA
+P0666,Pedro Ruiz,NA,M,La Molina,Odontología,2024-11-18,
+P0667,Lucía Gómez,45,NA,San Isidro,,2023-04-28,NA
+P0668,Carlos Díaz,,,San Borja,Pediatría,2023-12-10,451.33
+P0669,Carlos Díaz,67,,NA,NA,2024-07-17,442.36
+P0670,Carlos Díaz,73,NA,La Molina,Laboratorio,2024-09-06,386.26
+P0671,Pedro Ruiz,23,M,San Borja,Laboratorio,2024-01-22,NA
+P0672,María López,,M,NA,Emergencia,2023-03-26,
+P0673,Luis Pérez,84,F,Miraflores,Odontología,2024-03-20,NA
+P0674,María López,NA,NA,,Emergencia,2024-04-18,
+P0675,Jorge Salas,,NA,Surco,NA,2024-06-19,NA
+P0676,Pedro Ruiz,,F,La Molina,Odontología,2024-01-08,NA
+P0677,Jorge Salas,,F,La Molina,Emergencia,2024-01-14,NA
+P0678,Pedro Ruiz,NA,NA,NA,Cardiología,2023-12-25,
+P0679,Luis Pérez,NA,NA,NA,Pediatría,2023-02-14,NA
+P0680,Pedro Ruiz,51,M,,Cardiología,2023-01-29,
+P0681,Luis Pérez,NA,F,San Borja,Emergencia,2023-01-13,454.93
+P0682,Pedro Ruiz,,,San Borja,Odontología,2024-03-07,
+P0683,Ana Torres,NA,,,Emergencia,2023-06-10,NA
+P0684,Lucía Gómez,,NA,Surco,Pediatría,2024-03-06,421.53
+P0685,Lucía Gómez,,NA,La Molina,NA,2023-09-07,
+P0686,Pedro Ruiz,,,Surco,Pediatría,2023-02-11,272.32
+P0687,Pedro Ruiz,,NA,La Molina,NA,2024-01-11,459.87
+P0688,Carlos Díaz,82,M,,Odontología,2024-03-07,
+P0689,Carlos Díaz,46,F,La Molina,Pediatría,2023-08-19,
+P0690,Carlos Díaz,,NA,,Cardiología,2023-07-16,NA
+P0691,Lucía Gómez,55,,San Borja,NA,2024-08-13,NA
+P0692,Carlos Díaz,,M,Miraflores,NA,2024-10-21,
+P0693,Ana Torres,,,La Molina,Odontología,2023-01-28,
+P0694,María López,,F,Surco,Laboratorio,2023-08-29,98.01
+P0695,Lucía Gómez,58,M,NA,Odontología,2024-12-13,264.88
+P0696,Pedro Ruiz,NA,F,San Isidro,Odontología,2024-02-20,106.68
+P0697,Jorge Salas,NA,NA,,Cardiología,2023-10-17,NA
+P0698,Pedro Ruiz,84,NA,Miraflores,,2024-08-26,NA
+P0699,Ana Torres,NA,F,Surco,Pediatría,2024-03-21,113.56
+P0700,Jorge Salas,77,M,San Isidro,,2024-07-31,373.39
+P0701,Pedro Ruiz,NA,M,Miraflores,Laboratorio,2024-07-25,
+P0702,Pedro Ruiz,,F,Miraflores,Cardiología,2023-10-08,
+P0703,María López,NA,NA,San Borja,Cardiología,2024-02-03,145.27
+P0704,Luis Pérez,,NA,NA,Pediatría,2023-11-19,
+P0705,María López,,NA,Surco,Odontología,2024-03-02,NA
+P0706,Luis Pérez,,NA,La Molina,NA,2023-04-10,
+P0707,Carlos Díaz,77,F,San Isidro,,2023-05-04,NA
+P0708,Jorge Salas,22,NA,NA,Pediatría,2024-11-17,
+P0709,Carlos Díaz,NA,M,NA,Odontología,2023-03-22,
+P0710,Carlos Díaz,,,NA,Laboratorio,2024-10-26,
+P0711,Jorge Salas,,,La Molina,,2024-04-05,
+P0712,Luis Pérez,NA,,San Isidro,Cardiología,2024-01-05,
+P0713,Luis Pérez,22,NA,La Molina,Pediatría,2024-01-30,397.98
+P0714,Jorge Salas,NA,NA,San Isidro,Pediatría,2024-08-03,
+P0715,Luis Pérez,28,M,Miraflores,Odontología,2023-08-03,402.42
+P0716,Pedro Ruiz,24,NA,NA,Odontología,2023-04-01,321.32
+P0717,Ana Torres,,F,San Isidro,Laboratorio,2024-05-28,NA
+P0718,Luis Pérez,13,,Miraflores,Pediatría,2024-08-27,246.09
+P0719,Carlos Díaz,,NA,La Molina,Emergencia,2024-04-15,
+P0720,Jorge Salas,29,F,Surco,Emergencia,2023-11-13,365.02
+P0721,Pedro Ruiz,,NA,San Isidro,NA,2024-08-30,389.17
+P0722,María López,,F,Miraflores,Emergencia,2024-01-05,400.91
+P0723,Luis Pérez,NA,,Miraflores,Laboratorio,2023-06-17,
+P0724,Pedro Ruiz,NA,,San Isidro,Laboratorio,2023-04-22,181.69
+P0725,Ana Torres,10,,NA,,2023-04-18,
+P0726,Luis Pérez,79,M,NA,,2023-08-05,NA
+P0727,Pedro Ruiz,,M,NA,Emergencia,2023-12-03,499.66
+P0728,Pedro Ruiz,,NA,La Molina,,2023-11-23,
+P0729,Pedro Ruiz,,NA,NA,Laboratorio,2024-06-19,
+P0730,Lucía Gómez,39,,San Borja,Emergencia,2024-10-05,
+P0731,Pedro Ruiz,NA,NA,Surco,Laboratorio,2023-06-06,NA
+P0732,Carlos Díaz,NA,NA,Surco,Emergencia,2023-10-07,
+P0733,Ana Torres,53,F,San Isidro,Pediatría,2023-08-27,154.72
+P0734,Pedro Ruiz,89,M,San Borja,NA,2023-10-17,
+P0735,Carlos Díaz,NA,NA,NA,,2024-07-05,NA
+P0736,Jorge Salas,NA,M,San Isidro,Emergencia,2024-03-24,
+P0737,Carlos Díaz,78,M,San Isidro,Cardiología,2023-09-12,427.02
+P0738,Ana Torres,,NA,Surco,Laboratorio,2023-09-30,251.51
+P0739,Lucía Gómez,,M,San Isidro,,2023-06-24,NA
+P0740,Lucía Gómez,,M,Surco,Cardiología,2023-08-23,NA
+P0741,María López,NA,F,NA,,2024-03-21,147.69
+P0742,María López,,M,San Isidro,Laboratorio,2023-09-24,68.21
+P0743,Ana Torres,NA,NA,La Molina,Cardiología,2024-08-21,NA
+P0744,Luis Pérez,,M,San Isidro,Pediatría,2023-12-09,NA
+P0745,Pedro Ruiz,,,,Odontología,2023-09-23,88.63
+P0746,Ana Torres,74,M,Miraflores,Pediatría,2024-03-15,NA
+P0747,Ana Torres,NA,F,Miraflores,Emergencia,2023-07-05,NA
+P0748,Pedro Ruiz,,NA,La Molina,Pediatría,2023-03-11,NA
+P0749,Carlos Díaz,,M,La Molina,Pediatría,2024-01-07,392.58
+P0750,Carlos Díaz,,NA,Surco,,2023-09-06,321.86
+P0751,Pedro Ruiz,,NA,,,2023-08-30,332.12
+P0752,Carlos Díaz,,M,San Borja,Cardiología,2024-07-03,NA
+P0753,Lucía Gómez,,F,San Isidro,,2024-07-21,NA
+P0754,María López,,NA,La Molina,Emergencia,2024-09-21,409.53
+P0755,Pedro Ruiz,NA,,Miraflores,Emergencia,2024-01-08,452.51
+P0756,Carlos Díaz,NA,NA,NA,Laboratorio,2023-01-22,
+P0757,Pedro Ruiz,,NA,,Pediatría,2023-10-08,439.88
+P0758,Pedro Ruiz,NA,NA,,NA,2024-09-25,86.47
+P0759,Carlos Díaz,,NA,NA,Laboratorio,2024-02-12,
+P0760,Pedro Ruiz,39,F,Surco,Cardiología,2024-06-12,
+P0761,Carlos Díaz,64,F,Miraflores,Pediatría,2024-12-08,
+P0762,Carlos Díaz,NA,,San Borja,Odontología,2023-10-24,NA
+P0763,Jorge Salas,54,NA,NA,Pediatría,2024-02-09,
+P0764,Pedro Ruiz,67,NA,San Isidro,Cardiología,2023-02-23,NA
+P0765,Pedro Ruiz,,NA,NA,Cardiología,2024-10-28,NA
+P0766,Luis Pérez,38,,San Borja,Pediatría,2023-06-05,
+P0767,Carlos Díaz,NA,,Miraflores,Odontología,2023-09-03,358.73
+P0768,Jorge Salas,,M,La Molina,Emergencia,2024-01-26,111.66
+P0769,Luis Pérez,27,,San Isidro,Cardiología,2023-03-31,478.77
+P0770,Ana Torres,,M,Surco,Cardiología,2024-01-30,
+P0771,Jorge Salas,,F,NA,Odontología,2024-11-21,NA
+P0772,Lucía Gómez,54,F,Miraflores,Emergencia,2023-05-03,267.66
+P0773,Ana Torres,NA,,NA,NA,2024-08-06,
+P0774,Pedro Ruiz,11,,San Borja,Cardiología,2023-07-17,NA
+P0775,Pedro Ruiz,NA,NA,NA,Emergencia,2024-04-23,NA
+P0776,Pedro Ruiz,NA,NA,Surco,,2024-05-17,NA
+P0777,Jorge Salas,NA,,NA,Emergencia,2024-10-02,
+P0778,Pedro Ruiz,,NA,Miraflores,Cardiología,2023-09-28,351.63
+P0779,Pedro Ruiz,,NA,San Borja,,2024-01-02,NA
+P0780,Lucía Gómez,NA,,San Isidro,Pediatría,2024-09-19,NA
+P0781,Luis Pérez,,NA,San Isidro,Laboratorio,2024-06-02,NA
+P0782,Pedro Ruiz,,,NA,NA,2024-06-19,
+P0783,Lucía Gómez,NA,F,Surco,Odontología,2024-09-08,283.13
+P0784,María López,,M,NA,Odontología,2024-03-09,NA
+P0785,Carlos Díaz,NA,NA,San Isidro,,2024-05-25,
+P0786,María López,6,M,La Molina,,2024-11-02,NA
+P0787,Lucía Gómez,,F,San Borja,Odontología,2024-01-04,65.94
+P0788,Carlos Díaz,,F,San Borja,Emergencia,2024-04-28,
+P0789,Lucía Gómez,NA,NA,Miraflores,Emergencia,2024-07-19,
+P0790,Lucía Gómez,54,M,San Borja,Cardiología,2023-04-18,
+P0791,Jorge Salas,NA,F,Surco,Cardiología,2023-02-16,NA
+P0792,Luis Pérez,52,F,San Borja,Cardiología,2024-12-04,442.51
+P0793,María López,78,NA,La Molina,Pediatría,2024-02-29,53.56
+P0794,Carlos Díaz,39,NA,San Isidro,Pediatría,2023-09-22,NA
+P0795,Pedro Ruiz,NA,,San Isidro,Emergencia,2023-10-21,NA
+P0796,Luis Pérez,NA,F,San Isidro,NA,2024-07-03,242.57
+P0797,Pedro Ruiz,NA,M,San Isidro,Pediatría,2024-11-25,
+P0798,María López,85,NA,Miraflores,Emergencia,2023-11-22,
+P0799,Ana Torres,,M,La Molina,NA,2023-04-25,NA
+P0800,Lucía Gómez,NA,NA,La Molina,Emergencia,2023-07-16,
+P0801,Carlos Díaz,NA,F,San Borja,Emergencia,2024-02-05,NA
+P0802,Lucía Gómez,NA,NA,NA,Cardiología,2024-02-03,
+P0803,Jorge Salas,NA,,La Molina,Cardiología,2024-12-04,225.07
+P0804,María López,,F,,,2023-11-29,
+P0805,Carlos Díaz,,F,San Isidro,,2024-03-14,NA
+P0806,Lucía Gómez,27,F,San Borja,Pediatría,2024-10-30,NA
+P0807,Luis Pérez,NA,M,La Molina,NA,2024-09-25,
+P0808,Pedro Ruiz,NA,,San Isidro,NA,2023-07-16,
+P0809,Lucía Gómez,,,Surco,Pediatría,2024-08-29,NA
+P0810,Luis Pérez,,M,Miraflores,Pediatría,2024-12-08,88.85
+P0811,María López,,,Miraflores,NA,2023-10-25,
+P0812,Carlos Díaz,66,F,Surco,NA,2024-12-09,247.25
+P0813,Carlos Díaz,NA,,San Isidro,Cardiología,2024-11-24,NA
+P0814,Jorge Salas,50,NA,San Borja,NA,2024-01-01,100.52
+P0815,Jorge Salas,NA,NA,Surco,,2024-12-03,283.13
+P0816,Luis Pérez,84,,La Molina,Cardiología,2024-08-18,
+P0817,Ana Torres,NA,F,NA,,2023-06-19,
+P0818,Pedro Ruiz,,F,Miraflores,Laboratorio,2023-12-01,
+P0819,Carlos Díaz,,NA,San Borja,Emergencia,2024-10-27,NA
+P0820,Carlos Díaz,NA,,NA,Laboratorio,2024-02-18,
+P0821,Pedro Ruiz,1,F,San Borja,Laboratorio,2024-09-10,
+P0822,Jorge Salas,NA,NA,Miraflores,Laboratorio,2023-11-09,
+P0823,Pedro Ruiz,23,F,Surco,Pediatría,2024-11-02,156.35
+P0824,Luis Pérez,NA,NA,Miraflores,Laboratorio,2023-10-17,NA
+P0825,Carlos Díaz,NA,M,San Isidro,,2024-12-02,
+P0826,Lucía Gómez,NA,F,NA,NA,2023-03-22,
+P0827,Lucía Gómez,31,,NA,Odontología,2024-09-07,451.53
+P0828,Lucía Gómez,,M,San Isidro,,2024-04-30,NA
+P0829,María López,NA,M,NA,Odontología,2023-09-29,
+P0830,Lucía Gómez,75,M,NA,Cardiología,2023-07-14,
+P0831,Lucía Gómez,80,F,San Borja,NA,2023-01-26,220.61
+P0832,Pedro Ruiz,NA,M,La Molina,Odontología,2023-07-15,
+P0833,Carlos Díaz,2,NA,,Pediatría,2024-08-29,
+P0834,Pedro Ruiz,NA,M,NA,Odontología,2024-01-03,286.81
+P0835,Lucía Gómez,,,San Borja,,2023-10-27,NA
+P0836,Carlos Díaz,,F,San Borja,Emergencia,2024-11-09,393.16
+P0837,María López,NA,NA,San Borja,Laboratorio,2024-06-09,
+P0838,Ana Torres,89,NA,Miraflores,Pediatría,2024-12-21,172.56
+P0839,María López,,F,San Isidro,Pediatría,2023-07-13,
+P0840,Ana Torres,,M,La Molina,Pediatría,2023-07-29,NA
+P0841,María López,,M,San Isidro,Emergencia,2023-08-16,NA
+P0842,Ana Torres,NA,F,Surco,Laboratorio,2024-03-06,424.79
+P0843,Lucía Gómez,14,M,NA,Laboratorio,2024-10-06,408.11
+P0844,Ana Torres,NA,M,San Isidro,Odontología,2024-10-11,
+P0845,Carlos Díaz,NA,,San Borja,Emergencia,2023-02-22,
+P0846,Jorge Salas,NA,M,NA,Emergencia,2023-03-01,NA
+P0847,Jorge Salas,,M,,Pediatría,2024-09-04,
+P0848,Ana Torres,,M,NA,NA,2023-12-28,229.44
+P0849,Jorge Salas,,NA,San Isidro,,2024-06-26,NA
+P0850,Pedro Ruiz,NA,NA,San Borja,Odontología,2023-02-03,213.75
+P0851,Luis Pérez,NA,M,Surco,Laboratorio,2024-06-14,353.5
+P0852,Pedro Ruiz,NA,F,Surco,Odontología,2024-10-22,
+P0853,Jorge Salas,,M,La Molina,Laboratorio,2024-11-02,407.42
+P0854,Carlos Díaz,,M,NA,Odontología,2024-07-03,466.8
+P0855,Ana Torres,88,,,Laboratorio,2024-07-11,
+P0856,Jorge Salas,,NA,Miraflores,,2024-03-30,
+P0857,Lucía Gómez,NA,,Miraflores,Odontología,2023-07-12,NA
+P0858,Lucía Gómez,NA,,Miraflores,Odontología,2023-04-28,NA
+P0859,María López,49,M,San Borja,,2023-03-25,NA
+P0860,Jorge Salas,,M,La Molina,Odontología,2023-06-02,NA
+P0861,Carlos Díaz,37,NA,La Molina,Cardiología,2023-08-25,NA
+P0862,Lucía Gómez,,F,San Isidro,NA,2024-08-31,400.83
+P0863,María López,58,NA,NA,Cardiología,2024-04-22,109.42
+P0864,Lucía Gómez,83,M,,,2024-08-23,492.8
+P0865,Luis Pérez,,,San Borja,Odontología,2023-08-29,NA
+P0866,Ana Torres,,F,Surco,Pediatría,2024-02-25,
+P0867,Lucía Gómez,64,,La Molina,Pediatría,2023-04-14,437.55
+P0868,Lucía Gómez,NA,NA,San Isidro,,2023-01-11,NA
+P0869,Pedro Ruiz,NA,,Miraflores,Cardiología,2023-12-26,115.9
+P0870,Lucía Gómez,,,Surco,Emergencia,2024-01-16,207.0
+P0871,María López,78,M,NA,Emergencia,2024-12-18,
+P0872,Luis Pérez,,,San Borja,Emergencia,2024-06-27,
+P0873,Jorge Salas,NA,NA,San Isidro,Odontología,2023-04-28,NA
+P0874,Ana Torres,,NA,,Emergencia,2023-06-18,
+P0875,Lucía Gómez,,F,San Isidro,Pediatría,2023-04-25,
+P0876,Lucía Gómez,NA,NA,Surco,Laboratorio,2023-11-18,
+P0877,Jorge Salas,30,M,NA,Laboratorio,2024-10-31,NA
+P0878,Carlos Díaz,NA,M,NA,Laboratorio,2024-05-08,
+P0879,Luis Pérez,NA,NA,,,2024-08-31,293.89
+P0880,Ana Torres,21,NA,La Molina,,2024-09-12,NA
+P0881,María López,45,F,,Laboratorio,2023-10-21,481.53
+P0882,Ana Torres,NA,NA,Miraflores,Odontología,2024-05-22,488.01
+P0883,Ana Torres,,,,,2023-06-14,
+P0884,Ana Torres,,F,San Isidro,Odontología,2023-01-18,
+P0885,Carlos Díaz,48,,Surco,Laboratorio,2024-07-02,NA
+P0886,Ana Torres,,F,NA,Pediatría,2023-07-06,202.94
+P0887,Luis Pérez,,M,Miraflores,Pediatría,2024-08-31,60.74
+P0888,Pedro Ruiz,NA,F,La Molina,Emergencia,2024-09-11,NA
+P0889,Jorge Salas,26,,Miraflores,Laboratorio,2023-10-04,
+P0890,María López,70,,,Cardiología,2023-04-10,
+P0891,Ana Torres,57,M,NA,NA,2023-03-16,363.98
+P0892,Luis Pérez,,F,Miraflores,Pediatría,2024-01-20,
+P0893,Lucía Gómez,NA,NA,Miraflores,Laboratorio,2023-01-22,
+P0894,María López,47,,San Isidro,Pediatría,2024-02-02,498.95
+P0895,Pedro Ruiz,NA,M,,Emergencia,2024-05-23,NA
+P0896,Carlos Díaz,NA,NA,NA,Emergencia,2023-12-05,203.15
+P0897,Pedro Ruiz,,NA,Surco,Laboratorio,2024-06-14,488.15
+P0898,María López,,F,Surco,Odontología,2023-03-20,NA
+P0899,Lucía Gómez,NA,F,Miraflores,Laboratorio,2023-12-25,134.35
+P0900,Pedro Ruiz,NA,F,,Pediatría,2023-03-05,261.05
+P0901,María López,NA,M,Miraflores,,2024-12-31,
+P0902,Pedro Ruiz,89,M,San Isidro,NA,2024-03-29,229.39
+P0903,Luis Pérez,9,,Surco,NA,2023-03-26,NA
+P0904,Luis Pérez,,M,La Molina,Odontología,2023-08-27,NA
+P0905,Ana Torres,65,F,,Emergencia,2023-09-23,98.94
+P0906,Luis Pérez,9,,San Borja,Emergencia,2024-08-07,176.73
+P0907,Lucía Gómez,28,NA,NA,Odontología,2024-06-27,NA
+P0908,Pedro Ruiz,11,M,San Borja,NA,2024-11-17,
+P0909,Lucía Gómez,83,F,San Isidro,Odontología,2023-08-17,NA
+P0910,Luis Pérez,43,NA,,Pediatría,2023-04-14,
+P0911,María López,,NA,San Isidro,,2024-12-07,NA
+P0912,Ana Torres,64,F,La Molina,Odontología,2024-09-09,220.56
+P0913,Pedro Ruiz,,NA,La Molina,Odontología,2024-01-24,319.95
+P0914,Pedro Ruiz,,,,,2024-08-14,154.87
+P0915,Pedro Ruiz,NA,F,,,2024-06-05,
+P0916,Ana Torres,NA,M,San Borja,Pediatría,2024-03-17,278.0
+P0917,Jorge Salas,,M,San Borja,Cardiología,2024-07-29,
+P0918,Ana Torres,,,NA,Laboratorio,2024-04-15,
+P0919,Luis Pérez,,NA,,Cardiología,2023-09-27,166.93
+P0920,Ana Torres,NA,M,Surco,,2024-10-08,NA
+P0921,Lucía Gómez,NA,F,Miraflores,,2024-03-07,478.07
+P0922,Jorge Salas,1,M,San Borja,Pediatría,2023-09-17,NA
+P0923,María López,46,,San Borja,Laboratorio,2023-10-26,242.09
+P0924,Pedro Ruiz,NA,,NA,Odontología,2024-01-16,
+P0925,Carlos Díaz,86,M,Miraflores,,2023-03-31,NA
+P0926,María López,,F,San Borja,Odontología,2023-01-24,482.25
+P0927,Carlos Díaz,NA,M,La Molina,Odontología,2023-02-24,309.8
+P0928,Ana Torres,61,NA,La Molina,NA,2023-05-06,
+P0929,Pedro Ruiz,51,F,Miraflores,Cardiología,2023-01-08,NA
+P0930,María López,,F,San Borja,Odontología,2023-11-26,
+P0931,Lucía Gómez,,,Surco,Pediatría,2023-06-15,
+P0932,Jorge Salas,NA,NA,,Odontología,2024-11-27,
+P0933,Ana Torres,,F,Surco,Pediatría,2023-12-22,479.13
+P0934,Ana Torres,,F,,,2024-11-24,
+P0935,Lucía Gómez,,F,Miraflores,Emergencia,2024-01-10,NA
+P0936,Luis Pérez,NA,NA,NA,Pediatría,2023-09-06,NA
+P0937,María López,32,F,NA,,2024-04-06,
+P0938,Lucía Gómez,0,F,Miraflores,Emergencia,2023-01-24,NA
+P0939,Luis Pérez,NA,NA,San Isidro,,2023-04-28,NA
+P0940,Ana Torres,57,F,San Isidro,Cardiología,2023-07-13,489.23
+P0941,Carlos Díaz,57,NA,NA,Cardiología,2024-02-08,NA
+P0942,Jorge Salas,70,NA,La Molina,Pediatría,2024-04-13,NA
+P0943,Lucía Gómez,63,NA,Surco,Cardiología,2024-10-09,NA
+P0944,Pedro Ruiz,NA,NA,La Molina,Cardiología,2023-07-21,107.38
+P0945,Ana Torres,NA,M,NA,Emergencia,2024-08-10,52.23
+P0946,Pedro Ruiz,47,,San Isidro,NA,2024-11-22,
+P0947,Luis Pérez,40,F,San Borja,,2024-06-20,
+P0948,María López,83,M,La Molina,,2023-07-21,57.62
+P0949,María López,,NA,Surco,,2023-07-12,351.66
+P0950,Ana Torres,,F,San Borja,Emergencia,2024-02-25,NA
+P0951,Ana Torres,,F,La Molina,,2023-08-06,NA
+P0952,Ana Torres,,NA,San Isidro,Laboratorio,2024-06-22,314.34
+P0953,Pedro Ruiz,23,F,NA,Laboratorio,2023-09-25,NA
+P0954,Carlos Díaz,51,M,Miraflores,Laboratorio,2023-07-19,281.77
+P0955,Jorge Salas,,F,La Molina,,2023-01-28,210.84
+P0956,Ana Torres,NA,M,La Molina,Cardiología,2024-02-29,NA
+P0957,Jorge Salas,,,Surco,,2024-09-26,NA
+P0958,Lucía Gómez,,,Surco,Emergencia,2023-06-23,NA
+P0959,María López,55,M,Miraflores,Pediatría,2023-05-13,
+P0960,Ana Torres,NA,NA,La Molina,Emergencia,2023-01-16,
+P0961,Jorge Salas,,NA,San Borja,Laboratorio,2023-01-30,
+P0962,Luis Pérez,,M,San Isidro,Pediatría,2023-10-03,NA
+P0963,Carlos Díaz,,M,San Borja,,2024-10-29,324.07
+P0964,Luis Pérez,,F,Surco,Odontología,2024-06-27,76.42
+P0965,María López,10,F,NA,NA,2024-01-04,NA
+P0966,Pedro Ruiz,NA,NA,,Pediatría,2024-09-09,NA
+P0967,Pedro Ruiz,44,,Surco,Odontología,2023-10-01,NA
+P0968,María López,NA,,NA,Laboratorio,2024-06-26,466.3
+P0969,María López,48,NA,Surco,Pediatría,2023-11-13,NA
+P0970,Luis Pérez,68,NA,,Cardiología,2024-10-16,
+P0971,Luis Pérez,52,M,Surco,Cardiología,2023-07-12,144.25
+P0972,Carlos Díaz,,NA,San Isidro,Emergencia,2024-07-05,
+P0973,Ana Torres,NA,F,NA,,2023-10-25,
+P0974,Pedro Ruiz,NA,,NA,NA,2023-09-09,
+P0975,Ana Torres,,F,Miraflores,NA,2023-11-19,473.37
+P0976,Lucía Gómez,25,,NA,Odontología,2024-02-02,NA
+P0977,Pedro Ruiz,,NA,,Emergencia,2023-12-07,374.27
+P0978,Pedro Ruiz,,F,Miraflores,Cardiología,2023-11-07,411.77
+P0979,Lucía Gómez,5,NA,San Isidro,,2023-12-22,
+P0980,Jorge Salas,,NA,San Isidro,Odontología,2024-06-04,223.94
+P0981,Carlos Díaz,NA,NA,Surco,Pediatría,2023-11-15,NA
+P0982,Ana Torres,NA,,Miraflores,Emergencia,2023-04-17,153.79
+P0983,Luis Pérez,23,,La Molina,NA,2023-05-29,
+P0984,María López,21,M,,Emergencia,2023-10-17,262.98
+P0985,Carlos Díaz,,M,San Isidro,Pediatría,2024-11-01,180.4
+P0986,Pedro Ruiz,,NA,,Emergencia,2023-10-02,
+P0987,María López,18,,La Molina,NA,2024-02-24,NA
+P0988,Pedro Ruiz,,NA,San Borja,NA,2024-01-26,NA
+P0989,Carlos Díaz,,NA,,Odontología,2023-10-19,NA
+P0990,María López,,NA,San Borja,,2023-05-09,456.09
+P0991,Ana Torres,NA,M,,Emergencia,2023-10-17,NA
+P0992,Jorge Salas,NA,M,,Pediatría,2024-03-03,354.25
+P0993,Lucía Gómez,48,M,,NA,2023-03-13,179.21
+P0994,María López,NA,M,NA,Emergencia,2024-01-23,329.21
+P0995,María López,15,NA,Surco,Cardiología,2024-08-18,
+P0996,Pedro Ruiz,56,,San Isidro,Pediatría,2024-08-06,
+P0997,Ana Torres,,,NA,Emergencia,2024-11-25,
+P0998,Jorge Salas,NA,NA,,Pediatría,2024-11-25,NA
+P0999,Pedro Ruiz,80,,,,2024-12-18,407.33
+P1000,Carlos Díaz,NA,NA,San Isidro,Odontología,2024-12-25,
+P1001,María López,,,San Isidro,NA,2024-02-04,
+P1002,Jorge Salas,NA,M,,Cardiología,2023-05-16,NA
+P1003,Jorge Salas,80,,,,2024-01-03,395.03
+P1004,Lucía Gómez,NA,M,,Laboratorio,2023-11-06,252.04
+P1005,María López,5,,Miraflores,,2024-07-29,NA
+P1006,Luis Pérez,NA,,San Isidro,Emergencia,2024-03-08,
+P1007,María López,,M,San Isidro,Laboratorio,2024-02-19,NA
+P1008,María López,NA,NA,Surco,Emergencia,2024-01-17,70.33
+P1009,María López,,NA,Miraflores,NA,2024-02-08,458.77
+P1010,Lucía Gómez,,NA,,Emergencia,2023-03-29,93.23
+P1011,Luis Pérez,79,NA,NA,NA,2023-04-16,273.05
+P1012,Luis Pérez,NA,,Miraflores,Odontología,2024-04-24,222.72
+P1013,Carlos Díaz,38,NA,San Borja,Odontología,2024-11-21,
+P1014,Ana Torres,15,F,La Molina,Laboratorio,2024-01-14,
+P1015,Pedro Ruiz,,M,San Isidro,NA,2023-10-18,
+P1016,Lucía Gómez,70,M,San Isidro,Emergencia,2024-09-22,NA
+P1017,Ana Torres,84,F,La Molina,NA,2024-09-30,NA
+P1018,Pedro Ruiz,,NA,San Isidro,Cardiología,2024-11-28,
+P1019,Carlos Díaz,NA,F,San Isidro,,2024-01-26,294.06
+P1020,Lucía Gómez,26,NA,San Borja,Pediatría,2024-06-26,NA
+P1021,Carlos Díaz,NA,NA,San Borja,Emergencia,2023-06-18,322.23
+P1022,María López,66,M,Surco,,2024-05-10,
+P1023,María López,NA,,Surco,Odontología,2024-12-01,
+P1024,María López,16,,NA,Cardiología,2023-05-12,NA
+P1025,Lucía Gómez,,F,,Laboratorio,2023-05-28,NA
+P1026,Ana Torres,,NA,NA,Cardiología,2023-04-17,NA
+P1027,Lucía Gómez,,,San Isidro,Laboratorio,2024-07-14,191.5
+P1028,Carlos Díaz,,,San Borja,Emergencia,2023-09-11,
+P1029,Lucía Gómez,,,,,2024-06-28,406.42
+P1030,Jorge Salas,NA,M,San Borja,Laboratorio,2024-08-10,
+P1031,Lucía Gómez,NA,M,,Laboratorio,2024-06-17,NA
+P1032,María López,,M,,Pediatría,2023-12-31,NA
+P1033,Jorge Salas,75,F,,NA,2024-08-04,
+P1034,Pedro Ruiz,,,La Molina,Emergencia,2023-06-27,NA
+P1035,María López,31,M,San Isidro,Cardiología,2024-07-05,471.4
+P1036,Carlos Díaz,,M,,NA,2024-11-21,
+P1037,Luis Pérez,NA,,San Isidro,Pediatría,2023-01-07,NA
+P1038,Lucía Gómez,,,NA,Pediatría,2024-06-02,
+P1039,Ana Torres,NA,F,Miraflores,,2024-07-10,464.21
+P1040,Carlos Díaz,,NA,San Borja,Cardiología,2024-01-16,97.08
+P1041,Luis Pérez,,NA,NA,NA,2023-02-17,392.88
+P1042,Carlos Díaz,NA,,La Molina,Pediatría,2023-02-27,
+P1043,Jorge Salas,10,NA,,Laboratorio,2024-05-17,NA
+P1044,Jorge Salas,,F,Miraflores,Odontología,2023-11-30,162.41
+P1045,Luis Pérez,,NA,La Molina,NA,2024-10-10,NA
+P1046,María López,,,,Pediatría,2023-07-22,NA
+P1047,María López,63,,San Isidro,Emergencia,2023-02-18,
+P1048,Jorge Salas,7,M,Miraflores,,2023-05-04,NA
+P1049,Pedro Ruiz,26,F,NA,Emergencia,2024-12-20,NA
+P1050,Carlos Díaz,,M,NA,,2024-04-17,272.38
+P1051,María López,NA,F,La Molina,,2023-01-14,NA
+P1052,Lucía Gómez,NA,,San Borja,Odontología,2024-11-27,455.54
+P1053,Ana Torres,4,M,San Isidro,NA,2023-03-25,364.19
+P1054,Luis Pérez,,F,Miraflores,Pediatría,2024-07-30,
+P1055,María López,58,NA,San Isidro,NA,2024-06-04,160.58
+P1056,María López,,F,La Molina,,2024-06-18,207.0
+P1057,María López,3,M,Miraflores,,2023-10-19,
+P1058,Ana Torres,,M,La Molina,Emergencia,2024-07-21,
+P1059,Pedro Ruiz,,,Miraflores,Odontología,2023-03-09,
+P1060,Carlos Díaz,,NA,Surco,Laboratorio,2024-07-09,
+P1061,María López,NA,F,La Molina,NA,2023-07-05,106.45
+P1062,Ana Torres,23,M,San Borja,NA,2023-11-16,
+P1063,María López,5,M,Surco,Odontología,2024-01-09,430.59
+P1064,Pedro Ruiz,49,,San Borja,Cardiología,2023-10-30,NA
+P1065,Ana Torres,,,,NA,2024-09-14,
+P1066,Carlos Díaz,,F,NA,,2023-05-03,
+P1067,Lucía Gómez,45,NA,La Molina,NA,2023-06-27,NA
+P1068,Lucía Gómez,NA,M,Surco,Laboratorio,2023-08-15,NA
+P1069,Jorge Salas,,,Miraflores,Laboratorio,2024-02-13,336.95
+P1070,Carlos Díaz,5,M,NA,Emergencia,2023-05-09,
+P1071,María López,NA,M,,Laboratorio,2024-12-12,NA
+P1072,Luis Pérez,NA,M,San Borja,Odontología,2023-05-15,369.87
+P1073,Luis Pérez,NA,NA,Surco,Emergencia,2023-05-28,NA
+P1074,Carlos Díaz,,,La Molina,Pediatría,2024-01-22,310.67
+P1075,Pedro Ruiz,24,M,Miraflores,Laboratorio,2023-04-13,NA
+P1076,Lucía Gómez,,F,San Borja,Pediatría,2024-05-02,194.21
+P1077,Ana Torres,33,F,San Borja,Pediatría,2024-02-07,NA
+P1078,María López,NA,NA,San Borja,Emergencia,2023-06-18,NA
+P1079,Ana Torres,NA,M,San Isidro,Emergencia,2024-08-13,NA
+P1080,Luis Pérez,89,NA,NA,Emergencia,2023-05-18,NA
+P1081,Carlos Díaz,NA,,NA,NA,2024-03-19,NA
+P1082,Ana Torres,70,F,NA,Laboratorio,2023-08-19,NA
+P1083,Jorge Salas,NA,M,San Borja,Pediatría,2023-01-12,
+P1084,Lucía Gómez,NA,M,,,2023-03-09,NA
+P1085,Pedro Ruiz,3,NA,San Isidro,Emergencia,2024-05-15,NA
+P1086,Lucía Gómez,,,San Borja,,2023-03-12,
+P1087,María López,,,NA,Pediatría,2023-12-16,
+P1088,Jorge Salas,,NA,Surco,Laboratorio,2024-02-13,NA
+P1089,Luis Pérez,,F,Miraflores,Odontología,2024-08-11,
+P1090,Pedro Ruiz,,M,Miraflores,,2023-05-26,NA
+P1091,María López,63,,Miraflores,Emergencia,2023-09-02,226.52
+P1092,Pedro Ruiz,,M,Miraflores,Pediatría,2023-07-08,184.67
+P1093,Luis Pérez,55,F,Surco,Emergencia,2024-04-29,NA
+P1094,María López,31,M,La Molina,Emergencia,2024-09-26,
+P1095,Ana Torres,27,,NA,,2023-11-28,NA
+P1096,Pedro Ruiz,61,M,NA,,2023-02-20,NA
+P1097,María López,,,,Cardiología,2024-04-18,NA
+P1098,Ana Torres,,M,Miraflores,,2024-02-01,NA
+P1099,María López,72,M,NA,Laboratorio,2024-06-07,NA
+P1100,María López,77,F,San Borja,Pediatría,2023-08-15,352.34
+P1101,Carlos Díaz,43,F,Miraflores,Cardiología,2023-07-11,130.91
+P1102,Ana Torres,53,F,,Pediatría,2024-07-12,
+P1103,Jorge Salas,89,M,NA,Odontología,2024-07-13,176.74
+P1104,Jorge Salas,NA,NA,Surco,,2024-05-28,NA
+P1105,Jorge Salas,,F,San Borja,NA,2024-05-11,410.87
+P1106,Ana Torres,NA,F,La Molina,Pediatría,2024-02-16,NA
+P1107,Carlos Díaz,NA,NA,NA,Laboratorio,2024-01-12,
+P1108,Carlos Díaz,9,,NA,NA,2024-10-08,124.1
+P1109,Carlos Díaz,82,M,San Isidro,Cardiología,2023-04-03,282.56
+P1110,María López,45,,San Isidro,Pediatría,2024-04-20,NA
+P1111,Pedro Ruiz,1,,,Pediatría,2023-04-03,
+P1112,María López,NA,NA,San Isidro,,2023-03-26,
+P1113,Luis Pérez,49,NA,San Isidro,Pediatría,2024-01-06,
+P1114,Lucía Gómez,,F,Miraflores,Cardiología,2024-05-09,
+P1115,Lucía Gómez,60,M,San Borja,Laboratorio,2023-08-25,NA
+P1116,Ana Torres,,,Surco,Laboratorio,2023-10-05,
+P1117,Pedro Ruiz,68,F,La Molina,Cardiología,2023-09-21,
+P1118,Luis Pérez,NA,,Miraflores,Pediatría,2023-07-09,NA
+P1119,María López,0,NA,San Borja,Laboratorio,2024-07-10,NA
+P1120,Ana Torres,70,M,,NA,2023-12-28,102.2
+P1121,Ana Torres,,,San Borja,Cardiología,2023-04-10,250.5
+P1122,María López,,NA,San Borja,Laboratorio,2024-02-15,461.58
+P1123,Lucía Gómez,NA,F,NA,Emergencia,2023-04-28,494.2
+P1124,Luis Pérez,,M,Miraflores,Odontología,2024-04-27,NA
+P1125,Jorge Salas,NA,F,San Isidro,,2023-09-16,383.9
+P1126,Pedro Ruiz,13,M,La Molina,,2024-02-25,NA
+P1127,Carlos Díaz,NA,F,Miraflores,Pediatría,2024-03-26,NA
+P1128,Pedro Ruiz,63,F,San Borja,Cardiología,2024-08-21,NA
+P1129,Luis Pérez,8,NA,Miraflores,Emergencia,2023-12-04,NA
+P1130,Ana Torres,NA,,La Molina,Odontología,2023-06-05,NA
+P1131,Pedro Ruiz,,F,Surco,Cardiología,2024-02-17,
+P1132,Pedro Ruiz,NA,NA,NA,Odontología,2023-02-16,365.19
+P1133,Luis Pérez,NA,,,Emergencia,2024-03-16,
+P1134,Pedro Ruiz,76,F,La Molina,Cardiología,2023-10-19,181.58
+P1135,Jorge Salas,43,F,Miraflores,Laboratorio,2024-08-11,190.6
+P1136,Ana Torres,4,NA,Surco,Odontología,2024-07-21,128.29
+P1137,Jorge Salas,NA,,San Borja,NA,2023-10-29,NA
+P1138,María López,,NA,San Isidro,NA,2024-11-01,
+P1139,Luis Pérez,,,San Isidro,,2023-02-14,333.32
+P1140,Pedro Ruiz,,M,Surco,Laboratorio,2024-05-29,61.74
+P1141,Ana Torres,50,,La Molina,,2023-05-29,NA
+P1142,Ana Torres,NA,M,Miraflores,Cardiología,2023-08-27,
+P1143,Pedro Ruiz,18,M,San Borja,Cardiología,2023-09-23,102.82
+P1144,María López,NA,F,Surco,Pediatría,2023-10-24,NA
+P1145,Pedro Ruiz,67,,NA,Odontología,2024-10-04,281.28
+P1146,María López,NA,,La Molina,,2024-03-20,NA
+P1147,Jorge Salas,,M,NA,Laboratorio,2023-05-23,NA
+P1148,Lucía Gómez,,,Surco,Odontología,2023-07-24,448.07
+P1149,Ana Torres,,NA,Miraflores,Pediatría,2023-02-25,NA
+P1150,Lucía Gómez,86,,Miraflores,Laboratorio,2024-11-12,298.48
+P1151,Pedro Ruiz,NA,F,San Borja,,2023-03-03,390.85
+P1152,Lucía Gómez,NA,,Surco,Pediatría,2024-06-19,76.27
+P1153,Lucía Gómez,,F,Miraflores,Odontología,2024-01-18,
+P1154,María López,23,,NA,Pediatría,2024-12-28,NA
+P1155,María López,NA,,San Isidro,,2024-03-13,NA
+P1156,Carlos Díaz,13,,Miraflores,NA,2024-01-18,
+P1157,Lucía Gómez,,,,Pediatría,2023-07-09,170.72
+P1158,María López,,F,San Borja,Pediatría,2023-07-29,170.83
+P1159,Ana Torres,41,M,,Cardiología,2023-08-20,
+P1160,Lucía Gómez,NA,,,Emergencia,2023-12-03,223.76
+P1161,Pedro Ruiz,,M,NA,,2023-10-31,343.56
+P1162,Ana Torres,,NA,Surco,Emergencia,2024-11-16,482.55
+P1163,Pedro Ruiz,,F,San Isidro,Emergencia,2024-01-30,327.8
+P1164,Luis Pérez,70,,La Molina,Pediatría,2024-10-05,
+P1165,Ana Torres,NA,NA,San Isidro,NA,2024-01-30,
+P1166,Jorge Salas,NA,NA,NA,Pediatría,2023-08-14,
+P1167,Pedro Ruiz,NA,F,Miraflores,Laboratorio,2024-02-15,142.73
+P1168,Carlos Díaz,,NA,Miraflores,Emergencia,2024-12-17,368.71
+P1169,Carlos Díaz,,M,San Isidro,NA,2024-01-21,
+P1170,Jorge Salas,NA,M,Miraflores,,2024-11-19,305.3
+P1171,Carlos Díaz,,F,,Laboratorio,2023-08-19,NA
+P1172,Luis Pérez,NA,,La Molina,NA,2023-09-19,271.35
+P1173,Pedro Ruiz,15,NA,NA,Emergencia,2023-07-03,NA
+P1174,Jorge Salas,64,NA,San Isidro,NA,2023-03-05,206.69
+P1175,Ana Torres,,M,NA,Odontología,2023-12-16,NA
+P1176,Lucía Gómez,NA,,La Molina,NA,2023-11-22,
+P1177,Jorge Salas,37,M,Miraflores,Odontología,2024-07-25,NA
+P1178,Carlos Díaz,,F,Surco,Laboratorio,2023-03-18,
+P1179,Lucía Gómez,87,M,Surco,Emergencia,2023-02-15,212.24
+P1180,Jorge Salas,,NA,Miraflores,,2024-03-13,
+P1181,Lucía Gómez,,M,San Borja,Laboratorio,2023-10-08,
+P1182,Jorge Salas,0,M,NA,Laboratorio,2023-03-30,
+P1183,María López,NA,M,Miraflores,,2023-07-09,NA
+P1184,Ana Torres,1,NA,San Borja,Emergencia,2023-06-23,
+P1185,Lucía Gómez,NA,F,NA,Odontología,2024-02-16,NA
+P1186,Lucía Gómez,NA,,Miraflores,NA,2024-12-07,202.73
+P1187,Jorge Salas,,M,Miraflores,Emergencia,2024-05-28,NA
+P1188,Jorge Salas,15,,NA,,2024-12-02,68.23
+P1189,Pedro Ruiz,,,,NA,2023-04-26,
+P1190,Luis Pérez,0,F,Surco,,2024-09-14,NA
+P1191,Jorge Salas,,M,,Emergencia,2023-08-28,
+P1192,Carlos Díaz,NA,M,Surco,Odontología,2024-08-19,
+P1193,Carlos Díaz,66,F,Miraflores,Odontología,2023-02-27,
+P1194,Pedro Ruiz,17,,San Isidro,Cardiología,2023-03-25,
+P1195,Lucía Gómez,48,,La Molina,Emergencia,2023-10-25,
+P1196,María López,NA,F,San Borja,NA,2023-07-08,377.49
+P1197,Pedro Ruiz,,,Surco,Laboratorio,2023-07-29,275.37
+P1198,Pedro Ruiz,NA,NA,San Borja,NA,2024-08-26,
+P1199,Pedro Ruiz,51,F,NA,Cardiología,2024-12-06,NA
+P1200,Ana Torres,NA,F,Miraflores,Laboratorio,2024-03-31,406.63
+P1201,María López,71,F,La Molina,NA,2024-01-06,NA
+P1202,Jorge Salas,,M,Surco,Odontología,2023-08-19,NA
+P1203,María López,,M,NA,Pediatría,2023-07-22,
+P1204,Pedro Ruiz,,NA,Miraflores,Laboratorio,2024-12-10,NA
+P1205,Luis Pérez,,M,NA,Cardiología,2023-10-08,
+P1206,Luis Pérez,NA,M,San Isidro,NA,2023-12-12,392.18
+P1207,Lucía Gómez,NA,NA,Surco,Laboratorio,2023-12-22,NA
+P1208,Ana Torres,30,M,San Borja,Odontología,2023-05-09,
+P1209,Carlos Díaz,,F,Surco,Emergencia,2023-10-10,NA
+P1210,María López,13,F,San Borja,Cardiología,2023-02-26,NA
+P1211,Luis Pérez,,,La Molina,Pediatría,2024-12-26,171.03
+P1212,Ana Torres,NA,F,San Borja,Pediatría,2024-12-02,NA
+P1213,Carlos Díaz,,F,Surco,Pediatría,2023-07-21,
+P1214,Luis Pérez,,F,La Molina,Cardiología,2024-01-22,
+P1215,Lucía Gómez,33,M,NA,Laboratorio,2024-01-17,NA
+P1216,Lucía Gómez,NA,NA,Miraflores,NA,2024-01-22,357.5
+P1217,Lucía Gómez,52,,,Emergencia,2023-04-13,
+P1218,Ana Torres,82,M,San Isidro,Emergencia,2023-12-12,318.87
+P1219,Ana Torres,61,M,NA,Laboratorio,2023-09-30,
+P1220,Pedro Ruiz,NA,M,NA,Emergencia,2024-02-17,
+P1221,Jorge Salas,NA,,Surco,,2024-02-07,
+P1222,Lucía Gómez,83,NA,NA,Cardiología,2023-04-10,162.22
+P1223,Luis Pérez,,NA,La Molina,Emergencia,2024-08-15,
+P1224,Luis Pérez,,F,Surco,Laboratorio,2023-10-18,68.14
+P1225,Ana Torres,52,M,,NA,2023-06-28,67.02
+P1226,Carlos Díaz,28,NA,Surco,NA,2024-07-16,NA
+P1227,Luis Pérez,49,F,Surco,NA,2024-09-05,
+P1228,Luis Pérez,NA,F,San Isidro,Odontología,2024-07-26,
+P1229,Ana Torres,,F,NA,Cardiología,2024-02-08,146.73
+P1230,Lucía Gómez,NA,,San Borja,Pediatría,2024-11-09,NA
+P1231,María López,NA,F,San Borja,Odontología,2024-04-08,255.78
+P1232,Pedro Ruiz,,F,San Isidro,NA,2023-05-20,
+P1233,María López,,NA,Miraflores,Laboratorio,2024-05-19,
+P1234,Pedro Ruiz,32,M,NA,Cardiología,2024-01-12,211.73
+P1235,Carlos Díaz,33,NA,Surco,Laboratorio,2024-10-03,
+P1236,Ana Torres,,F,Miraflores,,2023-05-28,494.2
+P1237,Ana Torres,NA,NA,Miraflores,Pediatría,2024-12-15,244.22
+P1238,Luis Pérez,47,,Surco,Odontología,2023-02-02,NA
+P1239,Pedro Ruiz,NA,M,NA,,2023-02-04,
+P1240,Lucía Gómez,NA,F,San Isidro,,2024-08-23,
+P1241,Pedro Ruiz,89,M,La Molina,Pediatría,2024-01-04,NA
+P1242,Ana Torres,35,M,La Molina,Emergencia,2024-06-20,
+P1243,Ana Torres,NA,NA,Miraflores,NA,2023-03-09,
+P1244,Carlos Díaz,NA,F,San Isidro,Cardiología,2023-03-15,443.96
+P1245,Luis Pérez,,NA,Miraflores,Laboratorio,2024-03-17,133.93
+P1246,Pedro Ruiz,36,F,Miraflores,NA,2024-11-17,NA
+P1247,Luis Pérez,58,M,San Borja,Cardiología,2024-04-25,490.73
+P1248,Lucía Gómez,48,,,Pediatría,2023-01-16,387.3
+P1249,María López,,NA,,Cardiología,2023-04-12,
+P1250,Luis Pérez,,NA,La Molina,Laboratorio,2023-07-25,373.43
+P1251,Ana Torres,NA,NA,NA,Pediatría,2024-02-06,NA
+P1252,Luis Pérez,,M,San Borja,Laboratorio,2023-06-18,NA
+P1253,Pedro Ruiz,,M,NA,Pediatría,2023-07-11,NA
+P1254,Luis Pérez,,F,Surco,Emergencia,2023-03-24,405.9
+P1255,María López,13,F,Surco,Pediatría,2023-08-13,341.96
+P1256,Jorge Salas,28,F,Miraflores,NA,2023-03-14,363.55
+P1257,Pedro Ruiz,NA,,La Molina,Odontología,2024-05-07,96.44
+P1258,María López,77,M,NA,Odontología,2023-08-04,
+P1259,María López,3,NA,,Odontología,2023-08-22,
+P1260,Carlos Díaz,NA,M,La Molina,Laboratorio,2023-09-07,NA
+P1261,Pedro Ruiz,,,San Isidro,Laboratorio,2024-07-16,NA
+P1262,María López,NA,,San Borja,,2023-08-15,
+P1263,Pedro Ruiz,,F,Surco,NA,2023-03-28,NA
+P1264,María López,44,NA,Surco,,2024-08-26,NA
+P1265,Ana Torres,53,,NA,Laboratorio,2024-12-20,NA
+P1266,Jorge Salas,,F,La Molina,Laboratorio,2023-06-10,NA
+P1267,Ana Torres,,F,San Isidro,Laboratorio,2023-01-25,
+P1268,Lucía Gómez,34,M,NA,,2023-11-04,NA
+P1269,Jorge Salas,,,San Isidro,NA,2023-07-16,
+P1270,Pedro Ruiz,NA,NA,NA,,2023-09-18,
+P1271,María López,,NA,,Emergencia,2024-03-30,
+P1272,Jorge Salas,4,F,San Isidro,Emergencia,2024-03-31,228.89
+P1273,Pedro Ruiz,,,NA,Odontología,2024-02-25,365.12
+P1274,Jorge Salas,NA,M,Miraflores,Odontología,2023-04-15,449.24
+P1275,Lucía Gómez,,,San Borja,,2024-10-07,NA
+P1276,María López,NA,F,Surco,Emergencia,2023-06-18,442.19
+P1277,Luis Pérez,30,F,San Isidro,Cardiología,2023-01-11,NA
+P1278,Pedro Ruiz,,NA,La Molina,NA,2023-06-23,
+P1279,María López,NA,,Miraflores,Laboratorio,2024-02-16,NA
+P1280,Luis Pérez,NA,,Miraflores,Odontología,2023-09-01,NA
+P1281,Jorge Salas,59,,NA,Odontología,2023-06-07,NA
+P1282,Luis Pérez,NA,F,Miraflores,Pediatría,2024-11-10,NA
+P1283,Luis Pérez,NA,NA,La Molina,Laboratorio,2023-04-22,135.24
+P1284,Luis Pérez,56,M,La Molina,Pediatría,2023-09-17,
+P1285,Luis Pérez,,F,Miraflores,Laboratorio,2023-03-16,
+P1286,Jorge Salas,NA,NA,San Isidro,,2023-08-30,
+P1287,Lucía Gómez,54,M,San Borja,Emergencia,2023-07-12,338.27
+P1288,Lucía Gómez,,,Miraflores,Laboratorio,2023-08-09,NA
+P1289,Carlos Díaz,82,F,San Borja,Emergencia,2024-03-21,NA
+P1290,María López,NA,,NA,Odontología,2024-01-12,
+P1291,Lucía Gómez,,NA,La Molina,Laboratorio,2023-06-26,NA
+P1292,Ana Torres,,,Miraflores,Laboratorio,2023-08-29,NA
+P1293,Lucía Gómez,,F,La Molina,NA,2024-05-05,481.62
+P1294,Pedro Ruiz,74,F,Surco,NA,2023-08-08,
+P1295,Jorge Salas,,,La Molina,Laboratorio,2023-09-28,
+P1296,María López,,F,Surco,Emergencia,2023-10-18,
+P1297,Luis Pérez,42,M,NA,Pediatría,2024-11-18,
+P1298,María López,NA,M,La Molina,Odontología,2023-02-24,68.85
+P1299,Pedro Ruiz,76,,Surco,Odontología,2023-12-10,NA
+P1300,Carlos Díaz,NA,M,Miraflores,Laboratorio,2023-02-16,
+P1301,Pedro Ruiz,NA,M,Surco,Pediatría,2024-05-25,NA
+P1302,María López,87,F,Miraflores,Cardiología,2023-02-27,245.35
+P1303,Luis Pérez,NA,,Surco,NA,2024-03-22,124.96
+P1304,Carlos Díaz,50,M,Surco,Pediatría,2024-11-26,302.25
+P1305,Lucía Gómez,NA,F,La Molina,Laboratorio,2023-03-30,NA
+P1306,Jorge Salas,NA,M,,Emergencia,2023-07-27,325.81
+P1307,Ana Torres,,M,San Borja,NA,2023-12-27,
+P1308,Carlos Díaz,2,F,Surco,Pediatría,2024-10-19,498.1
+P1309,Luis Pérez,NA,M,,Emergencia,2023-09-12,NA
+P1310,Lucía Gómez,,,,Odontología,2023-05-14,
+P1311,Ana Torres,2,F,Miraflores,Laboratorio,2023-10-02,376.61
+P1312,Jorge Salas,,,Surco,Cardiología,2024-06-03,NA
+P1313,Jorge Salas,NA,NA,Surco,Emergencia,2023-08-18,
+P1314,Jorge Salas,89,,,,2024-03-07,NA
+P1315,María López,NA,NA,Miraflores,Emergencia,2023-01-11,NA
+P1316,Luis Pérez,NA,M,La Molina,Pediatría,2023-03-20,NA
+P1317,Carlos Díaz,NA,,Miraflores,NA,2024-10-22,
+P1318,Luis Pérez,74,M,La Molina,Cardiología,2023-11-18,
+P1319,Carlos Díaz,NA,NA,Surco,,2024-11-28,
+P1320,Carlos Díaz,NA,F,Surco,Laboratorio,2023-12-17,
+P1321,María López,NA,F,,NA,2023-09-23,445.89
+P1322,Lucía Gómez,,,La Molina,Laboratorio,2023-11-16,NA
+P1323,Pedro Ruiz,NA,F,Miraflores,Pediatría,2024-11-25,
+P1324,Carlos Díaz,,F,San Isidro,Laboratorio,2024-03-10,NA
+P1325,Pedro Ruiz,NA,F,,Emergencia,2023-03-23,121.1
+P1326,Ana Torres,,,Surco,Odontología,2023-04-09,
+P1327,Jorge Salas,NA,M,,Emergencia,2024-03-10,NA
+P1328,María López,,NA,Surco,NA,2024-04-19,131.93
+P1329,Luis Pérez,58,M,San Isidro,Emergencia,2024-08-29,
+P1330,Luis Pérez,,NA,Surco,,2023-12-04,NA
+P1331,María López,31,,Surco,Laboratorio,2024-02-04,
+P1332,Ana Torres,49,NA,Miraflores,Odontología,2024-11-25,463.03
+P1333,Jorge Salas,,NA,,NA,2024-01-13,72.67
+P1334,Jorge Salas,NA,M,Miraflores,Emergencia,2024-05-11,
+P1335,Lucía Gómez,,NA,Miraflores,,2024-11-24,
+P1336,Lucía Gómez,,NA,Miraflores,,2023-04-05,NA
+P1337,Carlos Díaz,NA,NA,,,2023-04-22,
+P1338,Luis Pérez,NA,,Miraflores,NA,2024-05-13,NA
+P1339,Pedro Ruiz,NA,F,NA,Pediatría,2023-05-29,65.6
+P1340,Pedro Ruiz,NA,NA,San Borja,NA,2024-04-01,
+P1341,Ana Torres,10,NA,San Borja,Emergencia,2024-12-10,439.83
+P1342,María López,,NA,San Isidro,Emergencia,2023-05-29,
+P1343,Pedro Ruiz,40,NA,San Isidro,Pediatría,2024-06-17,123.8
+P1344,Lucía Gómez,82,NA,Miraflores,NA,2024-10-24,376.63
+P1345,Ana Torres,,F,Surco,Laboratorio,2023-08-11,
+P1346,Lucía Gómez,16,M,San Borja,Cardiología,2024-08-18,NA
+P1347,Jorge Salas,,M,San Borja,,2024-11-24,427.5
+P1348,Carlos Díaz,NA,NA,La Molina,,2023-10-09,225.93
+P1349,Lucía Gómez,NA,,Miraflores,Pediatría,2024-12-03,NA
+P1350,Pedro Ruiz,NA,M,San Borja,NA,2023-08-11,
+P1351,Jorge Salas,NA,M,Surco,Pediatría,2023-06-04,481.59
+P1352,Pedro Ruiz,61,,San Borja,,2023-10-15,475.29
+P1353,Ana Torres,,M,San Isidro,Emergencia,2023-07-11,NA
+P1354,María López,43,F,San Borja,Odontología,2023-09-30,NA
+P1355,Ana Torres,NA,F,Miraflores,Pediatría,2024-12-09,
+P1356,Carlos Díaz,,,,Cardiología,2024-11-30,
+P1357,Carlos Díaz,,NA,Miraflores,,2023-02-05,NA
+P1358,Pedro Ruiz,,M,La Molina,Cardiología,2023-11-07,NA
+P1359,Jorge Salas,,NA,San Isidro,Laboratorio,2023-09-29,NA
+P1360,Carlos Díaz,NA,,NA,Odontología,2023-07-04,494.0
+P1361,Pedro Ruiz,27,NA,Miraflores,Cardiología,2024-10-10,122.63
+P1362,Ana Torres,,NA,,Cardiología,2023-12-23,
+P1363,María López,,F,,Laboratorio,2024-12-30,NA
+P1364,María López,,F,La Molina,Cardiología,2024-08-21,NA
+P1365,Pedro Ruiz,76,NA,La Molina,Pediatría,2023-03-06,
+P1366,Jorge Salas,NA,F,NA,Laboratorio,2023-01-25,NA
+P1367,Lucía Gómez,,F,San Isidro,,2024-03-31,457.06
+P1368,Luis Pérez,,,Miraflores,Emergencia,2024-05-10,NA
+P1369,Ana Torres,NA,F,NA,Cardiología,2024-04-26,NA
+P1370,Jorge Salas,,F,Surco,Laboratorio,2024-09-19,NA
+P1371,Jorge Salas,0,NA,,Laboratorio,2024-05-04,
+P1372,Pedro Ruiz,NA,F,Miraflores,,2024-11-17,302.04
+P1373,Luis Pérez,NA,NA,Miraflores,Laboratorio,2023-11-07,NA
+P1374,María López,NA,NA,San Borja,,2023-03-17,NA
+P1375,Jorge Salas,,NA,La Molina,Emergencia,2023-12-16,
+P1376,Pedro Ruiz,0,NA,San Isidro,Pediatría,2023-05-26,185.99
+P1377,María López,,F,La Molina,NA,2024-12-03,
+P1378,Lucía Gómez,NA,F,NA,Emergencia,2023-12-30,NA
+P1379,Pedro Ruiz,6,F,Miraflores,Laboratorio,2023-05-29,
+P1380,Carlos Díaz,NA,F,San Borja,Emergencia,2024-04-18,
+P1381,Pedro Ruiz,60,,Miraflores,Laboratorio,2024-03-15,
+P1382,Luis Pérez,,NA,NA,NA,2023-12-13,167.78
+P1383,Luis Pérez,19,M,Miraflores,Pediatría,2024-06-12,NA
+P1384,Lucía Gómez,13,M,NA,Laboratorio,2024-10-09,
+P1385,Carlos Díaz,19,F,Surco,Emergencia,2024-02-05,102.77
+P1386,Luis Pérez,,,NA,Emergencia,2024-09-09,
+P1387,María López,,NA,NA,Emergencia,2024-05-13,
+P1388,Carlos Díaz,NA,F,,Emergencia,2024-03-18,NA
+P1389,Carlos Díaz,49,,La Molina,Emergencia,2024-04-25,NA
+P1390,Carlos Díaz,65,,NA,Cardiología,2024-04-23,NA
+P1391,Ana Torres,,,San Borja,Cardiología,2024-10-12,
+P1392,Luis Pérez,2,F,,Emergencia,2024-08-25,127.22
+P1393,María López,,NA,Miraflores,NA,2024-06-07,215.21
+P1394,Lucía Gómez,,M,Surco,Cardiología,2023-03-31,
+P1395,Lucía Gómez,NA,,,Cardiología,2023-01-10,NA
+P1396,Jorge Salas,26,,Miraflores,Emergencia,2023-11-08,331.0
+P1397,Pedro Ruiz,34,NA,Surco,Cardiología,2023-02-02,
+P1398,Ana Torres,39,,NA,,2023-05-23,NA
+P1399,Jorge Salas,,,Surco,Cardiología,2024-09-08,54.01
+P1400,Pedro Ruiz,,M,San Borja,,2024-02-17,126.43
+P1401,Pedro Ruiz,NA,F,La Molina,Odontología,2023-03-24,145.77
+P1402,Lucía Gómez,,F,Surco,Cardiología,2023-10-27,
+P1403,Carlos Díaz,,M,San Isidro,Emergencia,2024-05-27,
+P1404,Luis Pérez,29,M,NA,Laboratorio,2023-05-14,NA
+P1405,Jorge Salas,72,,San Isidro,Cardiología,2024-02-09,
+P1406,Pedro Ruiz,45,M,Miraflores,NA,2024-03-24,
+P1407,Jorge Salas,61,NA,La Molina,Odontología,2024-01-14,NA
+P1408,Pedro Ruiz,NA,F,,Laboratorio,2024-10-07,NA
+P1409,Lucía Gómez,,F,San Borja,Laboratorio,2023-06-17,
+P1410,María López,70,M,San Isidro,Pediatría,2024-02-24,198.77
+P1411,Ana Torres,NA,F,Surco,NA,2024-06-09,
+P1412,Luis Pérez,NA,NA,,Odontología,2023-05-09,NA
+P1413,Carlos Díaz,NA,,NA,Cardiología,2024-07-06,
+P1414,María López,,NA,Miraflores,NA,2023-03-16,430.32
+P1415,Ana Torres,NA,M,,NA,2023-03-24,
+P1416,Luis Pérez,49,F,Surco,Cardiología,2023-06-09,NA
+P1417,Ana Torres,24,F,San Borja,NA,2024-02-13,351.01
+P1418,Carlos Díaz,23,NA,NA,Pediatría,2023-03-03,
+P1419,Luis Pérez,47,M,NA,Emergencia,2024-07-20,
+P1420,Luis Pérez,NA,,La Molina,Odontología,2023-05-21,
+P1421,Luis Pérez,38,M,San Borja,Pediatría,2024-07-31,NA
+P1422,Carlos Díaz,NA,,San Isidro,Laboratorio,2023-08-13,NA
+P1423,Carlos Díaz,NA,NA,Miraflores,Odontología,2024-10-04,NA
+P1424,Pedro Ruiz,NA,NA,San Borja,NA,2023-02-24,NA
+P1425,María López,39,M,San Borja,Emergencia,2024-10-24,
+P1426,Luis Pérez,,NA,La Molina,Laboratorio,2023-10-06,316.58
+P1427,Luis Pérez,NA,F,Surco,Cardiología,2024-07-11,NA
+P1428,Pedro Ruiz,,M,NA,Laboratorio,2023-05-05,NA
+P1429,Pedro Ruiz,60,M,San Isidro,Odontología,2024-12-08,NA
+P1430,Jorge Salas,60,,Miraflores,Laboratorio,2023-10-21,NA
+P1431,Carlos Díaz,,F,San Isidro,Laboratorio,2024-04-22,392.67
+P1432,Luis Pérez,NA,F,San Borja,Emergencia,2023-08-15,66.24
+P1433,Pedro Ruiz,68,NA,NA,Laboratorio,2023-11-19,388.63
+P1434,Pedro Ruiz,NA,F,Surco,NA,2023-01-30,
+P1435,Lucía Gómez,51,M,La Molina,,2024-08-26,254.47
+P1436,María López,10,,Miraflores,Emergencia,2024-06-19,473.27
+P1437,Carlos Díaz,NA,F,Surco,Emergencia,2023-03-23,
+P1438,Jorge Salas,,NA,San Borja,NA,2024-08-20,
+P1439,María López,,NA,San Isidro,Odontología,2023-09-09,
+P1440,Jorge Salas,24,F,San Isidro,Cardiología,2024-11-11,52.32
+P1441,Ana Torres,65,NA,Surco,Odontología,2024-03-07,NA
+P1442,Carlos Díaz,,NA,Miraflores,Emergencia,2023-03-03,NA
+P1443,Ana Torres,9,,NA,,2023-02-02,NA
+P1444,Carlos Díaz,,F,Miraflores,Odontología,2023-10-16,
+P1445,Carlos Díaz,33,M,La Molina,Pediatría,2023-12-17,NA
+P1446,Luis Pérez,NA,NA,San Isidro,,2023-12-27,
+P1447,Pedro Ruiz,12,NA,La Molina,,2024-09-02,344.29
+P1448,Ana Torres,,M,San Isidro,Emergencia,2024-10-05,
+P1449,Luis Pérez,NA,F,Surco,Emergencia,2024-03-13,432.02
+P1450,Pedro Ruiz,,NA,San Borja,NA,2023-03-20,NA
+P1451,Jorge Salas,71,,San Borja,Odontología,2024-01-13,NA
+P1452,Jorge Salas,NA,,Miraflores,Pediatría,2024-09-24,120.59
+P1453,Carlos Díaz,,M,NA,,2024-07-28,NA
+P1454,Carlos Díaz,NA,,La Molina,Cardiología,2023-07-14,169.59
+P1455,María López,69,F,San Borja,Pediatría,2023-04-14,NA
+P1456,Lucía Gómez,NA,F,San Isidro,NA,2023-11-28,370.22
+P1457,Carlos Díaz,87,F,Surco,NA,2024-12-16,
+P1458,Lucía Gómez,NA,F,San Isidro,NA,2023-12-08,283.58
+P1459,Luis Pérez,NA,M,NA,Cardiología,2024-06-28,
+P1460,Luis Pérez,,M,La Molina,Laboratorio,2023-08-03,
+P1461,Carlos Díaz,NA,NA,NA,,2023-01-11,327.21
+P1462,María López,,NA,Miraflores,Cardiología,2023-10-29,
+P1463,María López,NA,,San Borja,Laboratorio,2023-06-30,NA
+P1464,Lucía Gómez,86,NA,,Cardiología,2023-05-26,NA
+P1465,María López,22,M,,Laboratorio,2023-06-09,
+P1466,Jorge Salas,NA,F,Surco,Emergencia,2023-08-19,
+P1467,Jorge Salas,8,M,Surco,NA,2024-03-07,NA
+P1468,Jorge Salas,NA,NA,,Emergencia,2023-01-09,NA
+P1469,Lucía Gómez,NA,F,San Borja,Emergencia,2024-08-04,
+P1470,Pedro Ruiz,NA,M,Surco,,2023-04-20,364.25
+P1471,Luis Pérez,NA,M,,,2023-06-09,
+P1472,María López,35,M,San Isidro,Odontología,2023-06-08,NA
+P1473,María López,,F,La Molina,Pediatría,2023-08-06,NA
+P1474,Carlos Díaz,35,F,,Emergencia,2024-01-14,
+P1475,Lucía Gómez,86,F,Miraflores,Pediatría,2024-01-23,
+P1476,Lucía Gómez,28,M,NA,Laboratorio,2023-08-11,
+P1477,Luis Pérez,,M,La Molina,Laboratorio,2024-10-25,354.58
+P1478,Carlos Díaz,48,NA,Surco,Odontología,2023-09-28,
+P1479,Lucía Gómez,71,,Miraflores,Laboratorio,2024-09-03,
+P1480,Luis Pérez,90,,San Isidro,Odontología,2024-10-03,NA
+P1481,Luis Pérez,NA,,Surco,Pediatría,2023-04-19,179.16
+P1482,María López,NA,NA,Miraflores,NA,2024-10-23,NA
+P1483,Luis Pérez,,NA,Miraflores,Laboratorio,2024-11-05,
+P1484,Jorge Salas,63,M,NA,Odontología,2023-02-08,NA
+P1485,Carlos Díaz,,M,,Odontología,2023-11-29,NA
+P1486,Carlos Díaz,,NA,La Molina,NA,2023-11-07,NA
+P1487,Ana Torres,NA,,Surco,Cardiología,2023-06-07,NA
+P1488,María López,,M,San Isidro,Pediatría,2024-01-02,378.08
+P1489,María López,28,F,Surco,Cardiología,2024-03-30,
+P1490,Pedro Ruiz,NA,F,NA,Emergencia,2023-03-25,NA
+P1491,Ana Torres,,NA,San Isidro,Pediatría,2024-02-10,480.46
+P1492,Luis Pérez,,NA,Miraflores,NA,2023-12-06,
+P1493,Pedro Ruiz,NA,F,,,2024-11-03,297.04
+P1494,Jorge Salas,89,F,San Borja,Pediatría,2024-09-25,304.56
+P1495,Ana Torres,,,San Isidro,Odontología,2023-01-07,NA
+P1496,Luis Pérez,6,NA,Surco,Laboratorio,2023-10-07,
+P1497,Jorge Salas,74,,San Isidro,Cardiología,2023-03-19,
+P1498,Pedro Ruiz,44,M,,Emergencia,2024-09-04,
+P1499,Jorge Salas,,NA,,Emergencia,2024-05-05,120.37
+P1500,Pedro Ruiz,,F,,NA,2023-07-17,486.87
+P1501,María López,NA,NA,Miraflores,Laboratorio,2024-06-17,NA
+P1502,María López,,M,NA,Emergencia,2024-08-28,
+P1503,Luis Pérez,,M,Miraflores,Emergencia,2023-10-22,
+P1504,Jorge Salas,57,NA,San Isidro,Emergencia,2023-07-15,
+P1505,María López,20,,Miraflores,Odontología,2024-09-19,462.33
+P1506,María López,44,,San Borja,Cardiología,2024-11-29,222.57
+P1507,Carlos Díaz,NA,F,Surco,NA,2024-09-07,103.16
+P1508,Lucía Gómez,42,F,San Isidro,Laboratorio,2023-03-11,233.71
+P1509,Ana Torres,NA,NA,San Borja,Emergencia,2023-03-30,136.46
+P1510,Carlos Díaz,1,NA,La Molina,NA,2024-01-08,NA
+P1511,Ana Torres,NA,M,La Molina,NA,2023-09-09,
+P1512,Jorge Salas,,F,La Molina,Emergencia,2023-01-16,254.11
+P1513,María López,77,F,NA,Emergencia,2023-03-14,80.21
+P1514,Ana Torres,,,San Borja,Laboratorio,2024-01-16,NA
+P1515,Lucía Gómez,NA,NA,NA,Emergencia,2023-02-19,447.91
+P1516,Jorge Salas,,,,Odontología,2023-07-27,NA
+P1517,Lucía Gómez,NA,NA,Miraflores,Cardiología,2023-08-27,
+P1518,Pedro Ruiz,NA,NA,La Molina,,2024-08-24,74.83
+P1519,Luis Pérez,47,F,NA,Cardiología,2023-04-02,143.19
+P1520,Lucía Gómez,,NA,San Isidro,Cardiología,2023-12-05,468.72
+P1521,Luis Pérez,23,F,NA,NA,2023-01-26,219.2
+P1522,Jorge Salas,83,F,Surco,Pediatría,2023-02-11,
+P1523,Luis Pérez,,M,San Isidro,Laboratorio,2024-08-17,
+P1524,Luis Pérez,NA,,,Laboratorio,2023-06-09,NA
+P1525,Ana Torres,,NA,NA,Cardiología,2023-04-13,212.45
+P1526,María López,,NA,San Borja,,2024-04-04,NA
+P1527,María López,,NA,Miraflores,NA,2023-06-20,
+P1528,Carlos Díaz,36,,San Borja,,2024-06-02,NA
+P1529,María López,,M,San Borja,Laboratorio,2024-12-10,NA
+P1530,Luis Pérez,21,F,,Laboratorio,2023-11-06,
+P1531,Jorge Salas,,,NA,Laboratorio,2023-01-22,
+P1532,Ana Torres,74,NA,San Borja,Pediatría,2024-06-27,
+P1533,Luis Pérez,NA,F,San Isidro,Pediatría,2024-02-15,
+P1534,Jorge Salas,,F,NA,Emergencia,2023-11-19,NA
+P1535,Ana Torres,,M,Miraflores,Pediatría,2024-08-14,NA
+P1536,Luis Pérez,,,,Laboratorio,2024-02-16,203.17
+P1537,María López,,NA,NA,Emergencia,2023-03-27,
+P1538,Jorge Salas,,F,Miraflores,Emergencia,2024-06-14,NA
+P1539,Carlos Díaz,52,F,San Isidro,Cardiología,2024-07-09,NA
+P1540,Lucía Gómez,NA,NA,San Borja,NA,2023-11-12,
+P1541,Jorge Salas,NA,M,San Borja,Odontología,2024-09-10,73.28
+P1542,Pedro Ruiz,NA,F,Surco,Odontología,2023-07-30,NA
+P1543,Jorge Salas,67,,,Cardiología,2024-04-30,
+P1544,Carlos Díaz,NA,F,San Isidro,NA,2023-04-07,NA
+P1545,Lucía Gómez,,M,La Molina,Odontología,2024-06-18,138.05
+P1546,Jorge Salas,,F,San Borja,Odontología,2024-03-07,
+P1547,Carlos Díaz,33,F,NA,Odontología,2024-07-29,
+P1548,María López,NA,NA,,,2023-07-25,NA
+P1549,Lucía Gómez,NA,F,San Isidro,Odontología,2023-06-09,434.16
+P1550,Lucía Gómez,,M,San Borja,Laboratorio,2023-04-04,
+P1551,Luis Pérez,NA,NA,,Odontología,2024-08-09,NA
+P1552,Jorge Salas,NA,,NA,Laboratorio,2024-08-25,
+P1553,María López,3,,,Odontología,2024-06-25,
+P1554,Ana Torres,56,NA,La Molina,,2023-01-20,
+P1555,Pedro Ruiz,35,F,NA,,2023-08-20,409.26
+P1556,María López,,,San Isidro,Laboratorio,2024-01-24,190.86
+P1557,Jorge Salas,19,NA,Surco,Pediatría,2024-06-08,
+P1558,María López,,M,Surco,Laboratorio,2024-03-31,353.03
+P1559,Pedro Ruiz,0,F,Surco,Odontología,2023-04-23,
+P1560,Pedro Ruiz,,NA,San Borja,Odontología,2023-02-27,NA
+P1561,María López,80,NA,La Molina,Laboratorio,2023-03-18,NA
+P1562,Lucía Gómez,75,F,,Odontología,2024-06-27,NA
+P1563,Jorge Salas,NA,M,La Molina,Laboratorio,2024-12-04,186.69
+P1564,María López,NA,M,San Borja,Emergencia,2024-08-15,
+P1565,Pedro Ruiz,,,NA,Odontología,2024-02-16,65.24
+P1566,Jorge Salas,NA,NA,La Molina,Emergencia,2024-03-26,
+P1567,María López,NA,NA,San Borja,Pediatría,2024-07-26,269.99
+P1568,Lucía Gómez,87,F,Surco,Odontología,2024-04-02,
+P1569,Ana Torres,NA,,Surco,Cardiología,2024-08-19,NA
+P1570,Ana Torres,,,San Borja,Odontología,2023-12-22,146.99
+P1571,María López,NA,,La Molina,Emergencia,2023-06-02,428.99
+P1572,Pedro Ruiz,,,Surco,NA,2023-03-06,
+P1573,María López,,,,Pediatría,2023-03-06,51.86
+P1574,Carlos Díaz,,,Surco,NA,2023-07-27,64.01
+P1575,Jorge Salas,58,,Surco,NA,2023-03-11,NA
+P1576,María López,NA,NA,NA,NA,2024-11-06,
+P1577,María López,,,La Molina,Pediatría,2023-06-29,422.08
+P1578,María López,NA,F,NA,Odontología,2023-10-15,NA
+P1579,Jorge Salas,NA,NA,La Molina,Odontología,2023-03-04,
+P1580,Jorge Salas,NA,M,San Isidro,NA,2024-09-12,
+P1581,María López,,F,,Cardiología,2023-01-05,NA
+P1582,Ana Torres,,M,Miraflores,Cardiología,2024-01-31,
+P1583,Jorge Salas,65,NA,Miraflores,NA,2024-11-15,
+P1584,Ana Torres,,NA,La Molina,NA,2024-11-19,61.14
+P1585,Carlos Díaz,5,,Miraflores,Laboratorio,2023-03-23,
+P1586,Carlos Díaz,NA,NA,La Molina,Odontología,2024-07-04,193.5
+P1587,María López,NA,,San Isidro,Pediatría,2023-11-10,NA
+P1588,Lucía Gómez,,F,,Emergencia,2024-03-05,NA
+P1589,Lucía Gómez,,F,Miraflores,,2023-04-29,191.71
+P1590,Jorge Salas,NA,NA,NA,Emergencia,2023-09-11,485.99
+P1591,Pedro Ruiz,15,,San Isidro,,2023-07-10,98.79
+P1592,Jorge Salas,21,,,Laboratorio,2023-04-09,
+P1593,Pedro Ruiz,NA,,San Borja,NA,2024-03-31,NA
+P1594,Carlos Díaz,88,,San Isidro,Odontología,2023-06-08,
+P1595,María López,,F,Miraflores,NA,2024-12-04,300.26
+P1596,Ana Torres,,M,Surco,NA,2023-05-29,
+P1597,María López,12,NA,Miraflores,NA,2023-11-25,
+P1598,María López,,,La Molina,,2023-01-07,431.13
+P1599,Jorge Salas,NA,,Surco,NA,2024-08-12,NA
+P1600,Luis Pérez,13,F,La Molina,,2024-11-01,NA
+P1601,Jorge Salas,,F,Miraflores,Cardiología,2024-07-24,NA
+P1602,Luis Pérez,57,F,San Borja,Emergencia,2023-12-03,72.12
+P1603,Pedro Ruiz,14,M,Surco,,2024-11-17,NA
+P1604,Luis Pérez,NA,F,San Isidro,Emergencia,2023-08-19,
+P1605,Pedro Ruiz,NA,NA,Surco,NA,2023-09-27,456.09
+P1606,María López,NA,M,San Borja,,2023-01-27,NA
+P1607,María López,38,NA,San Borja,Odontología,2023-03-12,
+P1608,Carlos Díaz,NA,F,San Borja,NA,2023-06-24,NA
+P1609,Jorge Salas,85,,La Molina,Odontología,2023-03-30,NA
+P1610,Pedro Ruiz,,M,San Borja,Laboratorio,2023-11-15,79.76
+P1611,María López,81,,San Borja,Emergencia,2024-07-12,378.05
+P1612,Luis Pérez,,M,Miraflores,Pediatría,2024-12-05,138.69
+P1613,Jorge Salas,,M,,,2023-10-12,454.87
+P1614,Ana Torres,53,,San Borja,,2023-06-14,247.19
+P1615,Jorge Salas,,M,Miraflores,Emergencia,2023-11-19,
+P1616,Ana Torres,80,NA,,Cardiología,2024-06-29,415.59
+P1617,Lucía Gómez,59,F,Miraflores,,2023-02-09,
+P1618,Lucía Gómez,61,F,,Cardiología,2024-01-06,NA
+P1619,María López,50,NA,San Isidro,,2023-01-12,270.36
+P1620,Ana Torres,55,,NA,Pediatría,2024-02-27,75.63
+P1621,Carlos Díaz,NA,,Miraflores,Pediatría,2024-03-04,301.02
+P1622,Luis Pérez,80,NA,NA,Emergencia,2023-10-06,428.79
+P1623,Ana Torres,NA,F,Miraflores,Cardiología,2024-07-02,474.66
+P1624,María López,,NA,Miraflores,,2023-01-19,NA
+P1625,Lucía Gómez,42,,NA,NA,2024-06-14,103.29
+P1626,Lucía Gómez,NA,,Miraflores,Laboratorio,2023-02-23,
+P1627,Ana Torres,72,M,La Molina,Cardiología,2023-02-13,308.09
+P1628,Carlos Díaz,NA,F,La Molina,Odontología,2024-01-23,
+P1629,Carlos Díaz,NA,,NA,Emergencia,2024-04-07,360.1
+P1630,Luis Pérez,,,La Molina,Emergencia,2024-08-24,
+P1631,Luis Pérez,29,,Surco,Emergencia,2024-09-28,294.42
+P1632,Jorge Salas,,M,Miraflores,Odontología,2023-08-03,
+P1633,Pedro Ruiz,37,NA,La Molina,Cardiología,2024-04-04,459.59
+P1634,Jorge Salas,84,M,San Isidro,NA,2024-01-27,
+P1635,María López,,,,Odontología,2023-08-13,NA
+P1636,María López,NA,NA,San Borja,Pediatría,2023-11-30,
+P1637,Pedro Ruiz,NA,NA,Miraflores,Emergencia,2024-02-22,NA
+P1638,Lucía Gómez,NA,,San Borja,Cardiología,2024-04-05,295.42
+P1639,Lucía Gómez,9,M,Surco,Pediatría,2023-12-09,
+P1640,Jorge Salas,NA,NA,Miraflores,Laboratorio,2023-03-01,199.92
+P1641,Jorge Salas,NA,NA,Surco,Laboratorio,2023-07-03,
+P1642,Carlos Díaz,NA,,Surco,,2023-04-29,NA
+P1643,Ana Torres,52,NA,Surco,Cardiología,2023-01-30,NA
+P1644,Pedro Ruiz,,,Miraflores,NA,2023-10-04,NA
+P1645,Ana Torres,78,F,Miraflores,Cardiología,2023-07-10,NA
+P1646,Ana Torres,90,M,,Odontología,2023-09-26,310.47
+P1647,Jorge Salas,21,,,Laboratorio,2024-12-05,
+P1648,María López,,,La Molina,Odontología,2024-03-24,
+P1649,Luis Pérez,,NA,Surco,Laboratorio,2023-04-24,275.33
+P1650,Lucía Gómez,,F,,NA,2023-06-13,
+P1651,María López,,F,NA,NA,2023-04-23,NA
+P1652,Pedro Ruiz,NA,,NA,NA,2023-06-01,94.32
+P1653,Pedro Ruiz,57,F,Surco,Odontología,2024-09-13,86.12
+P1654,Pedro Ruiz,NA,M,,Laboratorio,2024-03-04,
+P1655,María López,NA,NA,San Isidro,Cardiología,2023-05-17,NA
+P1656,Lucía Gómez,,,San Isidro,Emergencia,2024-09-14,203.82
+P1657,Lucía Gómez,,M,Miraflores,Pediatría,2024-05-05,113.76
+P1658,Jorge Salas,54,F,,Laboratorio,2023-09-15,
+P1659,Carlos Díaz,15,,San Isidro,NA,2024-08-25,
+P1660,María López,,NA,NA,Cardiología,2023-02-06,NA
+P1661,Pedro Ruiz,NA,M,Surco,Laboratorio,2023-02-27,NA
+P1662,Lucía Gómez,,NA,Miraflores,Pediatría,2023-11-30,
+P1663,Jorge Salas,,NA,San Borja,Odontología,2023-10-20,134.82
+P1664,Carlos Díaz,46,NA,Surco,Laboratorio,2024-07-04,NA
+P1665,Ana Torres,NA,F,Surco,Odontología,2024-08-25,126.38
+P1666,Carlos Díaz,NA,M,La Molina,NA,2023-04-12,NA
+P1667,Carlos Díaz,34,,Miraflores,Emergencia,2023-05-27,61.65
+P1668,Luis Pérez,NA,,San Borja,Laboratorio,2023-07-13,NA
+P1669,Luis Pérez,,F,La Molina,Pediatría,2023-01-12,
+P1670,Lucía Gómez,64,F,La Molina,Pediatría,2024-04-17,163.49
+P1671,Luis Pérez,,,,NA,2024-08-25,354.66
+P1672,Lucía Gómez,,M,NA,Laboratorio,2024-03-19,
+P1673,Lucía Gómez,,NA,San Isidro,Laboratorio,2023-06-22,NA
+P1674,María López,28,M,,NA,2023-10-28,NA
+P1675,Pedro Ruiz,72,F,NA,,2023-04-20,
+P1676,María López,88,M,,NA,2023-11-09,313.25
+P1677,Jorge Salas,52,M,San Borja,Laboratorio,2024-01-05,NA
+P1678,Carlos Díaz,NA,M,San Isidro,Emergencia,2023-08-05,NA
+P1679,María López,NA,F,La Molina,Odontología,2024-10-24,NA
+P1680,Carlos Díaz,,F,San Isidro,Cardiología,2024-08-29,259.24
+P1681,María López,46,F,San Isidro,NA,2024-12-08,NA
+P1682,Lucía Gómez,,F,San Borja,Pediatría,2023-02-18,
+P1683,Jorge Salas,NA,,San Borja,,2023-07-12,NA
+P1684,Luis Pérez,,M,Surco,Pediatría,2023-06-14,NA
+P1685,María López,,,San Borja,Odontología,2023-07-19,183.42
+P1686,Ana Torres,,M,La Molina,,2024-12-01,NA
+P1687,Pedro Ruiz,,M,San Borja,Emergencia,2023-02-19,226.63
+P1688,Luis Pérez,23,F,NA,Odontología,2023-04-11,NA
+P1689,Ana Torres,,NA,Surco,,2024-10-15,155.2
+P1690,Ana Torres,22,NA,NA,Emergencia,2024-05-31,
+P1691,Pedro Ruiz,,,San Borja,Odontología,2024-09-22,
+P1692,Jorge Salas,NA,NA,NA,Pediatría,2024-01-31,
+P1693,Ana Torres,,F,La Molina,Pediatría,2023-09-27,NA
+P1694,Luis Pérez,NA,M,Surco,Laboratorio,2024-11-14,
+P1695,Pedro Ruiz,NA,F,NA,Emergencia,2023-12-01,NA
+P1696,Luis Pérez,NA,M,Miraflores,Pediatría,2023-02-02,
+P1697,Lucía Gómez,,NA,La Molina,NA,2024-11-17,NA
+P1698,María López,,F,Surco,,2023-07-01,
+P1699,Carlos Díaz,NA,NA,San Borja,Emergencia,2023-06-24,409.48
+P1700,Pedro Ruiz,,NA,Surco,Emergencia,2024-03-16,212.6
+P1701,Lucía Gómez,,NA,San Borja,Odontología,2023-02-14,365.34
+P1702,Lucía Gómez,31,,,Odontología,2023-10-02,
+P1703,Ana Torres,,F,San Borja,Cardiología,2024-12-20,
+P1704,Lucía Gómez,NA,F,NA,Emergencia,2024-07-21,
+P1705,María López,NA,M,Miraflores,NA,2024-09-22,NA
+P1706,Ana Torres,,M,La Molina,Odontología,2024-12-01,273.12
+P1707,Lucía Gómez,NA,,Miraflores,Pediatría,2023-06-01,
+P1708,Jorge Salas,43,F,San Isidro,,2024-08-07,366.76
+P1709,María López,58,,Miraflores,Pediatría,2024-05-31,
+P1710,Lucía Gómez,NA,M,Miraflores,Emergencia,2024-04-27,289.26
+P1711,Jorge Salas,,F,NA,Cardiología,2024-04-20,484.91
+P1712,Lucía Gómez,51,NA,,Odontología,2024-10-11,
+P1713,Lucía Gómez,36,NA,Miraflores,Emergencia,2024-10-09,NA
+P1714,Lucía Gómez,34,,La Molina,,2024-01-17,
+P1715,Pedro Ruiz,40,F,San Borja,NA,2024-10-26,
+P1716,Jorge Salas,NA,M,Miraflores,,2023-09-03,
+P1717,Carlos Díaz,,M,,Pediatría,2024-01-08,NA
+P1718,Luis Pérez,NA,F,,Pediatría,2024-09-05,307.33
+P1719,María López,,F,Miraflores,Cardiología,2023-04-12,
+P1720,Ana Torres,NA,F,NA,,2023-07-29,52.61
+P1721,Lucía Gómez,,NA,Miraflores,NA,2024-10-04,NA
+P1722,Luis Pérez,18,NA,San Borja,Cardiología,2024-10-22,NA
+P1723,Carlos Díaz,58,NA,San Borja,Emergencia,2024-06-17,
+P1724,Luis Pérez,20,NA,San Borja,Cardiología,2024-11-29,NA
+P1725,Carlos Díaz,,M,San Isidro,Laboratorio,2023-06-23,NA
+P1726,Ana Torres,,,San Isidro,NA,2024-01-05,432.39
+P1727,Luis Pérez,5,F,La Molina,Pediatría,2023-03-13,NA
+P1728,Carlos Díaz,,F,,Pediatría,2023-01-06,NA
+P1729,Pedro Ruiz,NA,M,San Borja,Laboratorio,2024-05-21,51.65
+P1730,María López,39,,,Laboratorio,2023-09-05,352.44
+P1731,María López,42,NA,San Isidro,Laboratorio,2023-11-09,NA
+P1732,Luis Pérez,NA,F,NA,Laboratorio,2024-06-04,NA
+P1733,Carlos Díaz,49,,,Cardiología,2023-04-23,
+P1734,Lucía Gómez,12,M,NA,Odontología,2023-12-18,NA
+P1735,Pedro Ruiz,,F,San Borja,Pediatría,2023-06-08,
+P1736,María López,NA,F,NA,Pediatría,2023-11-30,154.33
+P1737,Pedro Ruiz,NA,,Miraflores,Emergencia,2024-08-11,
+P1738,Pedro Ruiz,NA,,San Isidro,,2024-06-27,336.43
+P1739,Pedro Ruiz,,,Miraflores,Cardiología,2024-12-06,NA
+P1740,Luis Pérez,,,San Borja,NA,2024-02-28,NA
+P1741,María López,12,M,Surco,Cardiología,2023-08-25,
+P1742,Ana Torres,90,F,San Borja,NA,2023-06-28,NA
+P1743,Carlos Díaz,,,La Molina,Cardiología,2024-03-31,97.62
+P1744,Ana Torres,,M,San Borja,Pediatría,2023-01-17,NA
+P1745,Luis Pérez,32,NA,San Borja,Odontología,2023-12-14,NA
+P1746,María López,NA,F,La Molina,Cardiología,2023-04-01,202.76
+P1747,María López,NA,NA,NA,Emergencia,2023-04-20,
+P1748,Pedro Ruiz,,M,La Molina,,2024-01-10,
+P1749,Ana Torres,NA,M,Surco,Laboratorio,2024-02-08,344.7
+P1750,Jorge Salas,75,,San Borja,Odontología,2023-05-25,
+P1751,María López,37,M,NA,Laboratorio,2024-01-03,306.54
+P1752,Lucía Gómez,NA,F,NA,Laboratorio,2024-09-28,255.5
+P1753,María López,53,,Surco,Odontología,2024-05-28,424.74
+P1754,Carlos Díaz,NA,,La Molina,Cardiología,2023-06-19,NA
+P1755,Luis Pérez,NA,NA,La Molina,Laboratorio,2023-02-06,
+P1756,Carlos Díaz,5,,San Borja,Pediatría,2024-02-16,83.11
+P1757,María López,61,NA,,Laboratorio,2024-03-19,NA
+P1758,Carlos Díaz,NA,NA,Surco,Pediatría,2023-07-01,NA
+P1759,María López,,M,San Borja,Odontología,2024-10-12,
+P1760,Luis Pérez,68,,La Molina,Emergencia,2023-05-23,NA
+P1761,María López,,,Surco,NA,2023-12-30,370.77
+P1762,Jorge Salas,40,M,Miraflores,Pediatría,2024-02-27,133.26
+P1763,Ana Torres,NA,,Surco,Pediatría,2024-05-18,NA
+P1764,Carlos Díaz,30,NA,NA,,2024-01-31,180.38
+P1765,María López,,F,La Molina,Laboratorio,2024-09-22,
+P1766,Jorge Salas,,,Surco,Laboratorio,2024-02-03,
+P1767,Carlos Díaz,,M,San Borja,NA,2023-11-25,
+P1768,Luis Pérez,90,,La Molina,Emergencia,2023-03-15,
+P1769,Jorge Salas,,,San Isidro,,2023-01-31,112.97
+P1770,Pedro Ruiz,NA,,San Isidro,Odontología,2023-08-22,147.15
+P1771,Lucía Gómez,,F,NA,Emergencia,2023-09-01,NA
+P1772,Pedro Ruiz,,M,La Molina,Laboratorio,2023-04-07,113.63
+P1773,Ana Torres,40,,Surco,Laboratorio,2024-09-06,82.88
+P1774,Jorge Salas,,NA,San Isidro,Emergencia,2023-03-07,
+P1775,María López,NA,,,Laboratorio,2023-04-03,364.31
+P1776,Ana Torres,NA,F,NA,Odontología,2023-09-22,NA
+P1777,Lucía Gómez,,F,San Borja,Pediatría,2023-01-19,
+P1778,María López,11,NA,La Molina,Pediatría,2024-05-26,NA
+P1779,Ana Torres,NA,NA,San Borja,Pediatría,2023-04-23,
+P1780,Ana Torres,85,F,Surco,Odontología,2023-07-03,54.96
+P1781,María López,NA,NA,Surco,Cardiología,2024-03-04,
+P1782,Lucía Gómez,NA,NA,NA,Cardiología,2024-08-14,
+P1783,Luis Pérez,,F,Surco,Odontología,2024-11-15,
+P1784,Lucía Gómez,,NA,Surco,Odontología,2023-02-27,NA
+P1785,Pedro Ruiz,NA,,San Isidro,,2023-07-27,NA
+P1786,Luis Pérez,88,F,NA,Cardiología,2024-04-03,
+P1787,Carlos Díaz,NA,M,NA,Cardiología,2023-09-19,
+P1788,Ana Torres,,M,,Emergencia,2024-05-06,NA
+P1789,Jorge Salas,NA,,San Isidro,Emergencia,2024-09-03,
+P1790,Luis Pérez,29,F,La Molina,Emergencia,2024-02-11,
+P1791,Jorge Salas,19,F,NA,Cardiología,2023-12-12,
+P1792,Pedro Ruiz,75,F,Surco,Emergencia,2023-03-29,NA
+P1793,Ana Torres,NA,M,Miraflores,Laboratorio,2024-06-15,220.53
+P1794,Ana Torres,3,NA,San Borja,NA,2024-10-27,205.35
+P1795,Pedro Ruiz,NA,F,La Molina,Emergencia,2024-06-21,469.76
+P1796,Pedro Ruiz,38,NA,NA,Cardiología,2023-06-30,NA
+P1797,Pedro Ruiz,NA,NA,San Isidro,,2024-12-12,NA
+P1798,Pedro Ruiz,,NA,,Laboratorio,2024-08-22,227.17
+P1799,Jorge Salas,,M,San Borja,Pediatría,2024-08-02,496.94
+P1800,Luis Pérez,73,NA,Miraflores,Pediatría,2024-11-08,
+P1801,Ana Torres,31,F,NA,,2024-07-23,
+P1802,Lucía Gómez,NA,,NA,,2023-10-14,
+P1803,María López,NA,M,,,2023-03-18,252.25
+P1804,Lucía Gómez,,F,Miraflores,NA,2023-11-22,
+P1805,Carlos Díaz,49,M,Miraflores,Laboratorio,2024-02-23,
+P1806,Ana Torres,NA,,NA,Cardiología,2023-03-31,
+P1807,Lucía Gómez,6,F,,Laboratorio,2024-05-13,180.87
+P1808,Jorge Salas,58,F,La Molina,Emergencia,2024-12-15,NA
+P1809,Carlos Díaz,NA,M,San Borja,Pediatría,2024-03-14,
+P1810,Luis Pérez,,F,NA,Emergencia,2023-12-08,290.95
+P1811,María López,,,NA,Emergencia,2024-07-07,
+P1812,Pedro Ruiz,23,,San Borja,,2024-08-05,
+P1813,María López,NA,,San Isidro,Emergencia,2023-10-17,97.31
+P1814,Carlos Díaz,,F,San Borja,Odontología,2024-01-13,
+P1815,Luis Pérez,1,NA,Surco,Emergencia,2024-12-17,
+P1816,María López,,F,Surco,Emergencia,2023-09-04,241.59
+P1817,Pedro Ruiz,NA,M,San Borja,Emergencia,2024-07-10,NA
+P1818,Luis Pérez,,,,NA,2023-08-21,
+P1819,Jorge Salas,,M,Miraflores,Pediatría,2023-08-02,307.58
+P1820,Ana Torres,NA,M,Miraflores,Pediatría,2024-05-24,123.72
+P1821,Ana Torres,NA,F,San Isidro,Cardiología,2024-08-06,129.75
+P1822,Pedro Ruiz,,,San Borja,Laboratorio,2024-07-05,
+P1823,María López,2,F,,NA,2024-05-20,NA
+P1824,Luis Pérez,19,,La Molina,Odontología,2024-09-05,NA
+P1825,Luis Pérez,,M,NA,,2023-12-21,
+P1826,Carlos Díaz,30,NA,Surco,Laboratorio,2024-01-26,
+P1827,Jorge Salas,NA,F,La Molina,Laboratorio,2023-07-31,222.63
+P1828,Ana Torres,,,Surco,NA,2024-07-14,
+P1829,Pedro Ruiz,NA,M,Miraflores,,2023-08-30,278.17
+P1830,Carlos Díaz,,M,La Molina,Laboratorio,2024-04-26,262.95
+P1831,Lucía Gómez,82,NA,San Isidro,NA,2023-05-23,
+P1832,Luis Pérez,,M,Surco,Laboratorio,2023-04-19,
+P1833,Ana Torres,,M,Miraflores,NA,2023-02-28,NA
+P1834,Carlos Díaz,,NA,Surco,Emergencia,2024-04-19,NA
+P1835,Luis Pérez,20,M,NA,NA,2023-02-17,
+P1836,Jorge Salas,NA,,,Cardiología,2023-05-17,NA
+P1837,Ana Torres,,F,San Borja,Odontología,2023-02-08,462.99
+P1838,Jorge Salas,NA,F,,Odontología,2024-08-11,170.95
+P1839,Pedro Ruiz,NA,NA,San Borja,NA,2023-10-17,
+P1840,María López,NA,,San Borja,Pediatría,2024-10-24,NA
+P1841,Ana Torres,NA,NA,,,2024-09-14,NA
+P1842,Lucía Gómez,NA,,Surco,Laboratorio,2024-08-03,NA
+P1843,Carlos Díaz,5,M,Miraflores,Odontología,2024-06-04,487.23
+P1844,Lucía Gómez,NA,F,San Borja,NA,2024-02-16,467.51
+P1845,Pedro Ruiz,,M,San Borja,Pediatría,2024-01-15,322.89
+P1846,Luis Pérez,,F,Surco,,2023-06-20,487.76
+P1847,Ana Torres,6,NA,Miraflores,NA,2023-07-19,NA
+P1848,Pedro Ruiz,,,,Pediatría,2023-11-18,NA
+P1849,Jorge Salas,,F,Surco,Odontología,2024-09-30,
+P1850,María López,5,,,NA,2023-05-16,
+P1851,María López,8,M,Surco,NA,2023-08-16,
+P1852,Pedro Ruiz,,,Surco,,2024-01-11,NA
+P1853,Carlos Díaz,2,NA,NA,Odontología,2023-11-13,240.65
+P1854,Pedro Ruiz,31,,Surco,Odontología,2024-03-03,NA
+P1855,Lucía Gómez,,,,Pediatría,2023-05-23,NA
+P1856,Lucía Gómez,NA,NA,NA,Cardiología,2024-06-01,55.86
+P1857,Luis Pérez,9,,,Cardiología,2023-12-20,253.23
+P1858,Ana Torres,,NA,San Borja,Emergencia,2024-09-27,NA
+P1859,Luis Pérez,75,,Miraflores,NA,2023-08-28,NA
+P1860,María López,NA,NA,NA,Emergencia,2024-08-08,315.66
+P1861,María López,,M,San Isidro,,2023-01-24,NA
+P1862,Lucía Gómez,,M,San Isidro,,2024-09-09,
+P1863,Jorge Salas,,,Miraflores,Odontología,2023-10-16,NA
+P1864,Carlos Díaz,,NA,Surco,Cardiología,2023-11-25,65.12
+P1865,Luis Pérez,38,F,San Isidro,,2023-09-28,NA
+P1866,Luis Pérez,4,F,San Isidro,NA,2024-11-27,72.2
+P1867,Luis Pérez,,,Surco,NA,2024-01-02,NA
+P1868,Lucía Gómez,NA,F,,NA,2024-08-30,
+P1869,Pedro Ruiz,,M,,Emergencia,2024-03-06,NA
+P1870,Ana Torres,,M,Surco,Emergencia,2023-12-17,NA
+P1871,Pedro Ruiz,,,San Isidro,,2024-01-05,NA
+P1872,Pedro Ruiz,NA,,San Isidro,Odontología,2024-03-01,
+P1873,María López,,NA,San Borja,,2024-10-06,
+P1874,Pedro Ruiz,50,F,San Isidro,Laboratorio,2024-03-04,NA
+P1875,Jorge Salas,NA,F,San Borja,Odontología,2023-05-17,
+P1876,Lucía Gómez,,M,Surco,Odontología,2023-06-17,
+P1877,Luis Pérez,64,,Surco,NA,2024-01-13,464.6
+P1878,Luis Pérez,,,,Odontología,2024-01-30,338.04
+P1879,Luis Pérez,64,F,,Cardiología,2024-07-23,231.07
+P1880,Luis Pérez,,F,Miraflores,Emergencia,2024-08-07,444.7
+P1881,Jorge Salas,NA,NA,La Molina,Laboratorio,2023-04-08,
+P1882,Jorge Salas,NA,NA,San Borja,NA,2023-04-10,
+P1883,Carlos Díaz,NA,,Surco,Cardiología,2024-05-24,
+P1884,Luis Pérez,,NA,NA,Cardiología,2023-11-18,
+P1885,María López,NA,F,San Isidro,Emergencia,2023-09-18,
+P1886,Carlos Díaz,NA,NA,San Borja,Cardiología,2023-07-05,162.93
+P1887,Pedro Ruiz,22,,Surco,NA,2024-09-19,
+P1888,Pedro Ruiz,14,F,Surco,Laboratorio,2023-03-19,
+P1889,Carlos Díaz,,NA,San Isidro,Odontología,2024-05-07,
+P1890,Pedro Ruiz,41,,La Molina,Pediatría,2023-01-25,418.94
+P1891,Luis Pérez,NA,M,NA,Laboratorio,2024-10-14,
+P1892,Jorge Salas,73,F,Surco,Odontología,2024-07-17,NA
+P1893,Lucía Gómez,,,,Cardiología,2024-04-20,489.89
+P1894,Carlos Díaz,,NA,Surco,Pediatría,2024-07-04,
+P1895,Ana Torres,NA,M,NA,Laboratorio,2023-10-27,
+P1896,Pedro Ruiz,NA,M,San Isidro,NA,2023-07-22,
+P1897,Jorge Salas,40,NA,San Isidro,,2023-03-22,435.06
+P1898,Luis Pérez,35,F,San Borja,Laboratorio,2023-09-02,191.32
+P1899,Luis Pérez,NA,NA,San Borja,NA,2023-08-17,
+P1900,Jorge Salas,,F,NA,,2024-03-07,NA
+P1901,María López,20,M,San Isidro,Emergencia,2024-01-13,NA
+P1902,Jorge Salas,27,,NA,Pediatría,2023-04-09,
+P1903,Lucía Gómez,67,NA,La Molina,Emergencia,2023-09-17,198.41
+P1904,Jorge Salas,NA,NA,La Molina,Odontología,2024-04-22,NA
+P1905,Jorge Salas,NA,,,Cardiología,2024-09-03,271.96
+P1906,Carlos Díaz,NA,M,San Isidro,Laboratorio,2024-05-28,
+P1907,Luis Pérez,NA,,San Borja,,2023-11-05,NA
+P1908,María López,,M,San Borja,Odontología,2024-01-16,
+P1909,Lucía Gómez,NA,,NA,Laboratorio,2023-01-22,368.84
+P1910,María López,,F,,NA,2024-02-16,470.22
+P1911,Jorge Salas,85,,San Isidro,Cardiología,2023-05-01,
+P1912,Pedro Ruiz,76,F,Miraflores,Laboratorio,2023-03-15,NA
+P1913,Lucía Gómez,,F,Surco,Pediatría,2023-07-03,83.97
+P1914,Luis Pérez,27,M,,NA,2024-05-02,NA
+P1915,María López,,F,Surco,NA,2023-11-07,404.38
+P1916,Carlos Díaz,NA,NA,Miraflores,Cardiología,2023-12-06,
+P1917,Pedro Ruiz,70,NA,NA,Pediatría,2023-08-31,NA
+P1918,Luis Pérez,49,,,Cardiología,2024-08-11,
+P1919,Jorge Salas,,NA,Surco,Odontología,2024-05-24,
+P1920,Carlos Díaz,62,NA,San Isidro,,2023-11-14,
+P1921,Jorge Salas,NA,,,Laboratorio,2024-01-05,344.62
+P1922,Lucía Gómez,NA,NA,,Emergencia,2024-05-19,
+P1923,Jorge Salas,,F,,Pediatría,2023-04-01,NA
+P1924,Luis Pérez,23,,,Odontología,2023-07-24,NA
+P1925,Carlos Díaz,NA,NA,Surco,Odontología,2024-12-15,
+P1926,Ana Torres,NA,F,Surco,Emergencia,2024-08-23,NA
+P1927,Lucía Gómez,83,M,Surco,Cardiología,2023-08-28,249.43
+P1928,Carlos Díaz,NA,M,San Borja,Emergencia,2023-04-04,227.26
+P1929,Ana Torres,NA,,San Borja,Pediatría,2024-02-06,
+P1930,Carlos Díaz,NA,F,Miraflores,Odontología,2023-10-30,NA
+P1931,Luis Pérez,,NA,,NA,2023-06-18,74.01
+P1932,Carlos Díaz,81,NA,Miraflores,Pediatría,2024-08-14,
+P1933,Ana Torres,,NA,Miraflores,Cardiología,2023-08-13,433.03
+P1934,Luis Pérez,,,,,2023-02-21,NA
+P1935,Ana Torres,,,NA,Laboratorio,2024-11-29,
+P1936,Pedro Ruiz,,NA,San Isidro,Laboratorio,2023-11-11,
+P1937,Jorge Salas,,M,Surco,Cardiología,2024-07-16,
+P1938,Jorge Salas,2,F,San Isidro,Emergencia,2024-07-31,NA
+P1939,Lucía Gómez,32,F,,Odontología,2023-07-20,96.61
+P1940,Pedro Ruiz,NA,NA,Miraflores,NA,2023-03-31,
+P1941,Jorge Salas,,M,San Borja,Cardiología,2024-12-12,NA
+P1942,Lucía Gómez,NA,F,La Molina,Emergencia,2024-01-25,406.37
+P1943,María López,NA,NA,NA,Emergencia,2024-02-27,NA
+P1944,Ana Torres,NA,M,NA,,2024-06-18,NA
+P1945,Pedro Ruiz,,,NA,,2023-07-28,NA
+P1946,Luis Pérez,NA,F,NA,,2023-11-19,364.66
+P1947,Carlos Díaz,83,,San Borja,Odontología,2024-09-30,453.7
+P1948,Jorge Salas,67,F,San Borja,Cardiología,2024-10-16,
+P1949,Lucía Gómez,,NA,Surco,Laboratorio,2024-05-07,411.16
+P1950,Jorge Salas,62,NA,,Emergencia,2023-12-13,NA
+P1951,Lucía Gómez,NA,F,NA,Odontología,2023-10-23,NA
+P1952,Ana Torres,,M,,Laboratorio,2023-12-20,276.66
+P1953,Carlos Díaz,,M,,Pediatría,2024-11-21,
+P1954,Pedro Ruiz,NA,M,Miraflores,,2024-08-18,361.09
+P1955,María López,NA,NA,NA,Odontología,2024-12-20,NA
+P1956,Carlos Díaz,NA,F,Miraflores,Laboratorio,2023-06-04,
+P1957,Jorge Salas,10,F,San Isidro,,2023-01-31,
+P1958,María López,,NA,San Isidro,,2024-12-19,NA
+P1959,Carlos Díaz,34,,La Molina,Emergencia,2024-06-06,334.37
+P1960,Jorge Salas,NA,M,La Molina,Emergencia,2023-07-01,
+P1961,Lucía Gómez,76,F,San Borja,NA,2024-11-15,NA
+P1962,Ana Torres,,,Miraflores,Pediatría,2023-10-18,
+P1963,Luis Pérez,,NA,San Isidro,Pediatría,2024-07-18,
+P1964,Luis Pérez,13,NA,,Cardiología,2024-06-09,
+P1965,Pedro Ruiz,NA,F,,Cardiología,2023-12-20,
+P1966,María López,15,M,,,2024-10-14,491.46
+P1967,Ana Torres,NA,NA,Miraflores,Cardiología,2024-07-17,
+P1968,Pedro Ruiz,,F,San Borja,Emergencia,2023-03-18,405.44
+P1969,Jorge Salas,33,NA,San Borja,NA,2024-03-30,146.0
+P1970,Luis Pérez,60,F,,,2024-09-18,57.69
+P1971,Lucía Gómez,62,NA,Surco,Emergencia,2024-05-22,NA
+P1972,Lucía Gómez,,F,La Molina,Emergencia,2024-02-14,NA
+P1973,María López,,F,San Isidro,Emergencia,2023-06-11,
+P1974,Pedro Ruiz,NA,M,San Isidro,Pediatría,2024-08-29,
+P1975,Ana Torres,NA,F,NA,NA,2024-06-22,
+P1976,Carlos Díaz,38,M,La Molina,Laboratorio,2024-06-27,NA
+P1977,María López,80,M,San Borja,NA,2024-08-30,
+P1978,Pedro Ruiz,,NA,San Borja,NA,2023-11-02,307.97
+P1979,Luis Pérez,NA,,,Laboratorio,2023-01-06,
+P1980,Lucía Gómez,79,NA,NA,Laboratorio,2023-08-18,
+P1981,Luis Pérez,NA,,,Odontología,2023-01-17,166.39
+P1982,Luis Pérez,20,NA,Miraflores,Laboratorio,2024-03-27,NA
+P1983,Luis Pérez,,NA,Miraflores,,2024-10-01,NA
+P1984,Carlos Díaz,36,M,,Emergencia,2024-09-16,NA
+P1985,María López,NA,NA,Miraflores,Odontología,2023-02-19,NA
+P1986,Luis Pérez,51,,Miraflores,,2024-10-10,NA
+P1987,Jorge Salas,NA,NA,Surco,Pediatría,2024-03-06,NA
+P1988,Luis Pérez,NA,F,NA,Cardiología,2023-04-09,484.47
+P1989,Jorge Salas,86,M,NA,Odontología,2024-02-29,NA
+P1990,Ana Torres,86,F,Miraflores,Emergencia,2024-11-25,333.54
+P1991,Carlos Díaz,NA,F,Surco,,2024-05-07,
+P1992,Carlos Díaz,81,F,San Isidro,Odontología,2023-05-13,
+P1993,Lucía Gómez,,NA,,Odontología,2024-05-08,NA
+P1994,Ana Torres,43,,La Molina,Emergencia,2023-05-17,
+P1995,Lucía Gómez,48,M,,NA,2024-01-04,NA
+P1996,Pedro Ruiz,NA,M,Miraflores,NA,2024-04-18,
+P1997,María López,90,M,NA,NA,2024-10-30,NA
+P1998,María López,,F,Miraflores,Odontología,2024-07-04,198.55
+P1999,Jorge Salas,84,M,San Borja,,2023-07-24,
+P2000,Luis Pérez,61,F,Surco,NA,2024-06-07,
+P2001,Ana Torres,62,M,San Isidro,Cardiología,2024-12-20,474.23
+P2002,Lucía Gómez,NA,M,San Borja,Pediatría,2024-02-01,NA
+P2003,Lucía Gómez,,,,NA,2024-03-15,
+P2004,Lucía Gómez,NA,M,San Isidro,Laboratorio,2023-11-17,
+P2005,Pedro Ruiz,NA,M,,Emergencia,2024-12-15,
+P2006,Ana Torres,NA,M,San Isidro,NA,2024-01-11,167.95
+P2007,Ana Torres,,NA,Surco,Odontología,2024-12-13,NA
+P2008,Luis Pérez,33,,Miraflores,Cardiología,2024-12-23,334.39
+P2009,Pedro Ruiz,NA,F,San Isidro,Emergencia,2023-06-20,NA
+P2010,Luis Pérez,NA,M,La Molina,Laboratorio,2023-08-16,NA
+P2011,Jorge Salas,,F,,Pediatría,2024-06-03,NA
+P2012,Jorge Salas,,NA,Surco,NA,2024-12-31,271.93
+P2013,María López,NA,,NA,Emergencia,2023-11-02,NA
+P2014,Ana Torres,,,NA,Cardiología,2024-01-19,195.35
+P2015,Carlos Díaz,21,NA,,Cardiología,2023-10-20,NA
+P2016,Carlos Díaz,NA,,San Borja,Cardiología,2024-07-03,
+P2017,María López,,NA,La Molina,Laboratorio,2024-07-03,394.21
+P2018,Luis Pérez,NA,,San Isidro,Odontología,2023-05-20,
+P2019,Carlos Díaz,NA,M,Surco,,2024-09-08,334.47
+P2020,Luis Pérez,NA,F,,Emergencia,2023-02-09,NA
+P2021,María López,18,NA,NA,NA,2023-02-12,147.16
+P2022,María López,80,NA,San Isidro,Emergencia,2024-07-21,154.02
+P2023,María López,0,NA,La Molina,Laboratorio,2023-02-17,
+P2024,Ana Torres,NA,,Miraflores,Laboratorio,2023-05-21,
+P2025,Luis Pérez,54,M,NA,Odontología,2024-04-28,458.35
+P2026,Pedro Ruiz,,,Miraflores,Laboratorio,2024-06-08,
+P2027,Pedro Ruiz,45,M,,Laboratorio,2023-09-17,107.24
+P2028,Carlos Díaz,,,San Isidro,Odontología,2024-04-01,NA
+P2029,María López,NA,,,,2024-05-25,NA
+P2030,Carlos Díaz,,,Miraflores,Laboratorio,2024-10-27,331.1
+P2031,Ana Torres,NA,NA,NA,Odontología,2024-01-12,225.95
+P2032,Ana Torres,35,F,La Molina,Pediatría,2023-04-21,NA
+P2033,María López,NA,M,,,2024-03-07,133.85
+P2034,María López,63,,NA,Laboratorio,2024-11-17,
+P2035,Pedro Ruiz,NA,M,Surco,,2024-03-31,415.21
+P2036,Lucía Gómez,5,F,San Isidro,Pediatría,2023-06-25,83.72
+P2037,Luis Pérez,37,NA,NA,Odontología,2024-10-31,NA
+P2038,Pedro Ruiz,NA,F,La Molina,Odontología,2023-07-20,176.39
+P2039,Lucía Gómez,57,M,San Borja,Laboratorio,2024-11-23,282.4
+P2040,Jorge Salas,,F,,,2023-09-04,151.78
+P2041,Pedro Ruiz,65,NA,NA,Odontología,2024-01-17,
+P2042,Lucía Gómez,16,F,,Cardiología,2024-07-26,NA
+P2043,María López,,M,San Borja,Emergencia,2024-10-13,
+P2044,Pedro Ruiz,NA,M,San Isidro,Pediatría,2024-03-20,NA
+P2045,Lucía Gómez,63,M,San Borja,Laboratorio,2024-04-10,356.73
+P2046,Carlos Díaz,,F,Miraflores,Emergencia,2024-03-09,
+P2047,Pedro Ruiz,,NA,La Molina,,2023-04-07,302.55
+P2048,Luis Pérez,,,La Molina,NA,2023-07-16,NA
+P2049,Jorge Salas,,F,Surco,NA,2024-01-28,
+P2050,Carlos Díaz,NA,NA,San Borja,,2024-06-05,
+P2051,María López,NA,F,San Borja,Pediatría,2024-04-26,NA
+P2052,Pedro Ruiz,NA,F,San Isidro,Odontología,2023-02-19,NA
+P2053,Carlos Díaz,NA,NA,Surco,Emergencia,2024-01-31,NA
+P2054,Jorge Salas,,,San Borja,Emergencia,2024-09-17,
+P2055,María López,,M,,NA,2024-04-19,409.27
+P2056,María López,,NA,La Molina,Pediatría,2023-11-13,NA
+P2057,María López,,M,,Laboratorio,2023-01-12,NA
+P2058,Ana Torres,NA,NA,NA,Emergencia,2024-07-17,478.0
+P2059,María López,33,M,NA,,2023-03-09,145.65
+P2060,María López,,,NA,Pediatría,2024-10-08,NA
+P2061,María López,,M,La Molina,Pediatría,2023-03-17,NA
+P2062,María López,59,,La Molina,Laboratorio,2023-11-08,
+P2063,Lucía Gómez,,F,La Molina,Emergencia,2024-04-07,
+P2064,Jorge Salas,6,NA,San Isidro,NA,2024-06-21,NA
+P2065,Jorge Salas,,F,Surco,Emergencia,2023-03-30,
+P2066,María López,NA,NA,NA,Cardiología,2024-05-09,NA
+P2067,Luis Pérez,NA,F,San Borja,,2024-03-20,419.55
+P2068,Luis Pérez,,,,Odontología,2023-05-18,223.44
+P2069,Jorge Salas,NA,F,La Molina,,2024-11-23,
+P2070,Pedro Ruiz,,,San Borja,,2024-08-01,
+P2071,Lucía Gómez,,NA,La Molina,Emergencia,2023-01-21,NA
+P2072,Jorge Salas,,NA,NA,Odontología,2023-01-14,294.86
+P2073,Ana Torres,3,M,,Odontología,2024-08-06,63.35
+P2074,Lucía Gómez,53,,San Borja,Cardiología,2023-09-25,397.61
+P2075,Lucía Gómez,,F,La Molina,Odontología,2024-03-15,NA
+P2076,Lucía Gómez,39,M,La Molina,Odontología,2023-02-02,NA
+P2077,María López,NA,M,La Molina,,2024-12-09,234.81
+P2078,Jorge Salas,,F,Surco,Emergencia,2024-09-29,NA
+P2079,Carlos Díaz,65,F,Miraflores,Pediatría,2023-02-01,
+P2080,Lucía Gómez,NA,F,,Emergencia,2024-11-15,
+P2081,Lucía Gómez,,F,Surco,NA,2024-07-27,202.29
+P2082,Lucía Gómez,,,Miraflores,NA,2024-11-05,105.23
+P2083,Lucía Gómez,7,M,San Borja,Odontología,2023-09-01,
+P2084,Ana Torres,20,NA,San Borja,Emergencia,2024-03-20,NA
+P2085,Ana Torres,60,,NA,Pediatría,2023-07-04,299.7
+P2086,Pedro Ruiz,4,F,Miraflores,Odontología,2023-08-09,292.75
+P2087,Carlos Díaz,NA,NA,San Isidro,Pediatría,2024-08-14,389.16
+P2088,Jorge Salas,88,NA,San Isidro,Laboratorio,2024-07-19,440.1
+P2089,Pedro Ruiz,NA,,Miraflores,Laboratorio,2023-11-27,197.04
+P2090,Pedro Ruiz,71,,,,2024-11-29,NA
+P2091,María López,72,NA,Surco,Cardiología,2023-11-24,444.52
+P2092,Carlos Díaz,21,M,La Molina,Odontología,2023-12-28,NA
+P2093,Carlos Díaz,,F,San Borja,NA,2024-12-17,
+P2094,Jorge Salas,NA,,San Isidro,Emergencia,2024-01-03,
+P2095,María López,,NA,San Borja,Pediatría,2023-11-11,
+P2096,Jorge Salas,NA,NA,,Laboratorio,2024-03-20,240.09
+P2097,Luis Pérez,NA,M,Surco,Odontología,2024-06-30,445.87
+P2098,Luis Pérez,NA,NA,La Molina,NA,2023-08-15,445.94
+P2099,Ana Torres,,,La Molina,Pediatría,2023-02-07,
+P2100,Jorge Salas,77,F,NA,Laboratorio,2024-06-14,NA
+P2101,Carlos Díaz,,M,San Borja,Odontología,2024-08-31,NA
+P2102,Ana Torres,,F,Miraflores,NA,2023-08-06,352.86
+P2103,María López,5,NA,NA,Emergencia,2023-03-25,276.6
+P2104,Luis Pérez,,F,San Isidro,Emergencia,2023-09-20,322.79
+P2105,Jorge Salas,,,La Molina,NA,2024-07-10,
+P2106,Ana Torres,,M,Surco,Cardiología,2024-09-08,212.72
+P2107,Lucía Gómez,NA,NA,San Borja,Cardiología,2023-04-05,NA
+P2108,Luis Pérez,NA,,,Emergencia,2023-02-14,NA
+P2109,Carlos Díaz,85,M,Surco,Cardiología,2024-07-20,
+P2110,Jorge Salas,NA,M,,Laboratorio,2024-03-05,
+P2111,Pedro Ruiz,,M,La Molina,Pediatría,2023-05-13,275.62
+P2112,Luis Pérez,29,M,La Molina,Odontología,2023-11-13,204.9
+P2113,Pedro Ruiz,NA,M,NA,NA,2024-06-30,NA
+P2114,María López,NA,F,San Borja,Emergencia,2023-11-22,154.78
+P2115,Carlos Díaz,,,San Borja,Emergencia,2024-07-31,
+P2116,Lucía Gómez,NA,NA,Surco,,2023-07-03,NA
+P2117,Jorge Salas,67,,Surco,Pediatría,2024-01-25,
+P2118,Jorge Salas,27,M,San Isidro,Pediatría,2023-03-03,
+P2119,Carlos Díaz,NA,F,La Molina,NA,2024-05-03,NA
+P2120,Carlos Díaz,64,NA,Miraflores,Laboratorio,2024-01-01,344.24
+P2121,Lucía Gómez,NA,NA,NA,Pediatría,2023-09-11,392.14
+P2122,Jorge Salas,55,NA,,Odontología,2024-02-22,NA
+P2123,Ana Torres,38,NA,La Molina,Cardiología,2024-06-15,NA
+P2124,Luis Pérez,,M,Miraflores,NA,2024-09-21,73.8
+P2125,Luis Pérez,NA,NA,San Isidro,Emergencia,2023-03-10,NA
+P2126,Ana Torres,80,F,San Isidro,Cardiología,2023-10-07,
+P2127,Carlos Díaz,38,,,Odontología,2023-07-29,
+P2128,María López,,,San Isidro,Odontología,2024-03-29,108.3
+P2129,Luis Pérez,63,NA,Surco,Laboratorio,2023-03-10,NA
+P2130,Ana Torres,3,M,San Borja,Cardiología,2024-02-03,NA
+P2131,Carlos Díaz,87,NA,Miraflores,Cardiología,2024-01-03,NA
+P2132,Pedro Ruiz,NA,,La Molina,Laboratorio,2023-02-26,480.08
+P2133,Lucía Gómez,NA,F,Miraflores,Laboratorio,2024-06-05,
+P2134,María López,,F,La Molina,Emergencia,2024-02-09,
+P2135,Lucía Gómez,NA,,,,2024-08-13,
+P2136,Luis Pérez,,F,,Cardiología,2023-06-18,NA
+P2137,Carlos Díaz,73,NA,San Isidro,NA,2023-09-26,354.9
+P2138,Lucía Gómez,NA,F,Surco,NA,2023-02-23,236.76
+P2139,Pedro Ruiz,NA,F,Surco,Laboratorio,2023-05-11,NA
+P2140,Luis Pérez,9,M,Miraflores,Laboratorio,2023-07-27,
+P2141,Jorge Salas,NA,F,La Molina,Emergencia,2023-07-03,NA
+P2142,Lucía Gómez,9,F,Surco,Laboratorio,2023-07-07,
+P2143,Jorge Salas,NA,NA,Surco,Odontología,2024-05-24,176.52
+P2144,Jorge Salas,NA,NA,,Laboratorio,2023-11-04,NA
+P2145,Lucía Gómez,,NA,San Borja,Cardiología,2024-08-09,
+P2146,Luis Pérez,NA,,,Cardiología,2024-08-29,441.45
+P2147,Carlos Díaz,81,,San Borja,NA,2024-07-12,
+P2148,Pedro Ruiz,,M,La Molina,Emergencia,2024-12-27,
+P2149,Ana Torres,,F,NA,,2023-04-30,
+P2150,Jorge Salas,,M,San Borja,Emergencia,2024-01-05,175.42
+P2151,Ana Torres,,NA,San Isidro,Laboratorio,2024-01-12,
+P2152,Pedro Ruiz,NA,F,San Isidro,NA,2023-12-06,50.1
+P2153,Carlos Díaz,NA,M,Surco,Pediatría,2024-10-12,NA
+P2154,Jorge Salas,NA,NA,,NA,2023-09-12,185.58
+P2155,María López,18,F,,Odontología,2024-04-04,NA
+P2156,Pedro Ruiz,7,M,La Molina,Odontología,2024-07-24,
+P2157,Luis Pérez,,NA,Surco,,2024-03-29,371.16
+P2158,Carlos Díaz,,,Surco,,2024-01-09,70.69
+P2159,Carlos Díaz,,NA,,,2023-06-23,246.94
+P2160,Lucía Gómez,NA,M,La Molina,Emergencia,2024-11-17,NA
+P2161,Pedro Ruiz,NA,F,NA,Odontología,2023-09-10,249.82
+P2162,Lucía Gómez,73,NA,San Borja,Odontología,2023-04-16,364.81
+P2163,María López,,M,NA,Cardiología,2024-06-25,
+P2164,Lucía Gómez,43,F,Surco,,2023-12-25,NA
+P2165,Ana Torres,83,F,,Emergencia,2024-10-24,
+P2166,María López,NA,F,La Molina,,2023-08-24,451.42
+P2167,María López,,,Surco,Pediatría,2024-08-17,
+P2168,María López,NA,M,NA,NA,2023-04-21,64.08
+P2169,Pedro Ruiz,,F,San Borja,Laboratorio,2024-11-12,NA
+P2170,Pedro Ruiz,NA,NA,NA,Cardiología,2023-08-05,
+P2171,Carlos Díaz,NA,M,Miraflores,Pediatría,2024-04-18,NA
+P2172,Lucía Gómez,NA,M,San Isidro,Emergencia,2024-06-17,NA
+P2173,Lucía Gómez,,NA,San Isidro,Pediatría,2024-12-17,390.9
+P2174,Pedro Ruiz,21,F,,Laboratorio,2023-06-04,NA
+P2175,Carlos Díaz,NA,,La Molina,Odontología,2023-06-17,251.95
+P2176,Lucía Gómez,3,,San Borja,Odontología,2024-11-30,269.11
+P2177,Ana Torres,37,M,NA,Cardiología,2024-11-30,488.73
+P2178,Ana Torres,NA,M,San Borja,Laboratorio,2024-09-12,56.47
+P2179,Carlos Díaz,,NA,Surco,Cardiología,2023-12-25,246.68
+P2180,Luis Pérez,NA,NA,Miraflores,Laboratorio,2024-09-19,NA
+P2181,Ana Torres,12,,San Borja,NA,2023-08-04,NA
+P2182,Carlos Díaz,42,,Miraflores,Cardiología,2024-03-29,
+P2183,Luis Pérez,0,NA,San Borja,NA,2023-05-27,NA
+P2184,Jorge Salas,12,F,Miraflores,Pediatría,2024-09-17,202.83
+P2185,Ana Torres,NA,F,San Isidro,Pediatría,2024-11-18,
+P2186,Jorge Salas,36,F,NA,NA,2024-01-09,NA
+P2187,Carlos Díaz,15,F,La Molina,Odontología,2023-08-22,
+P2188,María López,NA,NA,Miraflores,Pediatría,2023-12-20,467.81
+P2189,Luis Pérez,NA,NA,Miraflores,Odontología,2023-07-18,
+P2190,Pedro Ruiz,NA,,,,2024-12-15,NA
+P2191,Luis Pérez,NA,NA,La Molina,,2023-12-08,468.4
+P2192,Pedro Ruiz,,,San Borja,Laboratorio,2023-05-13,NA
+P2193,Carlos Díaz,,F,La Molina,Odontología,2023-09-16,99.88
+P2194,Lucía Gómez,60,,San Isidro,,2023-08-05,406.87
+P2195,Luis Pérez,,NA,,NA,2024-11-30,325.73
+P2196,Carlos Díaz,,F,San Isidro,NA,2023-08-25,
+P2197,Pedro Ruiz,,NA,NA,Laboratorio,2024-09-08,
+P2198,Pedro Ruiz,,F,NA,Pediatría,2024-04-16,NA
+P2199,Ana Torres,,NA,San Isidro,Emergencia,2023-01-09,NA
+P2200,Jorge Salas,10,NA,La Molina,Laboratorio,2024-04-14,NA
+P2201,Jorge Salas,76,F,San Isidro,Cardiología,2023-02-02,197.83
+P2202,María López,,M,San Borja,Laboratorio,2024-05-25,NA
+P2203,Lucía Gómez,43,M,San Borja,Odontología,2023-09-17,
+P2204,Lucía Gómez,,F,Surco,Pediatría,2024-10-13,230.96
+P2205,Lucía Gómez,56,M,NA,Emergencia,2024-12-31,NA
+P2206,Carlos Díaz,6,,Surco,Cardiología,2024-12-21,496.49
+P2207,Jorge Salas,,,Surco,Pediatría,2024-03-07,NA
+P2208,Luis Pérez,NA,,San Isidro,Laboratorio,2023-10-09,371.44
+P2209,María López,,,,NA,2024-04-28,
+P2210,Pedro Ruiz,32,M,Miraflores,,2023-05-22,130.94
+P2211,Pedro Ruiz,82,F,San Isidro,NA,2024-06-11,NA
+P2212,Jorge Salas,22,M,Surco,Odontología,2023-09-14,
+P2213,Pedro Ruiz,,F,Miraflores,Pediatría,2023-12-23,
+P2214,Luis Pérez,,,Surco,Laboratorio,2024-11-06,NA
+P2215,Ana Torres,NA,M,Miraflores,Emergencia,2023-12-26,345.71
+P2216,Ana Torres,53,NA,San Isidro,Laboratorio,2023-09-09,
+P2217,Lucía Gómez,NA,,San Isidro,Odontología,2023-05-02,
+P2218,Lucía Gómez,2,NA,Miraflores,NA,2024-06-16,70.7
+P2219,Carlos Díaz,,,La Molina,Cardiología,2024-01-20,320.75
+P2220,Carlos Díaz,,M,San Isidro,Cardiología,2024-08-29,
+P2221,Jorge Salas,NA,NA,NA,Laboratorio,2023-03-06,400.48
+P2222,Jorge Salas,0,F,Miraflores,Pediatría,2024-06-02,270.84
+P2223,Ana Torres,,F,San Isidro,Odontología,2023-08-04,
+P2224,Pedro Ruiz,27,M,San Isidro,Emergencia,2024-03-29,195.34
+P2225,María López,5,NA,San Borja,Cardiología,2024-12-31,139.84
+P2226,Lucía Gómez,,F,San Borja,Laboratorio,2023-02-14,188.55
+P2227,Ana Torres,NA,NA,San Isidro,Emergencia,2024-07-06,NA
+P2228,Ana Torres,NA,M,San Borja,NA,2023-02-24,
+P2229,Ana Torres,,NA,La Molina,NA,2023-12-30,96.14
+P2230,Carlos Díaz,,NA,Surco,Emergencia,2023-02-09,NA
+P2231,Luis Pérez,NA,NA,Surco,Cardiología,2024-12-16,
+P2232,Lucía Gómez,65,M,,,2024-05-23,
+P2233,Luis Pérez,35,,,Pediatría,2023-03-05,
+P2234,Luis Pérez,NA,NA,San Isidro,NA,2024-06-01,
+P2235,Jorge Salas,NA,,NA,,2023-05-29,
+P2236,Lucía Gómez,,,La Molina,Emergencia,2024-07-04,NA
+P2237,Luis Pérez,,M,Miraflores,,2024-07-05,377.44
+P2238,María López,2,NA,Miraflores,Laboratorio,2023-06-22,244.13
+P2239,Luis Pérez,67,NA,Surco,Pediatría,2023-07-10,
+P2240,Luis Pérez,NA,,San Borja,NA,2024-10-18,
+P2241,Pedro Ruiz,,NA,,,2024-11-22,338.15
+P2242,Pedro Ruiz,10,M,La Molina,Laboratorio,2024-11-10,NA
+P2243,María López,,,NA,Odontología,2023-11-14,
+P2244,María López,,M,San Isidro,Emergencia,2023-01-20,299.48
+P2245,Jorge Salas,,NA,San Isidro,Laboratorio,2023-01-20,
+P2246,Luis Pérez,,F,La Molina,Cardiología,2024-10-22,
+P2247,Luis Pérez,NA,NA,La Molina,Pediatría,2024-09-14,414.11
+P2248,Carlos Díaz,NA,M,Miraflores,Pediatría,2023-01-01,
+P2249,Jorge Salas,,,NA,,2024-04-16,
+P2250,Jorge Salas,NA,NA,Miraflores,,2024-06-21,
+P2251,Ana Torres,NA,,San Isidro,Cardiología,2023-03-15,268.62
+P2252,María López,,NA,Miraflores,,2023-09-10,NA
+P2253,María López,,M,La Molina,Pediatría,2024-11-02,NA
+P2254,Luis Pérez,,M,Miraflores,Odontología,2023-09-18,
+P2255,Ana Torres,NA,F,,Cardiología,2024-06-12,NA
+P2256,Carlos Díaz,82,F,Surco,NA,2023-08-28,496.21
+P2257,Pedro Ruiz,50,F,,Laboratorio,2023-04-16,416.09
+P2258,Ana Torres,NA,,Surco,Cardiología,2024-06-30,87.19
+P2259,Ana Torres,,NA,Miraflores,Laboratorio,2023-11-05,426.02
+P2260,Ana Torres,NA,F,Miraflores,NA,2023-12-16,
+P2261,Carlos Díaz,,NA,La Molina,,2023-12-04,NA
+P2262,Jorge Salas,NA,,NA,NA,2024-09-05,150.63
+P2263,Pedro Ruiz,20,,Miraflores,Cardiología,2023-06-24,95.86
+P2264,Pedro Ruiz,60,NA,Miraflores,,2023-09-22,NA
+P2265,Lucía Gómez,NA,F,La Molina,Pediatría,2024-09-18,
+P2266,Pedro Ruiz,NA,M,,Emergencia,2023-12-26,NA
+P2267,Pedro Ruiz,NA,,Miraflores,Laboratorio,2024-12-12,NA
+P2268,Ana Torres,60,NA,La Molina,Laboratorio,2023-01-12,NA
+P2269,Ana Torres,26,M,San Isidro,NA,2023-04-13,NA
+P2270,Jorge Salas,NA,NA,San Isidro,Pediatría,2024-05-20,345.02
+P2271,María López,14,,Surco,NA,2023-05-14,259.29
+P2272,María López,62,F,NA,Laboratorio,2024-01-04,
+P2273,Lucía Gómez,NA,,San Isidro,Odontología,2023-04-13,
+P2274,Jorge Salas,,NA,San Borja,,2023-06-13,
+P2275,Carlos Díaz,,F,San Isidro,,2024-02-09,NA
+P2276,María López,,,NA,Laboratorio,2023-12-27,NA
+P2277,María López,,,San Isidro,Odontología,2023-08-20,NA
+P2278,María López,,M,NA,Emergencia,2023-05-31,427.5
+P2279,Ana Torres,69,F,,Emergencia,2023-12-18,191.07
+P2280,Jorge Salas,3,,,Odontología,2024-09-05,NA
+P2281,María López,,,,Cardiología,2024-11-03,NA
+P2282,Ana Torres,NA,NA,NA,Emergencia,2023-01-15,140.47
+P2283,Ana Torres,NA,NA,La Molina,Cardiología,2024-07-31,NA
+P2284,Lucía Gómez,13,,,Odontología,2023-08-15,
+P2285,Carlos Díaz,NA,NA,Surco,,2024-02-21,273.93
+P2286,Pedro Ruiz,,NA,Miraflores,Emergencia,2023-04-28,
+P2287,Luis Pérez,53,,San Borja,Emergencia,2024-07-31,
+P2288,Jorge Salas,NA,NA,San Isidro,,2024-01-04,
+P2289,Ana Torres,66,M,,,2023-03-30,69.29
+P2290,Ana Torres,42,NA,Miraflores,,2023-02-14,496.91
+P2291,Pedro Ruiz,3,F,,Emergencia,2023-08-14,357.64
+P2292,Carlos Díaz,NA,,Miraflores,Odontología,2024-02-28,124.23
+P2293,Lucía Gómez,19,M,Miraflores,Emergencia,2023-10-27,NA
+P2294,Ana Torres,,F,San Borja,Laboratorio,2024-10-17,311.8
+P2295,Pedro Ruiz,NA,M,San Isidro,Odontología,2023-08-10,
+P2296,Lucía Gómez,14,NA,Miraflores,Laboratorio,2024-12-26,268.44
+P2297,Carlos Díaz,NA,NA,La Molina,Pediatría,2023-06-01,
+P2298,María López,73,F,Miraflores,Odontología,2024-11-02,101.24
+P2299,Jorge Salas,NA,M,San Isidro,,2024-05-17,464.81
+P2300,María López,NA,,Surco,,2023-10-15,
+P2301,Pedro Ruiz,NA,M,Miraflores,,2023-11-04,248.01
+P2302,Lucía Gómez,52,,San Isidro,,2023-02-05,NA
+P2303,María López,,,Miraflores,NA,2024-11-21,93.6
+P2304,María López,81,M,Miraflores,,2024-05-30,226.13
+P2305,Pedro Ruiz,NA,M,San Isidro,,2024-07-06,NA
+P2306,Carlos Díaz,,,Surco,Cardiología,2024-10-27,446.63
+P2307,Jorge Salas,89,NA,San Borja,Laboratorio,2023-09-19,126.21
+P2308,Pedro Ruiz,NA,M,Miraflores,Cardiología,2023-09-15,441.97
+P2309,María López,NA,NA,San Borja,Odontología,2023-10-04,NA
+P2310,Luis Pérez,74,NA,San Isidro,,2023-03-03,NA
+P2311,Ana Torres,6,M,Surco,Emergencia,2023-05-04,NA
+P2312,María López,67,,La Molina,Odontología,2024-10-15,NA
+P2313,Carlos Díaz,,NA,San Borja,,2023-12-08,NA
+P2314,Carlos Díaz,85,M,,Pediatría,2024-05-08,NA
+P2315,Carlos Díaz,23,,San Isidro,Pediatría,2024-04-04,NA
+P2316,Ana Torres,76,F,San Isidro,Pediatría,2023-03-20,91.0
+P2317,Jorge Salas,56,F,Surco,Emergencia,2024-06-27,329.44
+P2318,Pedro Ruiz,14,F,Miraflores,Odontología,2024-05-02,NA
+P2319,Lucía Gómez,,NA,,Odontología,2024-08-06,
+P2320,Jorge Salas,NA,M,Miraflores,Cardiología,2023-01-05,
+P2321,Carlos Díaz,NA,M,Surco,NA,2023-01-28,
+P2322,Luis Pérez,,F,San Isidro,Pediatría,2023-10-19,317.52
+P2323,María López,,F,,Emergencia,2024-12-21,478.54
+P2324,Carlos Díaz,,M,San Borja,Cardiología,2024-09-07,NA
+P2325,Jorge Salas,,M,NA,Emergencia,2023-07-11,305.47
+P2326,María López,NA,,Surco,Cardiología,2024-09-18,473.51
+P2327,Carlos Díaz,,,Surco,,2024-10-19,NA
+P2328,Luis Pérez,,M,San Isidro,,2024-09-10,
+P2329,Pedro Ruiz,,M,Surco,NA,2024-10-02,
+P2330,Pedro Ruiz,,NA,NA,Emergencia,2024-04-01,NA
+P2331,María López,,NA,Miraflores,Laboratorio,2024-12-16,
+P2332,Jorge Salas,NA,,Miraflores,Emergencia,2023-12-31,
+P2333,Carlos Díaz,,F,,Laboratorio,2023-07-04,
+P2334,Luis Pérez,,F,San Isidro,Pediatría,2024-02-15,450.72
+P2335,Luis Pérez,,NA,La Molina,,2023-04-11,226.76
+P2336,Luis Pérez,NA,,San Isidro,Cardiología,2024-06-04,434.97
+P2337,Ana Torres,NA,F,NA,,2024-04-12,NA
+P2338,Jorge Salas,NA,NA,,Laboratorio,2023-09-15,
+P2339,Ana Torres,NA,NA,,Emergencia,2024-09-06,356.31
+P2340,Lucía Gómez,31,M,Miraflores,Cardiología,2023-05-05,NA
+P2341,Lucía Gómez,45,NA,San Isidro,Laboratorio,2023-07-06,
+P2342,Carlos Díaz,NA,,Surco,Cardiología,2023-01-31,
+P2343,Ana Torres,,F,,Emergencia,2023-02-02,NA
+P2344,María López,2,M,Surco,Emergencia,2023-12-05,273.99
+P2345,Luis Pérez,NA,M,Miraflores,NA,2023-03-21,NA
+P2346,Luis Pérez,89,F,NA,Pediatría,2023-05-31,
+P2347,Lucía Gómez,,,San Borja,Pediatría,2024-10-09,402.41
+P2348,Carlos Díaz,30,NA,Surco,Emergencia,2024-07-13,
+P2349,Carlos Díaz,,F,San Isidro,Pediatría,2023-05-06,
+P2350,Pedro Ruiz,42,M,NA,Cardiología,2023-09-03,NA
+P2351,Carlos Díaz,,NA,San Isidro,Pediatría,2024-06-07,NA
+P2352,Ana Torres,NA,,San Isidro,Laboratorio,2024-07-01,318.59
+P2353,Jorge Salas,,M,Miraflores,NA,2023-07-27,
+P2354,Jorge Salas,NA,M,Surco,Pediatría,2024-05-02,211.64
+P2355,Pedro Ruiz,,NA,Surco,Pediatría,2024-12-22,299.08
+P2356,Luis Pérez,NA,F,La Molina,Laboratorio,2024-06-04,NA
+P2357,Luis Pérez,NA,NA,NA,Laboratorio,2024-08-21,NA
+P2358,Pedro Ruiz,,NA,,,2023-02-20,NA
+P2359,Ana Torres,NA,NA,Surco,Cardiología,2024-03-19,NA
+P2360,Lucía Gómez,89,M,La Molina,Laboratorio,2024-07-13,127.78
+P2361,Ana Torres,51,,NA,Cardiología,2024-01-06,
+P2362,Pedro Ruiz,NA,F,NA,Emergencia,2023-07-19,NA
+P2363,Ana Torres,62,F,NA,,2024-08-31,
+P2364,Luis Pérez,,,Miraflores,Emergencia,2023-03-16,NA
+P2365,Ana Torres,,F,San Borja,,2024-04-08,
+P2366,Jorge Salas,,M,NA,Emergencia,2024-08-15,191.59
+P2367,Carlos Díaz,NA,,La Molina,Emergencia,2023-06-09,58.11
+P2368,Carlos Díaz,NA,NA,NA,NA,2023-05-04,378.26
+P2369,Lucía Gómez,,F,NA,Laboratorio,2023-12-26,
+P2370,Jorge Salas,9,NA,La Molina,Emergencia,2023-08-29,
+P2371,Ana Torres,25,NA,San Isidro,Laboratorio,2023-01-20,NA
+P2372,Lucía Gómez,,M,,Pediatría,2023-10-20,496.1
+P2373,Lucía Gómez,59,F,Miraflores,Emergencia,2024-10-23,NA
+P2374,Pedro Ruiz,72,,NA,NA,2023-06-15,
+P2375,María López,50,NA,NA,Emergencia,2023-02-12,
+P2376,Lucía Gómez,NA,M,San Borja,Odontología,2024-04-17,NA
+P2377,Ana Torres,71,M,San Borja,Emergencia,2023-07-07,383.34
+P2378,Luis Pérez,,M,San Isidro,Cardiología,2024-03-29,
+P2379,Lucía Gómez,,M,San Isidro,,2024-09-08,
+P2380,María López,16,NA,Miraflores,,2023-11-07,122.36
+P2381,Ana Torres,5,,NA,NA,2023-08-04,NA
+P2382,María López,,NA,,Cardiología,2023-09-21,106.78
+P2383,Ana Torres,11,M,La Molina,Odontología,2023-05-14,
+P2384,María López,28,M,San Borja,NA,2023-02-20,
+P2385,Luis Pérez,NA,,San Isidro,NA,2023-11-21,
+P2386,Pedro Ruiz,NA,NA,La Molina,Emergencia,2024-07-01,139.29
+P2387,Lucía Gómez,,NA,,Odontología,2023-11-06,
+P2388,Carlos Díaz,NA,F,Surco,Odontología,2024-11-11,
+P2389,Jorge Salas,NA,,Miraflores,Odontología,2024-01-26,NA
+P2390,Jorge Salas,NA,M,La Molina,,2023-03-20,
+P2391,Jorge Salas,64,NA,San Borja,Laboratorio,2023-11-02,
+P2392,Luis Pérez,49,F,La Molina,Laboratorio,2024-05-02,
+P2393,Lucía Gómez,,F,,Cardiología,2023-09-08,NA
+P2394,Carlos Díaz,NA,,NA,Laboratorio,2023-04-28,NA
+P2395,Ana Torres,NA,NA,Surco,,2023-11-21,NA
+P2396,Jorge Salas,19,,NA,Odontología,2023-04-22,
+P2397,María López,,M,NA,Cardiología,2023-04-08,374.62
+P2398,Carlos Díaz,,M,La Molina,Laboratorio,2024-04-07,237.33
+P2399,Carlos Díaz,,NA,Miraflores,Odontología,2023-09-04,125.51
+P2400,Luis Pérez,,F,Miraflores,Emergencia,2023-04-24,430.8
+P2401,Luis Pérez,,,San Borja,Laboratorio,2024-03-21,NA
+P2402,María López,57,,,Pediatría,2024-10-06,407.18
+P2403,Jorge Salas,16,M,,Pediatría,2023-06-27,NA
+P2404,Ana Torres,,,Miraflores,Odontología,2023-07-02,341.75
+P2405,Pedro Ruiz,37,,Miraflores,NA,2023-02-23,NA
+P2406,María López,,F,,Emergencia,2024-04-08,
+P2407,Luis Pérez,,NA,NA,Emergencia,2024-04-01,
+P2408,Luis Pérez,,,San Borja,Pediatría,2023-01-30,452.28
+P2409,Jorge Salas,NA,F,,Pediatría,2023-07-05,326.85
+P2410,Carlos Díaz,,F,,NA,2023-10-19,
+P2411,Carlos Díaz,72,F,Surco,Laboratorio,2024-05-16,
+P2412,Jorge Salas,NA,NA,La Molina,Pediatría,2023-03-27,NA
+P2413,Pedro Ruiz,NA,F,Surco,Pediatría,2023-10-11,
+P2414,Pedro Ruiz,,M,Miraflores,Laboratorio,2024-09-19,
+P2415,María López,,,Surco,Laboratorio,2024-11-02,NA
+P2416,Ana Torres,,F,La Molina,NA,2023-11-23,NA
+P2417,Ana Torres,81,NA,,,2023-04-24,
+P2418,Ana Torres,41,M,San Isidro,Odontología,2024-07-10,NA
+P2419,Luis Pérez,NA,NA,Surco,Laboratorio,2024-05-31,80.73
+P2420,Lucía Gómez,NA,F,San Borja,Odontología,2023-12-11,NA
+P2421,Lucía Gómez,NA,M,La Molina,NA,2024-11-16,283.0
+P2422,Ana Torres,,NA,Surco,Laboratorio,2023-03-10,
+P2423,Luis Pérez,,M,Surco,Laboratorio,2024-03-03,
+P2424,Luis Pérez,NA,,San Borja,Odontología,2023-01-26,NA
+P2425,Luis Pérez,52,F,San Isidro,Pediatría,2024-06-15,
+P2426,Jorge Salas,76,M,Miraflores,Pediatría,2024-01-19,103.04
+P2427,Carlos Díaz,NA,M,San Borja,,2024-05-15,380.27
+P2428,Lucía Gómez,24,NA,NA,Laboratorio,2024-08-30,NA
+P2429,Jorge Salas,,,San Isidro,NA,2023-11-11,NA
+P2430,Jorge Salas,NA,NA,NA,Emergencia,2023-12-22,NA
+P2431,María López,10,,,NA,2023-04-12,
+P2432,Lucía Gómez,NA,,Miraflores,Pediatría,2024-08-28,
+P2433,Carlos Díaz,,NA,La Molina,Emergencia,2024-08-07,108.68
+P2434,Jorge Salas,,,NA,NA,2024-11-26,NA
+P2435,Carlos Díaz,,,,Laboratorio,2023-05-28,494.26
+P2436,Jorge Salas,,,Miraflores,Cardiología,2024-03-21,NA
+P2437,Jorge Salas,4,F,San Borja,Cardiología,2024-01-26,
+P2438,Carlos Díaz,,F,San Isidro,Odontología,2023-11-22,NA
+P2439,Carlos Díaz,,F,San Isidro,Pediatría,2023-09-16,NA
+P2440,María López,NA,,San Isidro,Emergencia,2023-04-20,NA
+P2441,Jorge Salas,,,La Molina,Laboratorio,2023-05-12,197.02
+P2442,María López,,M,,Emergencia,2024-05-20,NA
+P2443,Ana Torres,NA,NA,,Emergencia,2023-05-12,
+P2444,Luis Pérez,NA,NA,La Molina,Cardiología,2024-01-14,
+P2445,Jorge Salas,,F,La Molina,NA,2023-10-09,307.78
+P2446,Carlos Díaz,,,NA,Cardiología,2024-09-28,NA
+P2447,Carlos Díaz,68,M,,Pediatría,2023-02-24,485.05
+P2448,Carlos Díaz,67,,,Emergencia,2023-07-17,NA
+P2449,Luis Pérez,,M,Miraflores,Odontología,2023-12-30,402.95
+P2450,Carlos Díaz,NA,,San Isidro,NA,2024-09-30,NA
+P2451,Ana Torres,,M,San Borja,Pediatría,2024-10-19,NA
+P2452,Pedro Ruiz,NA,,La Molina,,2023-01-07,332.68
+P2453,Jorge Salas,,,La Molina,NA,2023-06-27,NA
+P2454,Pedro Ruiz,58,M,Surco,Emergencia,2024-10-06,
+P2455,María López,NA,NA,NA,Cardiología,2024-11-08,458.89
+P2456,María López,NA,,Miraflores,,2023-02-10,NA
+P2457,Luis Pérez,NA,,NA,NA,2024-11-13,
+P2458,Pedro Ruiz,,F,,,2024-01-31,
+P2459,Luis Pérez,,M,NA,,2024-05-22,NA
+P2460,María López,NA,NA,San Borja,Cardiología,2023-02-13,NA
+P2461,Pedro Ruiz,NA,F,Miraflores,Cardiología,2023-09-06,NA
+P2462,Pedro Ruiz,66,,NA,Laboratorio,2023-01-09,452.27
+P2463,Carlos Díaz,,,La Molina,Pediatría,2024-10-01,
+P2464,Ana Torres,,,Surco,Odontología,2023-06-26,
+P2465,Carlos Díaz,33,NA,Surco,Laboratorio,2023-06-16,NA
+P2466,Jorge Salas,,F,La Molina,Pediatría,2024-07-01,384.17
+P2467,Luis Pérez,,M,,Odontología,2024-08-30,
+P2468,Jorge Salas,38,M,Surco,Odontología,2024-07-16,
+P2469,Ana Torres,NA,F,Surco,Pediatría,2024-08-11,NA
+P2470,Lucía Gómez,NA,NA,San Isidro,Laboratorio,2023-09-11,99.83
+P2471,Ana Torres,NA,NA,San Borja,,2024-09-02,NA
+P2472,Carlos Díaz,NA,NA,La Molina,Laboratorio,2023-02-08,NA
+P2473,Luis Pérez,50,,San Borja,Pediatría,2024-07-28,447.96
+P2474,Jorge Salas,,NA,Miraflores,Laboratorio,2024-07-04,234.89
+P2475,Jorge Salas,,F,Miraflores,NA,2024-12-08,NA
+P2476,Luis Pérez,,M,Miraflores,Cardiología,2024-09-15,
+P2477,Jorge Salas,33,F,La Molina,Odontología,2024-03-12,NA
+P2478,Ana Torres,NA,,La Molina,,2024-08-29,
+P2479,Pedro Ruiz,,NA,San Isidro,,2023-08-04,211.75
+P2480,Luis Pérez,64,M,Miraflores,NA,2023-01-07,
+P2481,María López,70,,Miraflores,Pediatría,2023-06-04,
+P2482,Jorge Salas,NA,F,La Molina,Laboratorio,2023-01-29,148.91
+P2483,Carlos Díaz,NA,NA,,Odontología,2023-08-30,391.81
+P2484,Jorge Salas,2,NA,Surco,Emergencia,2024-11-13,151.04
+P2485,Jorge Salas,NA,M,Surco,Pediatría,2024-02-16,NA
+P2486,Jorge Salas,40,,NA,NA,2023-08-05,NA
+P2487,Luis Pérez,72,NA,San Borja,,2023-11-21,NA
+P2488,Carlos Díaz,NA,F,San Borja,NA,2024-08-05,NA
+P2489,María López,NA,NA,Surco,Laboratorio,2023-09-03,NA
+P2490,Ana Torres,NA,NA,San Borja,Pediatría,2024-03-05,
+P2491,Carlos Díaz,90,M,San Borja,Cardiología,2025-01-01,
+P2492,Ana Torres,NA,F,San Isidro,,2024-10-06,NA
+P2493,Carlos Díaz,64,,La Molina,Pediatría,2024-05-21,
+P2494,Ana Torres,NA,M,,Odontología,2024-04-02,432.8
+P2495,Jorge Salas,5,,,NA,2024-08-14,474.38
+P2496,Ana Torres,NA,NA,San Isidro,Cardiología,2023-07-10,
+P2497,María López,85,F,Surco,Emergencia,2024-04-23,NA
+P2498,Lucía Gómez,NA,M,Surco,Cardiología,2024-04-12,
+P2499,Luis Pérez,33,,San Isidro,NA,2024-09-05,NA
+P2500,María López,NA,,San Borja,Odontología,2023-05-05,NA
+P2501,Pedro Ruiz,28,,La Molina,Odontología,2023-11-03,
+P2502,Pedro Ruiz,,,,Laboratorio,2023-06-23,
+P2503,Carlos Díaz,,M,La Molina,,2023-12-06,111.27
+P2504,Luis Pérez,68,NA,San Isidro,NA,2024-02-02,
+P2505,Carlos Díaz,62,M,NA,Laboratorio,2024-03-19,393.3
+P2506,Luis Pérez,,,Surco,Odontología,2023-01-31,234.33
+P2507,Pedro Ruiz,NA,NA,Miraflores,Laboratorio,2023-04-03,
+P2508,Lucía Gómez,84,NA,Miraflores,Odontología,2023-02-24,
+P2509,María López,NA,NA,,,2023-06-10,232.8
+P2510,Jorge Salas,,NA,,,2024-01-13,
+P2511,Carlos Díaz,85,NA,La Molina,NA,2023-11-13,
+P2512,María López,67,,San Isidro,Pediatría,2024-07-25,
+P2513,Ana Torres,NA,M,San Borja,NA,2024-03-24,NA
+P2514,Pedro Ruiz,64,NA,NA,Odontología,2024-04-28,119.84
+P2515,Luis Pérez,86,,NA,Cardiología,2023-10-23,NA
+P2516,Carlos Díaz,53,NA,Surco,Cardiología,2024-03-17,102.54
+P2517,Luis Pérez,NA,M,San Isidro,Pediatría,2024-03-22,
+P2518,Luis Pérez,32,F,La Molina,,2024-08-22,
+P2519,María López,NA,M,NA,NA,2023-04-11,NA
+P2520,Carlos Díaz,NA,F,San Borja,Laboratorio,2023-05-31,238.56
+P2521,Jorge Salas,NA,F,San Borja,Odontología,2023-08-24,
+P2522,Jorge Salas,NA,M,San Isidro,Cardiología,2024-02-06,
+P2523,Ana Torres,,M,NA,Pediatría,2023-07-03,NA
+P2524,Luis Pérez,88,F,Surco,,2023-02-24,188.22
+P2525,Pedro Ruiz,,,NA,Emergencia,2023-02-24,337.48
+P2526,Ana Torres,10,F,Miraflores,Laboratorio,2024-11-15,
+P2527,Lucía Gómez,NA,M,Miraflores,NA,2023-01-09,70.08
+P2528,Luis Pérez,,,San Isidro,Emergencia,2023-04-11,NA
+P2529,Jorge Salas,NA,NA,San Isidro,Cardiología,2024-02-12,58.69
+P2530,Pedro Ruiz,NA,,La Molina,Emergencia,2023-02-25,481.62
+P2531,Jorge Salas,NA,NA,La Molina,Cardiología,2023-09-28,
+P2532,Luis Pérez,,M,,Pediatría,2023-07-15,368.61
+P2533,Jorge Salas,14,NA,San Isidro,Odontología,2023-11-24,274.7
+P2534,Pedro Ruiz,NA,F,NA,Pediatría,2024-10-04,NA
+P2535,María López,,F,La Molina,NA,2023-10-08,
+P2536,Carlos Díaz,24,,La Molina,Laboratorio,2024-11-25,132.08
+P2537,Pedro Ruiz,,,San Borja,,2024-12-25,322.12
+P2538,Ana Torres,NA,F,,Laboratorio,2024-12-10,NA
+P2539,Pedro Ruiz,44,NA,San Borja,Cardiología,2023-08-17,352.76
+P2540,Luis Pérez,NA,M,Miraflores,Emergencia,2023-11-14,129.32
+P2541,Luis Pérez,29,M,Surco,Odontología,2023-07-28,NA
+P2542,Lucía Gómez,NA,,San Borja,Odontología,2024-10-27,188.56
+P2543,Pedro Ruiz,,M,San Borja,Emergencia,2024-10-03,NA
+P2544,Ana Torres,87,NA,La Molina,Laboratorio,2023-03-05,NA
+P2545,Luis Pérez,,NA,,Odontología,2023-05-11,285.46
+P2546,Carlos Díaz,NA,F,La Molina,Emergencia,2024-03-14,NA
+P2547,Ana Torres,NA,M,San Isidro,Odontología,2024-02-26,464.44
+P2548,Pedro Ruiz,NA,M,Surco,Pediatría,2023-09-01,292.59
+P2549,Luis Pérez,23,F,San Isidro,Pediatría,2023-08-06,NA
+P2550,Pedro Ruiz,,,,Laboratorio,2023-02-21,NA
+P2551,Lucía Gómez,78,NA,,Odontología,2023-05-17,NA
+P2552,Carlos Díaz,NA,,Surco,Laboratorio,2023-03-22,NA
+P2553,Luis Pérez,,NA,Surco,,2024-12-01,213.41
+P2554,Pedro Ruiz,,NA,Surco,Cardiología,2024-12-07,NA
+P2555,Pedro Ruiz,,M,,,2023-09-23,56.25
+P2556,Carlos Díaz,NA,M,San Borja,Cardiología,2023-08-13,NA
+P2557,Carlos Díaz,47,,Miraflores,Laboratorio,2024-02-19,137.25
+P2558,Jorge Salas,,NA,Surco,NA,2024-11-28,
+P2559,Jorge Salas,,NA,San Isidro,Odontología,2023-03-30,374.11
+P2560,Lucía Gómez,,NA,Surco,,2023-09-06,
+P2561,María López,NA,M,,Odontología,2024-10-21,304.34
+P2562,Carlos Díaz,NA,F,,Emergencia,2024-05-04,
+P2563,Carlos Díaz,,NA,NA,Laboratorio,2024-11-28,286.85
+P2564,Ana Torres,1,NA,NA,Cardiología,2023-01-26,252.49
+P2565,Luis Pérez,37,,San Borja,NA,2024-05-13,403.78
+P2566,Lucía Gómez,,NA,NA,Cardiología,2023-10-17,
+P2567,Ana Torres,16,,NA,Odontología,2024-04-11,
+P2568,Pedro Ruiz,NA,,La Molina,Odontología,2023-12-20,164.9
+P2569,Lucía Gómez,NA,F,San Isidro,Emergencia,2023-07-15,NA
+P2570,Lucía Gómez,48,NA,Surco,Laboratorio,2024-06-09,
+P2571,Jorge Salas,,F,Miraflores,Emergencia,2024-12-01,173.02
+P2572,Ana Torres,,,Surco,Laboratorio,2023-08-28,
+P2573,Jorge Salas,56,M,Surco,Pediatría,2024-06-25,NA
+P2574,María López,42,NA,,Cardiología,2023-07-16,70.17
+P2575,Ana Torres,1,M,Surco,Pediatría,2023-05-12,474.72
+P2576,Luis Pérez,NA,M,Miraflores,Pediatría,2023-07-05,
+P2577,Pedro Ruiz,NA,,San Isidro,Odontología,2023-12-19,NA
+P2578,Lucía Gómez,,NA,Surco,NA,2024-01-29,NA
+P2579,Jorge Salas,,F,San Isidro,Laboratorio,2023-10-28,NA
+P2580,Jorge Salas,NA,NA,,Laboratorio,2024-09-04,332.27
+P2581,Luis Pérez,58,F,San Borja,NA,2023-05-06,
+P2582,María López,7,NA,NA,Cardiología,2024-02-16,NA
+P2583,María López,76,M,San Borja,,2024-07-13,NA
+P2584,Pedro Ruiz,48,M,Surco,Cardiología,2024-11-07,
+P2585,Ana Torres,6,,NA,Pediatría,2023-01-27,NA
+P2586,Carlos Díaz,56,M,NA,Cardiología,2024-05-03,459.45
+P2587,María López,35,,Surco,Laboratorio,2024-08-26,444.2
+P2588,Lucía Gómez,NA,,San Borja,NA,2024-01-25,
+P2589,Jorge Salas,27,,Miraflores,Pediatría,2024-10-19,NA
+P2590,María López,3,,San Isidro,,2023-07-02,
+P2591,Jorge Salas,,NA,Surco,Odontología,2023-07-31,
+P2592,Ana Torres,82,,La Molina,Pediatría,2024-03-17,NA
+P2593,Lucía Gómez,NA,NA,NA,NA,2023-04-02,69.18
+P2594,Pedro Ruiz,9,,,Odontología,2023-11-29,
+P2595,María López,NA,NA,San Borja,Emergencia,2024-10-10,189.26
+P2596,Lucía Gómez,59,,Miraflores,Emergencia,2024-05-09,
+P2597,Lucía Gómez,NA,M,Miraflores,Pediatría,2023-04-05,430.56
+P2598,Carlos Díaz,NA,,Miraflores,NA,2024-01-29,191.16
+P2599,Carlos Díaz,73,NA,San Borja,NA,2024-01-16,NA
+P2600,Jorge Salas,NA,,NA,Odontología,2024-09-07,NA
+P2601,Pedro Ruiz,NA,NA,NA,NA,2024-03-28,58.08
+P2602,Carlos Díaz,NA,M,San Borja,Emergencia,2023-07-15,479.34
+P2603,Lucía Gómez,51,,Miraflores,,2024-07-01,477.71
+P2604,Pedro Ruiz,NA,M,San Isidro,,2024-06-11,
+P2605,Luis Pérez,NA,F,Surco,Laboratorio,2023-07-31,122.09
+P2606,Carlos Díaz,,NA,La Molina,NA,2024-01-20,469.01
+P2607,Luis Pérez,,NA,Surco,NA,2023-02-05,NA
+P2608,Jorge Salas,0,,San Borja,Pediatría,2023-10-18,342.39
+P2609,Jorge Salas,,NA,La Molina,Emergencia,2023-03-08,
+P2610,Jorge Salas,NA,,NA,Cardiología,2024-03-16,309.07
+P2611,Luis Pérez,NA,,,NA,2024-11-20,NA
+P2612,Lucía Gómez,,M,Surco,Emergencia,2023-06-03,
+P2613,Carlos Díaz,,M,NA,Laboratorio,2024-06-03,NA
+P2614,Pedro Ruiz,,F,,Laboratorio,2024-10-15,
+P2615,Ana Torres,NA,,Miraflores,Odontología,2024-04-20,498.31
+P2616,Luis Pérez,NA,F,NA,Emergencia,2023-02-05,NA
+P2617,Ana Torres,NA,F,NA,Pediatría,2024-11-21,NA
+P2618,María López,NA,F,La Molina,Pediatría,2023-03-03,154.46
+P2619,Lucía Gómez,NA,NA,NA,Laboratorio,2023-05-19,58.66
+P2620,Luis Pérez,11,F,San Borja,Laboratorio,2023-07-06,494.53
+P2621,Pedro Ruiz,48,F,Miraflores,Odontología,2024-01-15,
+P2622,Luis Pérez,,F,,,2023-04-28,138.08
+P2623,Lucía Gómez,30,NA,,NA,2023-10-11,128.86
+P2624,Ana Torres,,F,Miraflores,NA,2023-01-16,NA
+P2625,Ana Torres,55,,La Molina,Laboratorio,2023-08-23,NA
+P2626,Luis Pérez,10,F,San Borja,Odontología,2024-04-12,190.75
+P2627,Pedro Ruiz,NA,NA,Surco,Laboratorio,2024-12-29,212.37
+P2628,Jorge Salas,66,M,San Isidro,Pediatría,2023-11-05,
+P2629,Luis Pérez,NA,F,San Isidro,NA,2023-11-02,201.19
+P2630,Luis Pérez,NA,M,Miraflores,Emergencia,2023-08-23,279.28
+P2631,Carlos Díaz,7,,NA,Pediatría,2024-05-31,NA
+P2632,Pedro Ruiz,NA,F,Surco,Odontología,2024-06-23,
+P2633,Ana Torres,31,F,San Borja,,2024-01-11,
+P2634,Jorge Salas,14,F,Miraflores,Emergencia,2023-03-29,
+P2635,Luis Pérez,,,NA,Odontología,2023-05-08,283.97
+P2636,Luis Pérez,,NA,,Odontología,2024-11-03,
+P2637,Pedro Ruiz,16,M,La Molina,Laboratorio,2023-11-10,
+P2638,Carlos Díaz,31,F,Surco,Pediatría,2023-10-22,
+P2639,Jorge Salas,70,F,,Cardiología,2024-01-29,
+P2640,Carlos Díaz,NA,M,Miraflores,Cardiología,2023-12-13,NA
+P2641,Carlos Díaz,NA,M,Surco,Cardiología,2024-07-22,NA
+P2642,Lucía Gómez,,,NA,NA,2023-02-05,473.4
+P2643,Ana Torres,,F,San Borja,Odontología,2023-09-14,
+P2644,María López,74,NA,Miraflores,Odontología,2024-04-30,NA
+P2645,Luis Pérez,NA,NA,Surco,Pediatría,2023-12-03,173.0
+P2646,Luis Pérez,,F,NA,Cardiología,2023-11-21,369.34
+P2647,Jorge Salas,34,NA,Miraflores,Laboratorio,2024-09-25,253.41
+P2648,María López,NA,M,San Borja,Pediatría,2023-05-19,296.42
+P2649,Carlos Díaz,84,M,Surco,,2023-11-11,188.74
+P2650,Lucía Gómez,NA,F,Miraflores,Laboratorio,2023-07-20,
+P2651,Jorge Salas,NA,NA,Miraflores,Odontología,2024-10-03,147.82
+P2652,Ana Torres,24,M,San Isidro,Odontología,2023-01-31,
+P2653,Jorge Salas,38,M,,Laboratorio,2024-02-21,341.73
+P2654,Lucía Gómez,83,M,,Laboratorio,2024-01-26,
+P2655,Pedro Ruiz,39,F,Miraflores,Cardiología,2024-12-10,
+P2656,Lucía Gómez,58,NA,Surco,Odontología,2023-09-02,146.34
+P2657,Lucía Gómez,36,,,Emergencia,2023-01-01,NA
+P2658,Carlos Díaz,,NA,La Molina,,2023-01-11,NA
+P2659,Pedro Ruiz,24,F,,Emergencia,2023-08-02,
+P2660,Lucía Gómez,2,NA,NA,NA,2023-10-22,NA
+P2661,Ana Torres,31,,,,2023-02-24,
+P2662,Lucía Gómez,,,Miraflores,NA,2023-07-07,NA
+P2663,Lucía Gómez,50,,Surco,Cardiología,2023-08-22,225.42
+P2664,Lucía Gómez,NA,M,Miraflores,Cardiología,2023-09-03,NA
+P2665,Jorge Salas,NA,NA,Surco,Laboratorio,2023-11-13,413.27
+P2666,Pedro Ruiz,,NA,Surco,Emergencia,2023-12-22,NA
+P2667,Carlos Díaz,40,NA,,Emergencia,2024-03-14,NA
+P2668,Lucía Gómez,70,M,Miraflores,Emergencia,2024-07-01,NA
+P2669,Luis Pérez,NA,F,Miraflores,Laboratorio,2023-12-05,NA
+P2670,Luis Pérez,,NA,San Borja,,2024-05-27,
+P2671,Pedro Ruiz,NA,NA,NA,Emergencia,2023-05-09,NA
+P2672,Pedro Ruiz,87,NA,,Laboratorio,2024-07-14,NA
+P2673,Jorge Salas,68,,San Isidro,Odontología,2023-06-25,
+P2674,Jorge Salas,26,NA,San Borja,,2023-05-25,296.11
+P2675,Jorge Salas,,M,Surco,Cardiología,2023-10-23,257.26
+P2676,Luis Pérez,NA,,La Molina,Emergencia,2023-06-29,194.81
+P2677,Lucía Gómez,63,M,,Laboratorio,2024-04-14,186.69
+P2678,Luis Pérez,,M,San Isidro,Laboratorio,2024-09-19,
+P2679,María López,76,NA,San Borja,Cardiología,2023-07-28,296.65
+P2680,Luis Pérez,NA,M,San Borja,Cardiología,2023-08-14,477.58
+P2681,María López,NA,NA,La Molina,Cardiología,2023-11-23,
+P2682,Ana Torres,42,F,San Borja,Pediatría,2024-12-26,NA
+P2683,Jorge Salas,NA,M,NA,Laboratorio,2024-10-07,
+P2684,Jorge Salas,59,M,San Isidro,Odontología,2023-04-01,191.64
+P2685,María López,13,,Miraflores,Odontología,2023-11-07,
+P2686,Ana Torres,31,,La Molina,Odontología,2023-11-21,290.68
+P2687,Ana Torres,,M,,,2023-05-22,441.12
+P2688,María López,NA,F,La Molina,Laboratorio,2024-06-23,202.86
+P2689,Luis Pérez,10,NA,NA,Emergencia,2024-10-02,178.79
+P2690,María López,80,F,San Isidro,,2024-07-26,
+P2691,Pedro Ruiz,82,M,NA,,2024-05-17,163.45
+P2692,Pedro Ruiz,7,F,,Laboratorio,2023-06-29,NA
+P2693,Jorge Salas,NA,NA,Miraflores,Laboratorio,2023-12-22,360.3
+P2694,Ana Torres,39,F,NA,Laboratorio,2024-01-11,NA
+P2695,Carlos Díaz,,,San Borja,,2023-07-26,NA
+P2696,Lucía Gómez,NA,F,,Odontología,2023-09-09,
+P2697,Jorge Salas,NA,M,La Molina,Odontología,2024-12-14,
+P2698,María López,NA,M,Surco,Emergencia,2024-09-12,NA
+P2699,María López,,,La Molina,NA,2023-03-16,
+P2700,Luis Pérez,NA,M,Surco,Odontología,2023-11-27,151.68
+P2701,María López,NA,M,La Molina,NA,2024-11-27,NA
+P2702,María López,44,,NA,Cardiología,2023-09-30,NA
+P2703,Lucía Gómez,NA,NA,San Borja,Pediatría,2023-10-06,NA
+P2704,Ana Torres,,M,San Borja,NA,2023-09-27,268.48
+P2705,Ana Torres,45,NA,La Molina,Odontología,2023-10-30,113.65
+P2706,María López,33,F,San Isidro,Emergencia,2024-03-30,
+P2707,Jorge Salas,41,F,,,2023-11-06,426.62
+P2708,Pedro Ruiz,81,F,Miraflores,NA,2024-06-08,343.07
+P2709,Carlos Díaz,7,,San Isidro,,2023-11-27,
+P2710,Ana Torres,,M,Surco,Emergencia,2023-02-01,NA
+P2711,María López,38,F,NA,Odontología,2023-07-03,NA
+P2712,Lucía Gómez,NA,M,San Isidro,Odontología,2024-09-17,NA
+P2713,Pedro Ruiz,NA,NA,Surco,Cardiología,2023-10-11,437.3
+P2714,Ana Torres,,NA,NA,Laboratorio,2023-04-18,448.44
+P2715,María López,87,M,La Molina,Pediatría,2023-06-28,NA
+P2716,Luis Pérez,,M,San Isidro,Cardiología,2023-02-15,55.75
+P2717,Ana Torres,NA,,Miraflores,Cardiología,2024-10-03,NA
+P2718,Ana Torres,NA,F,La Molina,Emergencia,2023-07-16,
+P2719,Pedro Ruiz,73,,NA,Emergencia,2024-05-08,
+P2720,Pedro Ruiz,,F,Surco,Laboratorio,2023-08-25,
+P2721,María López,,,NA,NA,2024-02-14,288.19
+P2722,Carlos Díaz,NA,F,La Molina,,2024-11-10,NA
+P2723,Ana Torres,NA,,Miraflores,,2023-02-06,NA
+P2724,Pedro Ruiz,,F,,Pediatría,2024-03-20,216.58
+P2725,Pedro Ruiz,NA,M,,Pediatría,2024-12-26,253.36
+P2726,Pedro Ruiz,9,NA,NA,Cardiología,2024-10-30,NA
+P2727,Carlos Díaz,NA,M,La Molina,Cardiología,2023-05-16,
+P2728,Ana Torres,NA,NA,Surco,Emergencia,2024-12-22,448.24
+P2729,María López,89,M,NA,Cardiología,2023-08-31,
+P2730,María López,61,NA,La Molina,Odontología,2024-06-10,
+P2731,Ana Torres,,,San Isidro,Pediatría,2024-04-04,
+P2732,Luis Pérez,NA,,La Molina,Emergencia,2023-03-14,
+P2733,Luis Pérez,NA,,NA,NA,2023-03-19,NA
+P2734,Luis Pérez,NA,NA,NA,Cardiología,2024-06-01,152.09
+P2735,Luis Pérez,NA,,San Isidro,Cardiología,2024-10-08,431.2
+P2736,Luis Pérez,,F,San Borja,Cardiología,2023-05-10,213.3
+P2737,Luis Pérez,,,San Borja,Emergencia,2024-02-16,NA
+P2738,Ana Torres,,,NA,Laboratorio,2023-11-27,
+P2739,María López,NA,F,San Isidro,Laboratorio,2024-05-21,NA
+P2740,Carlos Díaz,NA,M,Surco,Cardiología,2023-05-17,
+P2741,Pedro Ruiz,88,F,San Borja,,2024-11-18,237.59
+P2742,Carlos Díaz,27,NA,San Isidro,Cardiología,2023-02-28,NA
+P2743,Jorge Salas,13,M,Surco,NA,2023-09-26,NA
+P2744,Lucía Gómez,NA,NA,NA,Emergencia,2023-02-24,NA
+P2745,Jorge Salas,45,,NA,Odontología,2023-05-07,461.26
+P2746,Ana Torres,40,F,Miraflores,Cardiología,2024-05-20,171.73
+P2747,Luis Pérez,NA,F,Surco,,2023-07-13,NA
+P2748,Carlos Díaz,NA,NA,San Borja,NA,2023-03-30,
+P2749,Ana Torres,NA,,Surco,Odontología,2023-09-07,
+P2750,Ana Torres,2,M,NA,NA,2023-03-20,
+P2751,Lucía Gómez,,,NA,Laboratorio,2024-06-08,
+P2752,Carlos Díaz,NA,F,Surco,,2023-05-06,262.71
+P2753,Lucía Gómez,,NA,Miraflores,Cardiología,2023-10-09,
+P2754,Pedro Ruiz,,NA,La Molina,Laboratorio,2023-12-26,NA
+P2755,Luis Pérez,,F,San Borja,Cardiología,2023-02-16,NA
+P2756,Carlos Díaz,NA,,Miraflores,,2024-07-01,
+P2757,Pedro Ruiz,52,,San Isidro,Odontología,2024-08-06,NA
+P2758,Ana Torres,60,,Surco,Cardiología,2024-09-18,
+P2759,Lucía Gómez,,NA,,Laboratorio,2023-12-04,
+P2760,Carlos Díaz,NA,NA,Miraflores,Pediatría,2023-06-08,NA
+P2761,Jorge Salas,68,M,Surco,Laboratorio,2024-02-15,
+P2762,Ana Torres,NA,F,San Isidro,Cardiología,2024-09-21,95.3
+P2763,Jorge Salas,,,Surco,Cardiología,2024-09-30,278.42
+P2764,Pedro Ruiz,,F,La Molina,,2023-12-27,
+P2765,Lucía Gómez,NA,F,NA,Cardiología,2024-10-30,328.56
+P2766,Lucía Gómez,NA,,Surco,Emergencia,2023-12-24,198.51
+P2767,Pedro Ruiz,NA,M,Surco,Cardiología,2023-04-02,NA
+P2768,Carlos Díaz,37,F,,Pediatría,2024-07-28,NA
+P2769,Pedro Ruiz,,NA,San Isidro,Pediatría,2024-12-02,NA
+P2770,Luis Pérez,14,M,San Borja,Emergencia,2024-03-05,NA
+P2771,Luis Pérez,NA,NA,Surco,NA,2023-04-14,
+P2772,Lucía Gómez,NA,M,NA,,2024-08-03,
+P2773,Ana Torres,,F,San Borja,Emergencia,2023-06-15,456.35
+P2774,Jorge Salas,71,,San Borja,NA,2024-09-15,405.92
+P2775,Lucía Gómez,,F,,,2024-07-26,NA
+P2776,Luis Pérez,,M,Miraflores,Laboratorio,2023-04-19,465.14
+P2777,Carlos Díaz,NA,,Miraflores,Odontología,2023-02-26,NA
+P2778,Pedro Ruiz,24,,Surco,NA,2023-10-22,212.87
+P2779,María López,NA,NA,NA,,2023-01-26,129.13
+P2780,Lucía Gómez,,F,Miraflores,,2023-12-15,NA
+P2781,Lucía Gómez,NA,M,Miraflores,Odontología,2024-09-12,
+P2782,Pedro Ruiz,NA,NA,NA,Laboratorio,2023-11-06,NA
+P2783,María López,79,NA,NA,NA,2023-02-14,
+P2784,Lucía Gómez,NA,,NA,,2023-03-08,209.57
+P2785,Carlos Díaz,,,NA,,2024-03-07,NA
+P2786,María López,NA,F,Surco,Odontología,2024-04-09,431.61
+P2787,Pedro Ruiz,,M,San Isidro,Cardiología,2023-12-24,353.11
+P2788,María López,1,NA,San Borja,Emergencia,2024-09-11,NA
+P2789,María López,,NA,Miraflores,Cardiología,2023-06-26,NA
+P2790,Jorge Salas,,NA,NA,Laboratorio,2023-12-08,488.52
+P2791,María López,3,F,NA,Pediatría,2023-08-17,NA
+P2792,Luis Pérez,NA,F,La Molina,Cardiología,2023-02-09,167.56
+P2793,María López,,NA,,Pediatría,2023-10-25,
+P2794,Jorge Salas,12,M,La Molina,Laboratorio,2024-09-06,79.59
+P2795,Lucía Gómez,34,,San Isidro,NA,2023-11-08,NA
+P2796,Ana Torres,32,NA,La Molina,Odontología,2023-02-21,189.46
+P2797,Carlos Díaz,,NA,La Molina,Laboratorio,2024-01-21,NA
+P2798,Pedro Ruiz,,M,Surco,NA,2024-03-11,235.09
+P2799,Lucía Gómez,NA,NA,La Molina,Emergencia,2023-01-18,
+P2800,María López,NA,F,San Isidro,Pediatría,2023-10-28,338.73
+P2801,Luis Pérez,61,,Surco,,2024-12-16,370.96
+P2802,Lucía Gómez,NA,NA,San Borja,Odontología,2023-03-18,
+P2803,Luis Pérez,,M,NA,NA,2023-01-17,NA
+P2804,Jorge Salas,,NA,Miraflores,Cardiología,2023-06-13,NA
+P2805,Lucía Gómez,,M,Miraflores,Emergencia,2024-05-13,NA
+P2806,Luis Pérez,NA,M,NA,Emergencia,2023-10-21,385.68
+P2807,Lucía Gómez,34,NA,NA,NA,2024-10-21,
+P2808,Jorge Salas,NA,F,Miraflores,Emergencia,2024-03-23,227.04
+P2809,Lucía Gómez,,,San Borja,Pediatría,2023-11-16,305.75
+P2810,Lucía Gómez,,NA,Surco,Emergencia,2023-07-26,
+P2811,Carlos Díaz,20,F,La Molina,Emergencia,2024-05-16,
+P2812,Jorge Salas,NA,F,San Isidro,Pediatría,2024-02-16,
+P2813,Lucía Gómez,46,F,Miraflores,Odontología,2024-10-27,97.14
+P2814,Pedro Ruiz,,F,NA,Emergencia,2023-02-24,NA
+P2815,Ana Torres,NA,,,Emergencia,2024-12-09,
+P2816,Carlos Díaz,NA,,San Borja,Pediatría,2023-10-25,234.23
+P2817,Pedro Ruiz,NA,NA,Surco,Emergencia,2024-02-28,NA
+P2818,Pedro Ruiz,,F,Miraflores,Laboratorio,2023-10-31,
+P2819,María López,,NA,San Isidro,Odontología,2023-02-10,
+P2820,Jorge Salas,,,Surco,Emergencia,2023-08-17,
+P2821,María López,87,NA,San Borja,Cardiología,2024-07-24,378.69
+P2822,Carlos Díaz,33,,NA,Pediatría,2023-11-13,138.57
+P2823,Pedro Ruiz,,F,San Isidro,Cardiología,2023-09-19,
+P2824,Ana Torres,NA,M,La Molina,Pediatría,2024-03-28,
+P2825,Lucía Gómez,,M,La Molina,NA,2024-05-31,
+P2826,Ana Torres,NA,F,,Cardiología,2023-12-02,
+P2827,María López,,M,NA,Emergencia,2024-07-07,207.94
+P2828,Ana Torres,58,M,San Isidro,Laboratorio,2024-11-22,NA
+P2829,Carlos Díaz,15,M,La Molina,Cardiología,2024-07-27,81.8
+P2830,Carlos Díaz,NA,,San Borja,NA,2023-07-29,
+P2831,Carlos Díaz,NA,F,Surco,Pediatría,2023-06-14,
+P2832,María López,NA,NA,Surco,Emergencia,2024-07-06,NA
+P2833,Jorge Salas,,M,La Molina,Laboratorio,2024-08-16,454.12
+P2834,Jorge Salas,44,,La Molina,Odontología,2024-12-07,175.11
+P2835,Lucía Gómez,NA,F,NA,Emergencia,2023-04-27,NA
+P2836,Jorge Salas,NA,NA,Miraflores,Pediatría,2023-10-22,
+P2837,Lucía Gómez,,NA,,Pediatría,2024-09-21,
+P2838,Carlos Díaz,46,M,Surco,Laboratorio,2024-03-29,
+P2839,Luis Pérez,NA,M,San Isidro,Odontología,2023-07-17,432.23
+P2840,Pedro Ruiz,20,F,La Molina,Emergencia,2023-06-29,NA
+P2841,Luis Pérez,,F,La Molina,Laboratorio,2023-07-13,
+P2842,Ana Torres,27,M,NA,Odontología,2024-01-05,229.49
+P2843,Luis Pérez,14,M,Surco,,2024-03-31,
+P2844,Lucía Gómez,,,La Molina,,2024-02-24,NA
+P2845,Carlos Díaz,,M,Miraflores,Odontología,2024-11-01,
+P2846,Jorge Salas,2,F,NA,Odontología,2023-12-26,355.25
+P2847,Carlos Díaz,76,M,Surco,Odontología,2024-07-24,
+P2848,Luis Pérez,,NA,San Borja,Pediatría,2024-04-22,NA
+P2849,Jorge Salas,NA,F,San Borja,NA,2024-07-22,NA
+P2850,Luis Pérez,65,M,Surco,Laboratorio,2023-07-05,
+P2851,Carlos Díaz,55,M,NA,Odontología,2024-02-16,
+P2852,Ana Torres,78,M,Miraflores,Laboratorio,2023-05-18,NA
+P2853,Pedro Ruiz,,M,Miraflores,Pediatría,2024-06-23,499.22
+P2854,Pedro Ruiz,73,M,La Molina,,2024-09-06,NA
+P2855,Ana Torres,NA,,,Pediatría,2024-12-23,NA
+P2856,María López,NA,F,Miraflores,Emergencia,2023-06-18,470.65
+P2857,Carlos Díaz,31,M,,NA,2024-09-29,51.46
+P2858,Pedro Ruiz,NA,NA,NA,Odontología,2023-06-01,NA
+P2859,Pedro Ruiz,4,F,La Molina,Pediatría,2024-04-25,NA
+P2860,Jorge Salas,NA,F,NA,Odontología,2024-01-04,
+P2861,Luis Pérez,,NA,San Borja,Cardiología,2023-05-25,
+P2862,Ana Torres,,M,San Borja,Pediatría,2023-10-17,340.61
+P2863,Carlos Díaz,,,Miraflores,Emergencia,2023-11-29,
+P2864,Pedro Ruiz,,F,NA,Emergencia,2024-07-12,
+P2865,Pedro Ruiz,,NA,Surco,Pediatría,2024-07-15,
+P2866,Lucía Gómez,46,F,San Borja,NA,2024-08-17,
+P2867,Carlos Díaz,NA,,San Borja,Cardiología,2024-03-15,
+P2868,Lucía Gómez,19,,Miraflores,,2024-10-20,NA
+P2869,Ana Torres,,M,La Molina,Odontología,2024-11-19,NA
+P2870,Jorge Salas,,NA,San Isidro,Pediatría,2023-01-31,NA
+P2871,Pedro Ruiz,NA,NA,San Borja,Pediatría,2023-03-15,
+P2872,Carlos Díaz,62,NA,,Odontología,2024-01-09,NA
+P2873,María López,,F,San Borja,Cardiología,2023-05-23,NA
+P2874,Luis Pérez,NA,,Surco,Laboratorio,2023-05-17,
+P2875,María López,59,,San Borja,,2023-06-04,
+P2876,Ana Torres,55,M,San Isidro,Odontología,2023-06-27,NA
+P2877,Jorge Salas,4,F,San Borja,NA,2023-03-18,108.78
+P2878,Lucía Gómez,NA,,La Molina,,2024-07-04,
+P2879,Lucía Gómez,20,M,Miraflores,,2024-07-30,NA
+P2880,Lucía Gómez,NA,NA,San Isidro,,2024-07-24,NA
+P2881,Pedro Ruiz,3,NA,San Borja,,2023-06-29,427.9
+P2882,Ana Torres,,M,San Isidro,Laboratorio,2023-01-21,
+P2883,Jorge Salas,,NA,Surco,Cardiología,2024-05-31,
+P2884,Jorge Salas,,,Surco,NA,2023-01-27,385.07
+P2885,Luis Pérez,18,F,Surco,,2024-11-04,NA
+P2886,Jorge Salas,24,F,Miraflores,Laboratorio,2023-12-28,
+P2887,Carlos Díaz,NA,F,San Isidro,Odontología,2023-06-08,NA
+P2888,Pedro Ruiz,,,San Borja,Odontología,2024-10-28,
+P2889,Jorge Salas,,NA,Surco,Cardiología,2023-02-19,NA
+P2890,María López,,NA,Miraflores,Odontología,2024-10-21,115.13
+P2891,Luis Pérez,NA,M,Miraflores,Odontología,2024-10-19,133.41
+P2892,Pedro Ruiz,52,NA,San Isidro,Pediatría,2023-11-23,281.79
+P2893,María López,24,M,NA,,2024-10-07,NA
+P2894,Pedro Ruiz,NA,,San Borja,Pediatría,2023-03-14,
+P2895,Ana Torres,8,NA,Miraflores,Emergencia,2024-12-15,209.28
+P2896,Jorge Salas,66,M,San Borja,Odontología,2023-06-27,454.94
+P2897,Lucía Gómez,13,NA,NA,Pediatría,2024-12-21,NA
+P2898,Ana Torres,37,M,La Molina,Emergencia,2024-10-17,NA
+P2899,Jorge Salas,NA,,San Borja,Odontología,2023-06-10,NA
+P2900,Carlos Díaz,,F,,Cardiología,2023-05-18,NA
+P2901,Lucía Gómez,69,F,,Odontología,2023-08-03,
+P2902,Pedro Ruiz,29,NA,,Emergencia,2023-01-05,NA
+P2903,Lucía Gómez,NA,M,La Molina,Laboratorio,2024-07-28,412.17
+P2904,Jorge Salas,69,NA,,Cardiología,2023-02-03,124.21
+P2905,Lucía Gómez,,F,,Odontología,2024-07-28,
+P2906,Ana Torres,,NA,La Molina,NA,2024-02-28,307.57
+P2907,Luis Pérez,NA,F,San Borja,Cardiología,2024-11-04,
+P2908,Jorge Salas,NA,F,Miraflores,Emergencia,2024-12-09,421.56
+P2909,Luis Pérez,83,NA,Miraflores,Emergencia,2023-07-20,
+P2910,María López,22,F,,,2024-12-20,NA
+P2911,Lucía Gómez,18,M,La Molina,NA,2023-04-03,189.46
+P2912,Carlos Díaz,0,NA,Surco,Emergencia,2024-06-17,NA
+P2913,Lucía Gómez,NA,M,,NA,2024-12-15,
+P2914,Lucía Gómez,34,M,Surco,,2023-07-16,245.05
+P2915,Carlos Díaz,NA,M,NA,NA,2024-09-27,
+P2916,Luis Pérez,,M,Surco,Odontología,2024-04-02,NA
+P2917,Luis Pérez,54,F,Surco,Odontología,2024-08-27,NA
+P2918,Ana Torres,28,NA,Surco,,2023-03-21,NA
+P2919,Ana Torres,86,M,San Isidro,NA,2024-09-30,NA
+P2920,Pedro Ruiz,NA,F,NA,Odontología,2023-09-24,NA
+P2921,Jorge Salas,NA,,San Borja,Pediatría,2023-01-30,
+P2922,Carlos Díaz,29,M,,Pediatría,2023-07-30,NA
+P2923,Pedro Ruiz,,F,San Borja,Pediatría,2023-02-27,NA
+P2924,Pedro Ruiz,,M,NA,Laboratorio,2023-06-08,
+P2925,Luis Pérez,11,,Miraflores,,2024-04-21,
+P2926,Jorge Salas,NA,,San Borja,NA,2024-06-03,
+P2927,Carlos Díaz,15,M,La Molina,Emergencia,2024-12-03,
+P2928,Jorge Salas,,F,,,2024-12-08,
+P2929,Pedro Ruiz,,F,NA,NA,2023-12-01,437.93
+P2930,Jorge Salas,,F,Surco,Emergencia,2023-08-18,NA
+P2931,Lucía Gómez,,F,Surco,Cardiología,2024-09-14,
+P2932,Luis Pérez,,,Miraflores,Cardiología,2023-04-01,NA
+P2933,Ana Torres,NA,,San Isidro,Emergencia,2024-08-15,287.4
+P2934,Jorge Salas,,M,San Isidro,,2023-05-19,151.5
+P2935,Jorge Salas,,M,NA,Cardiología,2023-11-17,129.77
+P2936,Lucía Gómez,,M,La Molina,NA,2023-02-05,383.48
+P2937,Carlos Díaz,NA,M,,Laboratorio,2023-04-25,77.63
+P2938,Carlos Díaz,NA,M,,Pediatría,2024-08-04,
+P2939,Jorge Salas,NA,,NA,NA,2023-03-15,
+P2940,Pedro Ruiz,,,Surco,Emergencia,2024-09-27,
+P2941,Luis Pérez,55,NA,NA,NA,2023-11-17,
+P2942,Jorge Salas,74,,San Borja,Emergencia,2023-02-12,NA
+P2943,Pedro Ruiz,NA,,San Isidro,Emergencia,2023-10-17,193.79
+P2944,Ana Torres,NA,NA,Surco,Odontología,2024-10-16,52.81
+P2945,Pedro Ruiz,NA,M,NA,NA,2024-05-24,341.27
+P2946,María López,NA,M,Surco,Cardiología,2024-05-03,NA
+P2947,Ana Torres,42,NA,San Isidro,Pediatría,2023-02-25,223.05
+P2948,Carlos Díaz,,M,La Molina,,2024-10-10,NA
+P2949,Carlos Díaz,16,NA,Miraflores,Pediatría,2023-08-28,
+P2950,Ana Torres,,NA,Surco,Emergencia,2024-04-16,148.89
+P2951,Jorge Salas,NA,F,La Molina,,2023-12-26,
+P2952,Pedro Ruiz,,,Surco,Pediatría,2023-02-25,NA
+P2953,Lucía Gómez,NA,,La Molina,Laboratorio,2024-08-09,NA
+P2954,Luis Pérez,,,,Cardiología,2024-10-18,NA
+P2955,Jorge Salas,NA,M,Miraflores,Odontología,2023-05-15,
+P2956,Ana Torres,NA,M,Miraflores,Odontología,2024-08-16,362.99
+P2957,Ana Torres,,M,,Cardiología,2023-04-27,
+P2958,Pedro Ruiz,,M,Miraflores,Odontología,2023-01-02,NA
+P2959,Lucía Gómez,,,San Borja,NA,2023-07-31,63.23
+P2960,Carlos Díaz,62,M,San Borja,Emergencia,2024-01-14,229.75
+P2961,María López,NA,M,NA,,2023-08-20,NA
+P2962,Pedro Ruiz,,M,La Molina,,2024-09-16,424.35
+P2963,Luis Pérez,17,NA,Surco,Odontología,2024-07-15,448.75
+P2964,María López,35,F,Surco,Pediatría,2023-03-21,209.13
+P2965,Pedro Ruiz,NA,F,La Molina,Laboratorio,2023-10-25,211.01
+P2966,Carlos Díaz,73,,,Cardiología,2024-01-28,381.54
+P2967,Jorge Salas,86,NA,San Borja,NA,2023-10-03,NA
+P2968,Carlos Díaz,,,La Molina,Laboratorio,2023-11-18,
+P2969,Pedro Ruiz,,,San Borja,Pediatría,2024-07-16,58.21
+P2970,Pedro Ruiz,NA,NA,,Cardiología,2024-04-14,397.42
+P2971,Luis Pérez,NA,F,Miraflores,Emergencia,2023-08-20,390.08
+P2972,Jorge Salas,81,M,NA,Laboratorio,2024-05-27,426.57
+P2973,Lucía Gómez,70,,San Isidro,,2023-01-09,
+P2974,María López,,NA,Miraflores,Laboratorio,2024-11-19,122.95
+P2975,Lucía Gómez,,M,San Isidro,Cardiología,2024-06-12,
+P2976,Ana Torres,,,Surco,Pediatría,2023-03-06,171.78
+P2977,Ana Torres,,F,San Borja,Cardiología,2024-09-24,360.8
+P2978,Ana Torres,,F,,Cardiología,2023-05-17,NA
+P2979,Carlos Díaz,NA,,San Borja,NA,2023-03-21,198.7
+P2980,María López,,NA,,Emergencia,2024-04-10,327.34
+P2981,Lucía Gómez,,,San Borja,Laboratorio,2024-01-29,
+P2982,Ana Torres,NA,F,San Borja,Odontología,2023-10-09,196.86
+P2983,Carlos Díaz,NA,F,NA,Laboratorio,2023-07-03,NA
+P2984,María López,NA,M,NA,Cardiología,2024-03-28,
+P2985,Jorge Salas,,F,Surco,Emergencia,2024-01-02,
+P2986,María López,,F,San Isidro,Pediatría,2023-02-16,269.22
+P2987,Lucía Gómez,NA,F,Surco,Emergencia,2024-04-23,
+P2988,Jorge Salas,,M,,Cardiología,2023-08-02,475.22
+P2989,Ana Torres,NA,F,Surco,Pediatría,2023-09-28,
+P2990,Jorge Salas,NA,NA,NA,Emergencia,2024-12-21,256.47
+P2991,Ana Torres,,NA,San Borja,Pediatría,2024-07-02,
+P2992,Ana Torres,41,,San Isidro,NA,2023-11-17,
+P2993,Lucía Gómez,NA,M,San Borja,Cardiología,2024-02-24,NA
+P2994,Luis Pérez,,NA,,Laboratorio,2024-08-05,NA
+P2995,Lucía Gómez,,F,San Borja,NA,2024-07-31,NA
+P2996,María López,,NA,NA,Emergencia,2024-05-21,50.4
+P2997,Ana Torres,NA,M,NA,,2024-05-01,
+P2998,María López,35,NA,San Isidro,Odontología,2023-12-12,NA
+P2999,Lucía Gómez,,NA,San Isidro,Laboratorio,2024-12-19,407.63
+P3000,Ana Torres,NA,M,San Borja,,2024-01-19,NA
